@@ -1,11 +1,5 @@
-.htaccess
-/config.php
-admin/config.php
-
-!index.html
-
-download/
-image/data/
-image/cache/
-system/cache/
-system/logs/
+# Windows files
+thumbs.db
+Thumbs.db
+desktop.ini
+Desktop.ini
