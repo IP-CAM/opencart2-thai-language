@@ -26,8 +26,8 @@ $_['column_amount']             = 'Amount';
 $_['column_action']             = 'Action';
 
 // Entry
-$_['entry_firstname']           = 'First Name';
-$_['entry_lastname']            = 'Last Name';
+$_['entry_firstname']           = 'ชื่อ';
+$_['entry_lastname']            = 'นามสกุล';
 $_['entry_email']               = 'E-Mail';
 $_['entry_telephone']           = 'Telephone';
 $_['entry_fax']                 = 'Fax';

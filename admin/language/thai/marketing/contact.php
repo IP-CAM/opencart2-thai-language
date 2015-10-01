@@ -9,7 +9,7 @@ $_['text_list']            = 'Mail List';
 $_['text_default']         = 'Default';
 $_['text_newsletter']      = 'All Newsletter Subscribers';
 $_['text_customer_all']    = 'All Customers';
-$_['text_customer_group']  = 'Customer Group';
+$_['text_customer_group']  = 'กลุ่มลูกค้า';
 $_['text_customer']        = 'Customers';
 $_['text_affiliate_all']   = 'All Affiliates';
 $_['text_affiliate']       = 'พันธมิตร';
@@ -18,7 +18,7 @@ $_['text_product']         = 'Products';
 // Entry
 $_['entry_store']          = 'From';
 $_['entry_to']             = 'To';
-$_['entry_customer_group'] = 'Customer Group';
+$_['entry_customer_group'] = 'กลุ่มลูกค้า';
 $_['entry_customer']       = 'Customer';
 $_['entry_affiliate']      = 'Affiliate';
 $_['entry_product']        = 'Products';

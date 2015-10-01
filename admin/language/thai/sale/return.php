@@ -14,7 +14,7 @@ $_['text_product']        = 'Product Information &amp; Reason for Return';
 $_['text_history']        = 'Add Return History';
 
 // Column
-$_['column_return_id']     = 'Return ID';
+$_['column_return_id']     = 'รหัสรายการคืน';
 $_['column_order_id']      = 'Order ID';
 $_['column_customer']      = 'Customer';
 $_['column_product']       = 'Product';
@@ -30,8 +30,8 @@ $_['column_action']        = 'Action';
 $_['entry_customer']      = 'Customer';
 $_['entry_order_id']      = 'Order ID';
 $_['entry_date_ordered']  = 'Order Date';
-$_['entry_firstname']     = 'First Name';
-$_['entry_lastname']      = 'Last Name';
+$_['entry_firstname']     = 'ชื่อ';
+$_['entry_lastname']      = 'นามสกุล';
 $_['entry_email']         = 'E-Mail';
 $_['entry_telephone']     = 'Telephone';
 $_['entry_product']       = 'Product';
@@ -43,7 +43,7 @@ $_['entry_return_reason'] = 'Return Reason';
 $_['entry_return_action'] = 'Return Action';
 $_['entry_return_status'] = 'Return Status';
 $_['entry_notify']        = 'Notify Customer';
-$_['entry_return_id']     = 'Return ID';
+$_['entry_return_id']     = 'รหัสรายการคืน';
 $_['entry_date_added']    = 'Date Added';
 $_['entry_date_modified'] = 'Date Modified';
 

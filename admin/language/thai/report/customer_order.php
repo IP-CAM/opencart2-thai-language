@@ -9,7 +9,7 @@ $_['text_all_status']       = 'All Statuses';
 // Column
 $_['column_customer']       = 'Customer Name';
 $_['column_email']          = 'E-Mail';
-$_['column_customer_group'] = 'Customer Group';
+$_['column_customer_group'] = 'กลุ่มลูกค้า';
 $_['column_status']         = 'Status';
 $_['column_orders']         = 'No. Orders';
 $_['column_products']       = 'No. Products';

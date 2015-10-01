@@ -3,9 +3,9 @@
 $_['heading_title']    = 'แผนผังไซต์';
 
 // Text
-$_['text_special']     = 'Special Offers';
+$_['text_special']     = 'ข้อเสนอพิเศษ';
 $_['text_account']     = 'บัญชีผู้ใช้ของฉัน';
-$_['text_edit']        = 'Account Information';
+$_['text_edit']        = 'ข้อมูลบัญชีผู้ใช้';
 $_['text_password']    = 'รหัสผ่าน';
 $_['text_address']     = 'สมุดที่อยู่';
 $_['text_history']     = 'ประวัติการสั่งซื้อ';

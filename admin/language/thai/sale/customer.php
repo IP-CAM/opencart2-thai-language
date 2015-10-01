@@ -15,7 +15,7 @@ $_['text_remove_ban_ip']    = 'Remove Ban IP';
 // Column
 $_['column_name']           = 'Customer Name';
 $_['column_email']          = 'E-Mail';
-$_['column_customer_group'] = 'Customer Group';
+$_['column_customer_group'] = 'กลุ่มลูกค้า';
 $_['column_status']         = 'Status';
 $_['column_date_added']     = 'Date Added';
 $_['column_comment']        = 'Comment';
@@ -27,9 +27,9 @@ $_['column_total']          = 'Total Accounts';
 $_['column_action']         = 'Action';
 
 // Entry
-$_['entry_customer_group']  = 'Customer Group';
-$_['entry_firstname']       = 'First Name';
-$_['entry_lastname']        = 'Last Name';
+$_['entry_customer_group']  = 'กลุ่มลูกค้า';
+$_['entry_firstname']       = 'ชื่อ';
+$_['entry_lastname']        = 'นามสกุล';
 $_['entry_email']           = 'E-Mail';
 $_['entry_telephone']       = 'Telephone';
 $_['entry_fax']             = 'Fax';
