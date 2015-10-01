@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Site Map';
+$_['heading_title']    = 'แผนผังไซต์';
 
 // Text
 $_['text_special']     = 'Special Offers';
@@ -13,5 +13,5 @@ $_['text_download']    = 'ดาวน์โหลด';
 $_['text_cart']        = 'รถเข็น';
 $_['text_checkout']    = 'ชำระเงิน';
 $_['text_search']      = 'ค้นหา';
-$_['text_information'] = 'Information';
-$_['text_contact']     = 'Contact Us';
+$_['text_information'] = 'ข้อมูล';
+$_['text_contact']     = 'ติดต่อเรา';

@@ -92,7 +92,7 @@ $_['button_uninstall']              = 'ถอนการติดตั้ง';
 $_['button_login']                  = 'เข้าสู่ระบบไปยังร้านค้า';
 $_['button_unlock']                 = 'ปลดล็อคบัญชีผู้ใช้';
 $_['button_link']                   = 'ลิ้งค์';
-$_['button_currency']               = 'โหลดค่าเงินใหม่';
+$_['button_currency']               = 'โหลดสกุลเงินใหม่';
 $_['button_apply']                  = 'นำไปใช้';
 
 // Tab

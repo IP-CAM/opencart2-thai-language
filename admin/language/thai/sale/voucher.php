@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']     = 'Gift Vouchers';
+$_['heading_title']     = 'บัตรกำนัล';
 
 // Text
 $_['text_success']      = 'Success: You have modified vouchers!';
