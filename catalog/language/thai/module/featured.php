@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title'] = 'Featured';
+$_['heading_title'] = 'แนะนำ';
 
 // Text
-$_['text_tax']      = 'Ex Tax:';
+$_['text_tax']      = 'ไม่รวมภาษี:';

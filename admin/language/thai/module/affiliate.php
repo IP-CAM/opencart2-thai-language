@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Affiliate';
+$_['heading_title']    = 'พันธมิตร';
 
 $_['text_module']      = 'Modules';
 $_['text_success']     = 'Success: You have modified affiliate module!';

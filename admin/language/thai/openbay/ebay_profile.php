@@ -79,7 +79,7 @@ $_['text_general_price_help']   		= '0 is default, -10 will reduce by 10%, 10 wi
 
 //General profile options
 $_['text_profile_name']         		= 'Name';
-$_['text_profile_default']      		= 'Default';
+$_['text_profile_default']      		= 'ค่าเริ่มต้น';
 $_['text_profile_type']         		= 'Type';
 $_['text_profile_desc']         		= 'Description';
 $_['text_profile_action']       		= 'Action';

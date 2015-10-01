@@ -3,4 +3,4 @@
 $_['heading_title'] = 'พิเศษ';
 
 // Text
-$_['text_tax']      = 'Ex Tax:';
+$_['text_tax']      = 'ไม่รวมภาษี:';

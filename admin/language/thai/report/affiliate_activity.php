@@ -12,13 +12,13 @@ $_['text_payment']      = '<a href="affiliate_id=%d">%s</a> updated their paymen
 $_['text_register']     = '<a href="affiliate_id=%d">%s</a> registered for a new account.';
 
 // Column
-$_['column_affiliate']  = 'Affiliate';
+$_['column_affiliate']  = 'พันธมิตร';
 $_['column_comment']    = 'Comment';
 $_['column_ip']         = 'IP';
 $_['column_date_added'] = 'Date Added';
 
 // Entry
-$_['entry_affiliate']   = 'Affiliate';
+$_['entry_affiliate']   = 'พันธมิตร';
 $_['entry_ip']          = 'IP';
 $_['entry_date_start']  = 'Date Start';
 $_['entry_date_end']    = 'Date End';
