@@ -12,7 +12,7 @@ $_['text_customer_all']    = 'All Customers';
 $_['text_customer_group']  = 'Customer Group';
 $_['text_customer']        = 'Customers';
 $_['text_affiliate_all']   = 'All Affiliates';
-$_['text_affiliate']       = 'Affiliates';
+$_['text_affiliate']       = 'พันธมิตร';
 $_['text_product']         = 'Products';
 
 // Entry
