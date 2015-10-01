@@ -13,7 +13,7 @@ $_['text_amount']         = 'Fixed Amount';
 // Column
 $_['column_name']         = 'Coupon Name';
 $_['column_code']         = 'Code';
-$_['column_discount']     = 'Discount';
+$_['column_discount']     = 'ส่วนลด';
 $_['column_date_start']   = 'Date Start';
 $_['column_date_end']     = 'Date End';
 $_['column_status']       = 'Status';
@@ -27,7 +27,7 @@ $_['column_action']       = 'Action';
 $_['entry_name']          = 'Coupon Name';
 $_['entry_code']          = 'Code';
 $_['entry_type']          = 'Type';
-$_['entry_discount']      = 'Discount';
+$_['entry_discount']      = 'ส่วนลด';
 $_['entry_logged']        = 'Customer Login';
 $_['entry_shipping']      = 'Free Shipping';
 $_['entry_total']         = 'Total Amount';

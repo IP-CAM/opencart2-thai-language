@@ -85,7 +85,7 @@ $_['text_profile_desc']         		= 'Description';
 $_['text_profile_action']       		= 'Action';
 
 // Profile types
-$_['text_type_shipping']       			= 'Shipping';
+$_['text_type_shipping']       			= 'การส่งสินค้า';
 $_['text_type_returns']       			= 'คืนสินค้า';
 $_['text_type_template']       			= 'Template &amp; gallery';
 $_['text_type_general']       			= 'General settings';
