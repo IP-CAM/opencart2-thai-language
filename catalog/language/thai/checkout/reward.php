@@ -1,12 +1,12 @@
 <?php
 // Heading
-$_['heading_title'] = 'Use Reward Points (Available %s)';
+$_['heading_title'] = 'ใช้แต้มรางวัล (มี %s)';
 
 // Text
 $_['text_success']  = 'สำเร็จ: แต้มรางวัลส่วนลดของคุณได้ถูกนำไปใช้แล้ว!';
 
 // Entry
-$_['entry_reward']  = 'Points to use (Max %s)';
+$_['entry_reward']  = 'แต้มที่จะใช้ (สูงสุด %s)';
 
 // Error
 $_['error_reward']  = 'คำเตือน: กรุณากรอกจำนวนแต้มรางวัลที่จะใช้!';

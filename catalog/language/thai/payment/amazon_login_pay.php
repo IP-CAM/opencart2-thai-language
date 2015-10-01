@@ -14,7 +14,7 @@ $_['text_lpa']					= 'Login and Pay with Amazon';
 $_['text_enter_coupon']			= 'Enter your coupon code here. If you don\'t have one, leave it empty.';
 $_['text_coupon']				= 'Coupon';
 $_['text_tax_other']			= 'Taxes / Other handling fees';
-$_['text_success_title']		= 'Your order has been placed!';
+$_['text_success_title']		= 'รายการสั่งซื้อของคุณสำเร็จแล้ว!';
 $_['text_payment_success']		= 'Your order was successfully placed. Order details are below';
 
 // Error

@@ -5,15 +5,15 @@ $_['express_text_title']      = 'Confirm order';
 // Text
 $_['text_title']              = 'PayPal Express Checkout';
 $_['button_continue']         = 'ดำเนินการต่อ';
-$_['text_cart']               = 'Shopping Cart';
+$_['text_cart']               = 'รถเข็น';
 $_['text_shipping_updated']   = 'Shipping service updated';
-$_['text_trial']              = '%s every %s %s for %s payments then ';
-$_['text_recurring']          = '%s every %s %s';
-$_['text_recurring_item']     = 'Recurring Item';
-$_['text_length']             = ' for %s payments';
+$_['text_trial']              = '%s ทุกๆ %s %s สำหรับ %s การชำระเงิน ';
+$_['text_recurring']          = '%s ทุกๆ %s %s';
+$_['text_recurring_item']     = 'รายการผ่อนชำระ';
+$_['text_length']             = ' สำหรับการชำระเงิน %s';
 
 // Entry
-$_['express_entry_coupon']    = 'Enter your coupon here:';
+$_['express_entry_coupon']    = 'กรอกคูปองของคุณที่นี่:';
 
 // Button
 $_['button_express_coupon']   = 'Add';

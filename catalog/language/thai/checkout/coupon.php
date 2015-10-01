@@ -1,13 +1,13 @@
 <?php
 // Heading
-$_['heading_title'] = 'Use Coupon Code';
+$_['heading_title'] = 'ใช้รหัสคูปอง';
 
 // Text
 $_['text_success']  = 'สำเร็จ: คูปองส่วนลดของคุณได้ถูกนำไปใช้แล้ว!';
 
 // Entry
-$_['entry_coupon']  = 'Enter your coupon here';
+$_['entry_coupon']  = 'กรอกคูปองของคุณที่นี่';
 
 // Error
-$_['error_coupon']  = 'คำเตือน: Coupon is either invalid, expired or reached its usage limit!';
-$_['error_empty']   = 'คำเตือน: Please enter a coupon code!';
+$_['error_coupon']  = 'คำเตือน: คูปองไม่ถูกต้อง, มันหมดอายุหรือถึงขีดจำกัดการใช้งานแล้ว!';
+$_['error_empty']   = 'คำเตือน: โปรดกรอกรหัสคูปอง!';

@@ -15,5 +15,5 @@ $_['entry_confirm']   = 'Confirm';
 
 // Error
 $_['error_email']     = 'คำเตือน: The E-Mail Address was not found in our records, please try again!';
-$_['error_password']  = 'Password must be between 3 and 20 characters!';
+$_['error_password']  = 'รหัสผ่านต้องมีอักขระระหว่าง 3 ถึง 20 ตัวอักษร!';
 $_['error_confirm']   = 'Password and password confirmation do not match!';
