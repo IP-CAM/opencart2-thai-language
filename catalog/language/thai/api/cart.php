@@ -1,10 +1,10 @@
 <?php
 // Text
-$_['text_success']     = 'สำเร็จ: You have modified your shopping cart!';
+$_['text_success']     = 'สำเร็จ: คุณได้ปรับปรุงรถเข็นของคุณแล้ว!';
 
 // Error
-$_['error_permission'] = 'คำเตือน: You do not have permission to access the API!';
-$_['error_stock']      = 'Products marked with *** are not available in the desired quantity or not in stock!';
-$_['error_minimum']    = 'Minimum order amount for %s is %s!';
-$_['error_store']      = 'Product can not be bought from the store you have choosen!';
+$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้เข้าถึง API นี้!';
+$_['error_stock']      = 'สินค้าที่มีเครื่องหมาย *** นั้นไม่มีตามจำนวนที่ต้องการหรือไม่มีในสต็อก!';
+$_['error_minimum']    = 'จำนวนสั่งซื้อขั้นต่ำของ %s คือ %s!';
+$_['error_store']      = 'สินค้าไม่สามารถซื้อได้จากร้านค้าที่คุณเลือก!';
 $_['error_required']   = '%s ต้องกรอก!';

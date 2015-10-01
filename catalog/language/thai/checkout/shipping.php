@@ -16,5 +16,5 @@ $_['entry_postcode']       = 'รหัสไปรษณีย์';
 $_['error_postcode']       = 'รหัสไปรษณีย์ต้องมีอักขระระหว่าง 2 ถึง 10 ตัวอักษร!';
 $_['error_country']        = 'กรุณาเลือกประเทศ!';
 $_['error_zone']           = 'กรุณาเลือกจังหวัด/รัฐ!';
-$_['error_shipping']       = 'คำเตือน: Shipping method required!';
+$_['error_shipping']       = 'คำเตือน: ต้องการวิธีจัดส่ง!';
 $_['error_no_shipping']    = 'คำเตือน: No Shipping options are available. Please <a href="%s">contact us</a> for assistance!';

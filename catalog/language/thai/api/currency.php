@@ -1,7 +1,7 @@
 <?php
 // Text
-$_['text_success']     = 'สำเร็จ: Your currency has been changed!';
+$_['text_success']     = 'สำเร็จ: ค่าเงินของคุณถูกเปลี่ยนแล้ว!';
 
 // Error
-$_['error_permission'] = 'คำเตือน: You do not have permission to access the API!';
-$_['error_currency']   = 'คำเตือน: Currency code is invalid!';
+$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้เข้าถึง API นี้!';
+$_['error_currency']   = 'คำเตือน: รหัสค่าเงินไม่ถูกต้อง!';

@@ -1,9 +1,9 @@
 <?php
 // Text
-$_['text_success']       = 'You have successfully modified customers';
+$_['text_success']       = 'คุณได้ทำการแก้ไขลูกค้าสำเร็จ';
 
 // Error
-$_['error_permission']   = 'คำเตือน: You do not have permission to access the API!';
+$_['error_permission']   = 'คำเตือน: คุณไม่ได้รับอนุญาตให้เข้าถึง API นี้!';
 $_['error_firstname']    = 'ชื่อต้องมีอักขระระหว่าง 1 ถึง 32 ตัวอักษร!';
 $_['error_lastname']     = 'นามสกุลต้องมีอักขระระหว่าง 1 ถึง 32 ตัวอักษร!';
 $_['error_email']        = 'รูปแบบอีเมลล์ไม่ถูกต้อง!';

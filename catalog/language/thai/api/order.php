@@ -1,14 +1,14 @@
 <?php
 // Text
-$_['text_success']           = 'สำเร็จ: You have modified orders!';
+$_['text_success']           = 'สำเร็จ: คุณได้แก้ไขรายการสั่งซื้อแล้ว!';
 
 // Error
-$_['error_permission']       = 'คำเตือน: You do not have permission to access the API!';
-$_['error_customer']         = 'Customer details needs to be set!';
-$_['error_payment_address']  = 'Payment address required!';
-$_['error_payment_method']   = 'Payment method required!';
-$_['error_shipping_address'] = 'Shipping address required!';
-$_['error_shipping_method']  = 'Shipping method required!';
-$_['error_stock']            = 'Products marked with *** are not available in the desired quantity or not in stock!';
-$_['error_minimum']          = 'Minimum order amount for %s is %s!';
-$_['error_not_found']        = 'คำเตือน: Order could not be found!';
+$_['error_permission']       = 'คำเตือน: คุณไม่ได้รับอนุญาตให้เข้าถึง API นี้!';
+$_['error_customer']         = 'ต้องกำหนดรายละเอียดลูกค้า!';
+$_['error_payment_address']  = 'ที่อยู่การชำระเงินต้องกรอก!';
+$_['error_payment_method']   = 'วิธีการชำระเงินต้องกรอก!';
+$_['error_shipping_address'] = 'ที่อยู่ขนส่งต้องกรอก!';
+$_['error_shipping_method']  = 'วิธีจัดส่งต้องกรอก!';
+$_['error_stock']            = 'สินค้าที่มีเครื่องหมาย *** นั้นไม่มีตามจำนวนที่ต้องการหรือไม่มีในสต็อก!';
+$_['error_minimum']          = 'จำนวนสั่งซื้อขั้นต่ำของ %s คือ %s!';
+$_['error_not_found']        = 'คำเตือน: ไม่พบรายการสั่งซื้อ!';

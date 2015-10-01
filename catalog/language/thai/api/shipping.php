@@ -1,18 +1,18 @@
 <?php
 // Text
-$_['text_address']       = 'สำเร็จ: Shipping address has been set!';
-$_['text_method']        = 'สำเร็จ: Shipping method has been set!';
+$_['text_address']       = 'สำเร็จ: ที่อยู่ขนส่งได้ถูกกำหนดแล้ว!';
+$_['text_method']        = 'สำเร็จ: วิธีจัดส่งได้ถูกกำหนดแล้ว!';
 
 // Error
-$_['error_permission']   = 'คำเตือน: You do not have permission to access the API!';
+$_['error_permission']   = 'คำเตือน: คุณไม่ได้รับอนุญาตให้เข้าถึง API นี้!';
 $_['error_firstname']    = 'ชื่อต้องมีอักขระระหว่าง 1 ถึง 32 ตัวอักษร!';
 $_['error_lastname']     = 'นามสกุลต้องมีอักขระระหว่าง 1 ถึง 32 ตัวอักษร!';
 $_['error_address_1']    = 'ที่อยู่ต้องมีอักขระระหว่าง 3 ถึง 128 ตัวอักษร!';
-$_['error_city']         = 'City must be between 3 and 128 characters!';
-$_['error_postcode']     = 'Postcode must be between 2 and 10 characters for this country!';
+$_['error_city']         = 'เมืองต้องมีอักขระระหว่าง 3 ถึง 128 ตัวอักษร!';
+$_['error_postcode']     = 'รหัสไปรษณีย์ต้องมีอักขระระหว่าง 2 ถึง 10 ตัวอักษรสำหรับประเทศนี้!';
 $_['error_country']      = 'กรุณาเลือกประเทศ!';
 $_['error_zone']         = 'กรุณาเลือกจังหวัด/รัฐ!';
 $_['error_custom_field'] = '%s ต้องกรอก!';
-$_['error_address']      = 'คำเตือน: Shipping address required!';
-$_['error_method']       = 'คำเตือน: Shipping method required!';
-$_['error_no_shipping']  = 'คำเตือน: No Shipping options are available!';
+$_['error_address']      = 'คำเตือน: ต้องการที่อยู่ขนส่ง!';
+$_['error_method']       = 'คำเตือน: ต้องการวิธีจัดส่ง!';
+$_['error_no_shipping']  = 'คำเตือน: ไม่มีตัวเลือกการจัดส่งให้!';

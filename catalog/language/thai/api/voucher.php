@@ -1,13 +1,13 @@
 <?php
 // Text
-$_['text_success']     = 'สำเร็จ: Your gift voucher discount has been applied!';
-$_['text_cart']        = 'สำเร็จ: You have modified your shopping cart!';
+$_['text_success']     = 'สำเร็จ: บัตรกำนัลของคุณได้ถูกนำไปใช้แล้ว!';
+$_['text_cart']        = 'สำเร็จ: คุณได้ปรับปรุงรถเข็นของคุณแล้ว!';
 
-$_['text_for']         = '%s Gift Certificate for %s';
+$_['text_for']         = '%s บัตรกำนัลสำหรับ %s';
 
 // Error
-$_['error_permission'] = 'คำเตือน: You do not have permission to access the API!';
-$_['error_voucher']    = 'คำเตือน: Gift Voucher is either invalid or the balance has been used up!';
+$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้เข้าถึง API นี้!';
+$_['error_voucher']    = 'คำเตือน: บัตรกำนัลนี้ไม่ถูกต้องหรือจำนวนนี้ได้ถูกใช้ไปแล้ว!';
 $_['error_to_name']    = 'ชื่อผู้รับต้องมีอักขระระหว่าง 1 ถึง 64 ตัวอักษร!';
 $_['error_from_name']  = 'ชื่อคุณต้องมีอักขระระหว่าง 1 ถึง 64 ตัวอักษร!';
 $_['error_email']      = 'รูปแบบอีเมลล์ไม่ถูกต้อง!';

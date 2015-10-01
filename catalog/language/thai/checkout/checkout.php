@@ -87,8 +87,8 @@ $_['error_country']                  = 'กรุณาเลือกประ�
 $_['error_zone']                     = 'กรุณาเลือกจังหวัด/รัฐ!';
 $_['error_agree']                    = 'คำเตือน: คุณต้องยอมรับ %s!';
 $_['error_address']                  = 'คำเตือน: You must select address!';
-$_['error_shipping']                 = 'คำเตือน: Shipping method required!';
+$_['error_shipping']                 = 'คำเตือน: ต้องการวิธีจัดส่ง!';
 $_['error_no_shipping']              = 'คำเตือน: No Shipping options are available. Please <a href="%s">contact us</a> for assistance!';
-$_['error_payment']                  = 'คำเตือน: Payment method required!';
+$_['error_payment']                  = 'คำเตือน: ต้องการวิธีการชำระเงิน!';
 $_['error_no_payment']               = 'คำเตือน: No Payment options are available. Please <a href="%s">contact us</a> for assistance!';
 $_['error_custom_field']             = '%s ต้องกรอก!';

@@ -1,9 +1,9 @@
 <?php
 // Text
-$_['text_success']     = 'สำเร็จ: Your reward points discount has been applied!';
+$_['text_success']     = 'สำเร็จ: แต้มรางวัลส่วนลดของคุณได้ถูกนำไปใช้แล้ว!';
 
 // Error
-$_['error_permission'] = 'คำเตือน: You do not have permission to access the API!';
-$_['error_reward']     = 'คำเตือน: Please enter the amount of reward points to use!';
-$_['error_points']     = 'คำเตือน: You don\'t have %s reward points!';
-$_['error_maximum']    = 'คำเตือน: The maximum number of points that can be applied is %s!';
+$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้เข้าถึง API นี้!';
+$_['error_reward']     = 'คำเตือน: กรุณากรอกจำนวนแต้มรางวัลที่จะใช้!';
+$_['error_points']     = 'คำเตือน: คุณไม่มี %s แต้มรางวัล!';
+$_['error_maximum']    = 'คำเตือน: จำนวนสูงสุดของแต้มที่จะนำไปใช้ได้คือ %s!';

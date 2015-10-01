@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_success'] = 'สำเร็จ: API session successfully started!';
+$_['text_success'] = 'สำเร็จ: เซสชั่น API เริ่มต้นสำเร็จ!';
 
 // Error
-$_['error_login']  = 'คำเตือน: No match for Username and/or Password.';
+$_['error_login']  = 'คำเตือน: ชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง.';

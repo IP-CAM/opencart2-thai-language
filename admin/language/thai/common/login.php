@@ -15,5 +15,5 @@ $_['entry_password'] = 'Password';
 $_['button_login']   = 'Login';
 
 // Error
-$_['error_login']    = 'No match for Username and/or Password.';
+$_['error_login']    = 'ชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง.';
 $_['error_token']    = 'Invalid token session. Please login again.';

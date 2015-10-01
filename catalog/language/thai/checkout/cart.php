@@ -4,7 +4,7 @@ $_['heading_title']            = 'Shopping Cart';
 
 // Text
 $_['text_success']             = 'สำเร็จ: คุณได้เพิ่ม <a href="%s">%s</a> ลงใน <a href="%s">รถเข็นของคุณแล้ว</a>!';
-$_['text_remove']              = 'สำเร็จ: You have modified your shopping cart!';
+$_['text_remove']              = 'สำเร็จ: คุณได้ปรับปรุงรถเข็นของคุณแล้ว!';
 $_['text_login']               = 'Attention: You must <a href="%s">login</a> or <a href="%s">create an account</a> to view prices!';
 $_['text_items']               = '%s item(s) - %s';
 $_['text_points']              = 'Reward Points: %s';
@@ -35,8 +35,8 @@ $_['column_price']             = 'ราคาต่อหน่วย';
 $_['column_total']             = 'ทั้งหมด';
 
 // Error
-$_['error_stock']              = 'Products marked with *** are not available in the desired quantity or not in stock!';
-$_['error_minimum']            = 'Minimum order amount for %s is %s!';
+$_['error_stock']              = 'สินค้าที่มีเครื่องหมาย *** นั้นไม่มีตามจำนวนที่ต้องการหรือไม่มีในสต็อก!';
+$_['error_minimum']            = 'จำนวนสั่งซื้อขั้นต่ำของ %s คือ %s!';
 $_['error_required']           = '%s ต้องกรอก!';
 $_['error_product']            = 'คำเตือน: There are no products in your cart!';
 $_['error_recurring_required'] = 'Please select a payment recurring!';

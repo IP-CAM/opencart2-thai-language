@@ -3,7 +3,7 @@
 $_['heading_title'] = 'Use Coupon Code';
 
 // Text
-$_['text_success']  = 'สำเร็จ: Your coupon discount has been applied!';
+$_['text_success']  = 'สำเร็จ: คูปองส่วนลดของคุณได้ถูกนำไปใช้แล้ว!';
 
 // Entry
 $_['entry_coupon']  = 'Enter your coupon here';

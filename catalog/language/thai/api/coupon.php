@@ -1,7 +1,7 @@
 <?php
 // Text
-$_['text_success']     = 'สำเร็จ: Your coupon discount has been applied!';
+$_['text_success']     = 'สำเร็จ: คูปองส่วนลดของคุณได้ถูกนำไปใช้แล้ว!';
 
 // Error
-$_['error_permission'] = 'คำเตือน: You do not have permission to access the API!';
-$_['error_coupon']     = 'คำเตือน: Coupon is either invalid, expired or reached it\'s usage limit!';
+$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้เข้าถึง API นี้!';
+$_['error_coupon']     = 'คำเตือน: คูปองนี้มีสิ่งที่ไม่ถูกต้อง, มันหมดอายุ หรือหมดเขตแล้ว!';
