@@ -8,7 +8,7 @@ $_['text_current_refunds']			= 'Refunds have already been done for this transact
 $_['text_refund']					= 'Refund';
 
 // Entry
-$_['entry_transaction_id']			= 'Transaction ID';
+$_['entry_transaction_id']			= 'รหัสการทำธุรกรรม';
 $_['entry_full_refund']				= 'Full refund';
 $_['entry_amount']					= 'Amount';
 $_['entry_message']					= 'Message';

@@ -9,7 +9,7 @@ $_['text_edit']                     = 'Edit Payza';
 
 // Entry
 $_['entry_merchant']				= 'Merchant ID';
-$_['entry_security']				= 'Security Code';
+$_['entry_security']				= 'รหัสความปลอดภัย';
 $_['entry_callback']				= 'Alert URL';
 $_['entry_total']					= 'Total';
 $_['entry_order_status']			= 'Order Status';

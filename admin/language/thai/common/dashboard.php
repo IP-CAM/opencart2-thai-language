@@ -15,8 +15,8 @@ $_['text_order']                   = 'Orders';
 $_['text_customer']                = 'Customers';
 $_['text_day']                     = 'Today';
 $_['text_week']                    = 'Week';
-$_['text_month']                   = 'Month';
-$_['text_year']                    = 'Year';
+$_['text_month']                   = 'เดือน';
+$_['text_year']                    = 'ปี';
 $_['text_view']                    = 'View more...';
 
 // Error

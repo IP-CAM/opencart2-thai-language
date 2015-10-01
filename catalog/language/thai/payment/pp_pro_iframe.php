@@ -1,7 +1,7 @@
 <?php
 // Text
-$_['text_title']				= 'Credit or Debit Card';
-$_['text_secure_connection']	= 'Creating a secure connection...';
+$_['text_title']				= 'บัตรเครดิตหรือเดบิต';
+$_['text_secure_connection']	= 'กำลังสร้างการเชื่อมต่อที่ปลอดภัย...';
 
 // Error
-$_['error_connection']			= 'Could not connect to PayPal. Please contact the shop\'s administrator for assistance or choose a different payment method.';
+$_['error_connection']			= 'ไม่สามารถเชื่อมต่อไปยัง PayPal. โปรดติดต่อผู้ดูแลร้านเพื่อขอคำแนะนำหรือเลือกวิธีชำระเงินอื่นๆ.';

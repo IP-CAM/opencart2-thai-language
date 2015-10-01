@@ -23,7 +23,7 @@ $_['text_firstdata']				 = '<img src="view/image/payment/firstdata.png" alt="Fir
 $_['text_payment_info']				 = 'Payment information';
 $_['text_capture_status']			 = 'Payment captured';
 $_['text_void_status']				 = 'Payment voided';
-$_['text_order_ref']				 = 'Order ref';
+$_['text_order_ref']				 = 'อ้างอิงการสั่งซื้อ';
 $_['text_order_total']				 = 'Total authorised';
 $_['text_total_captured']			 = 'Total captured';
 $_['text_transactions']				 = 'Transactions';

@@ -8,7 +8,7 @@ $_['text_success']		 = 'Success: You have modified bank transfer details!';
 $_['text_edit']          = 'Edit Bank Transfer';
 
 // Entry
-$_['entry_bank']		 = 'Bank Transfer Instructions';
+$_['entry_bank']		 = 'คำแนะนำในการโอนเงิน';
 $_['entry_total']		 = 'Total';
 $_['entry_order_status'] = 'Order Status';
 $_['entry_geo_zone']	 = 'Geo Zone';

@@ -1,10 +1,10 @@
 <?php
 // Text
-$_['text_title']				= 'Credit Card / Debit Card (Web Payment Software)';
-$_['text_credit_card']			= 'Credit Card Details';
+$_['text_title']				= 'บัตรเครดิต / บัตรเดบิต (Web Payment Software)';
+$_['text_credit_card']			= 'รายละเอียดบัตรเครดิต';
 
 // Entry
-$_['entry_cc_owner']			= 'Card Owner';
-$_['entry_cc_number']			= 'Card Number';
-$_['entry_cc_expire_date']		= 'Card Expiry Date';
-$_['entry_cc_cvv2']				= 'Card Security Code (CVV2)';
+$_['entry_cc_owner']			= 'เจ้าของบัตร';
+$_['entry_cc_number']			= 'หมายเลขบัตร';
+$_['entry_cc_expire_date']		= 'วันที่บัตรหมดอายุ';
+$_['entry_cc_cvv2']				= 'รหัสความปลอดภัยบนบัตร (CVV2)';

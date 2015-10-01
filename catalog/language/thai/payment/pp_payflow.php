@@ -1,24 +1,24 @@
 <?php
 // Text
-$_['text_title']				= 'Credit or Debit Card (Processed securely by PayPal)';
-$_['text_credit_card']			= 'Credit Card Details';
-$_['text_start_date']			= '(if available)';
-$_['text_issue']				= '(for Maestro and Solo cards only)';
-$_['text_wait']					= 'Please wait!';
+$_['text_title']				= 'บัตรเครดิตหรือเดบิต (Processed securely by PayPal)';
+$_['text_credit_card']			= 'รายละเอียดบัตรเครดิต';
+$_['text_start_date']			= '(ถ้ามี)';
+$_['text_issue']				= '(สำหรับบัตร Maestro และ Solo เท่านั้น)';
+$_['text_wait']					= 'โปรดรอ!';
 
 // Entry
-$_['entry_cc_owner']			= 'Card Owner:';
-$_['entry_cc_type']				= 'Card Type:';
-$_['entry_cc_number']			= 'Card Number:';
-$_['entry_cc_start_date']		= 'Card Valid From Date:';
-$_['entry_cc_expire_date']		= 'Card Expiry Date:';
-$_['entry_cc_cvv2']				= 'Card Security Code (CVV2):';
-$_['entry_cc_issue']			= 'Card Issue Number:';
+$_['entry_cc_owner']			= 'เจ้าของบัตร:';
+$_['entry_cc_type']				= 'ประเภทบัตร:';
+$_['entry_cc_number']			= 'หมายเลขบัตร:';
+$_['entry_cc_start_date']		= 'บัตรเริ่มเปิดใช้ตั้งแต่วันที่:';
+$_['entry_cc_expire_date']		= 'วันที่บัตรหมดอายุ:';
+$_['entry_cc_cvv2']				= 'รหัสความปลอดภัยบนบัตร (CVV2):';
+$_['entry_cc_issue']			= 'หมายเลขเจ้าของบัตร:';
 
 // Error
-$_['error_required']			= 'คำเตือน: All payment information fields are required.';
-$_['error_general']				= 'คำเตือน: A general problem has occurred with the transaction. Please try again.';
-$_['error_config']				= 'คำเตือน: Payment module configuration error. Please verify the login credentials.';
-$_['error_address']				= 'คำเตือน: A match of the Payment Address City, State, and Postal Code failed. Please try again.';
-$_['error_declined']			= 'คำเตือน: This transaction has been declined. Please try again.';
-$_['error_invalid']				= 'คำเตือน: The provided credit card information is invalid. Please try again.';
+$_['error_required']			= 'คำเตือน: ต้องการข้อมูลการชำระเงินทั้งหมด.';
+$_['error_general']				= 'คำเตือน: เกิดปัญหาทั่วไปกับการทำธุรกรรม. โปรดลองอีกครั้ง.';
+$_['error_config']				= 'คำเตือน: การกำหนดค่าโมดูลชำระเงินมีข้อผิดพลาด. โปรดตรวจสอบการเข้าสู่ระบบ.';
+$_['error_address']				= 'คำเตือน: พบข้อมูลไม่ตรงกันระหว่างที่อยู่, รัฐ, และรหัสไปรษณีย์. โปรดลองอีกครั้ง.';
+$_['error_declined']			= 'คำเตือน: การทำธุรกรรมนี้ถูกปฏิเสธ. โปรดลองอีกครั้ง.';
+$_['error_invalid']				= 'คำเตือน: ข้อมูลบัตรเครดิตไม่ถูกต้อง. โปรดลองอีกครั้ง.';

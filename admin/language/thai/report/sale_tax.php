@@ -4,7 +4,7 @@ $_['heading_title']     = 'Tax Report';
 
 // Text
 $_['text_list']         = 'Tax List';
-$_['text_year']         = 'Years';
+$_['text_year']         = 'ปีs';
 $_['text_month']        = 'Months';
 $_['text_week']         = 'Weeks';
 $_['text_day']          = 'Days';

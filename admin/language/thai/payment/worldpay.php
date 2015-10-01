@@ -62,7 +62,7 @@ $_['error_client_key']			 = 'Client Key Required!';
 // Order page - payment tab
 $_['text_payment_info']			 = 'Payment information';
 $_['text_refund_status']		 = 'Payment refund';
-$_['text_order_ref']			 = 'Order ref';
+$_['text_order_ref']			 = 'อ้างอิงการสั่งซื้อ';
 $_['text_order_total']			 = 'Total authorised';
 $_['text_total_released']		 = 'Total released';
 $_['text_transactions']			 = 'Transactions';

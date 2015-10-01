@@ -9,7 +9,7 @@ $_['text_searching'] 				= 'Searching';
 $_['text_finished'] 				= 'Finished';
 $_['text_dont_list'] 				= 'Do not list';
 $_['text_listing_values'] 			= 'Listing values';
-$_['text_new'] 						= 'New';
+$_['text_new'] 						= 'ใหม่';
 $_['text_used_like_new'] 			= 'Used - Like New';
 $_['text_used_very_good'] 			= 'Used - Very Good';
 $_['text_used_good'] 				= 'Used - Good';
@@ -31,7 +31,7 @@ $_['column_image'] 					= 'Image';
 $_['column_model'] 					= 'Model';
 $_['column_status'] 				= 'Status';
 $_['column_matches'] 				= 'Matches';
-$_['column_result'] 				= 'Result';
+$_['column_result'] 				= 'ผลลัพธ์';
 
 // Button
 $_['button_list'] 					= 'List';

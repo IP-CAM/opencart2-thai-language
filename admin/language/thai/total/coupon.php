@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Coupon';
+$_['heading_title']    = 'คูปอง';
 
 // Text
 $_['text_total']       = 'Order Totals';

@@ -83,7 +83,7 @@ $_['column_price']             = 'Unit Price';
 $_['column_comment']           = 'Comment';
 $_['column_notify']            = 'Customer Notified';
 $_['column_location']          = 'Location';
-$_['column_reference']         = 'Reference';
+$_['column_reference']         = 'อ้างอิง';
 $_['column_action']            = 'Action';
 $_['column_weight']            = 'Product weight';
 
@@ -122,7 +122,7 @@ $_['entry_comment']            = 'Comment';
 $_['entry_currency']           = 'สกุลเงิน';
 $_['entry_shipping_method']    = 'Shipping Method';
 $_['entry_payment_method']     = 'วิธีการชำระเงิน';
-$_['entry_coupon']             = 'Coupon';
+$_['entry_coupon']             = 'คูปอง';
 $_['entry_voucher']            = 'Voucher';
 $_['entry_reward']             = 'Reward';
 $_['entry_order_id']           = 'Order ID';

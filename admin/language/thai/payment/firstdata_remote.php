@@ -7,7 +7,7 @@ $_['text_firstdata_remote']			 = '<img src="view/image/payment/firstdata.png" al
 $_['text_payment']					 = 'Payment';
 $_['text_success']					 = 'Success: You have modified First Data account details!';
 $_['text_edit']                      = 'Edit First Data EMEA Web Service API';
-$_['text_card_type']				 = 'Card type';
+$_['text_card_type']				 = 'ประเภทบัตร';
 $_['text_enabled']					 = 'Enabled';
 $_['text_merchant_id']				 = 'Store ID';
 $_['text_subaccount']				 = 'Subaccount';
@@ -28,7 +28,7 @@ $_['text_payment_info']				 = 'Payment information';
 $_['text_capture_status']			 = 'Payment captured';
 $_['text_void_status']				 = 'Payment voided';
 $_['text_refund_status']			 = 'Payment refunded';
-$_['text_order_ref']				 = 'Order ref';
+$_['text_order_ref']				 = 'อ้างอิงการสั่งซื้อ';
 $_['text_order_total']				 = 'Total authorised';
 $_['text_total_captured']			 = 'Total captured';
 $_['text_transactions']				 = 'Transactions';

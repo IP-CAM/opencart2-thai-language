@@ -1,55 +1,55 @@
 <?php
 // Text
-$_['text_title']				= 'Credit or Debit Card';
-$_['text_credit_card']			= 'Credit Card Details';
-$_['text_wait']					= 'Please wait!';
-$_['text_result']				= 'Result';
+$_['text_title']				= 'บัตรเครดิตหรือเดบิต';
+$_['text_credit_card']			= 'รายละเอียดบัตรเครดิต';
+$_['text_wait']					= 'โปรดรอ!';
+$_['text_result']				= 'ผลลัพธ์';
 $_['text_message']				= 'ข้อความ';
-$_['text_cvn_result']			= 'CVN result';
+$_['text_cvn_result']			= 'ผล CVN';
 $_['text_avs_postcode']			= 'AVS postcode';
 $_['text_avs_address']			= 'AVS address';
 $_['text_eci']					= 'ECI (3D secure) result';
 $_['text_tss']					= 'TSS result';
-$_['text_card_bank']			= 'Card issue bank';
-$_['text_card_country']			= 'Card country';
-$_['text_card_region']			= 'Card region';
-$_['text_last_digits']			= 'Last 4 digits';
-$_['text_order_ref']			= 'Order ref';
-$_['text_timestamp']			= 'Timestamp';
+$_['text_card_bank']			= 'ธนาคารเจ้าของบัตร';
+$_['text_card_country']			= 'ประเทศของบัตร';
+$_['text_card_region']			= 'ภูมิภาคของบัตร';
+$_['text_last_digits']			= 'เลข 4 ตัวสุดท้าย';
+$_['text_order_ref']			= 'อ้างอิงการสั่งซื้อ';
+$_['text_timestamp']			= 'เลขเวลา';
 $_['text_card_visa']			= 'Visa';
 $_['text_card_mc']				= 'Mastercard';
 $_['text_card_amex']			= 'American Express';
 $_['text_card_switch']			= 'Switch';
 $_['text_card_laser']			= 'Laser';
 $_['text_card_diners']			= 'Diners';
-$_['text_auth_code']			= 'Auth code';
-$_['text_3d_s1']				= 'Cardholder Not Enrolled, liability shift';
-$_['text_3d_s2']				= 'Unable To Verify Enrolment, no liability shift';
-$_['text_3d_s3']				= 'Invalid Response From Enrolment Server, no liability shift';
-$_['text_3d_s4']				= 'Enrolled, But Invalid Response From ACS (Access Control Server), no liability shift';
-$_['text_3d_s5']				= 'Successful Authentication, liability shift';
-$_['text_3d_s6']				= 'Authentication Attempt Acknowledged, liability shift';
-$_['text_3d_s7']				= 'Incorrect Password Entered, no liability shift';
-$_['text_3d_s8']				= 'Authentication Unavailable, no liability shift';
-$_['text_3d_s9']				= 'Invalid Response From ACS, no liability shift';
-$_['text_3d_s10']				= 'RealMPI Fatal Error, no liability shift';
+$_['text_auth_code']			= 'รหัสตรวจสอบ';
+$_['text_3d_s1']				= 'ผู้ถือบัตรไม่ได้ลงทะเบียน, ไม่เปลี่ยนความรับผิดชอบ';
+$_['text_3d_s2']				= 'ไม่สามารถตรวจสอบการลงทะเบียน, ไม่เปลี่ยนความรับผิดชอบ';
+$_['text_3d_s3']				= 'มีการตอบสนองที่ไม่ถูกต้องจากเซิร์ฟเวอร์ลงทะเบียน, ไม่เปลี่ยนความรับผิดชอบ';
+$_['text_3d_s4']				= 'ลงทะเบียนแล้ว, แต่การตอบสนองไม่ถูกต้องจาก ACS, ไม่เปลี่ยนความรับผิดชอบ';
+$_['text_3d_s5']				= 'ตรวจสอบสำเร็จ, เปลี่ยนความรับผิดชอบ';
+$_['text_3d_s6']				= 'รับทราบความพยายามในการตรวจสอบ, เปลี่ยนความรับผิดชอบ';
+$_['text_3d_s7']				= 'กรอกรหัสผ่านผิด, ไม่เปลี่ยนความรับผิดชอบ';
+$_['text_3d_s8']				= 'การตรวจสอบทำงานไม่ได้, ไม่เปลี่ยนความรับผิดชอบ';
+$_['text_3d_s9']				= 'การตอบสนองจาก ACS ไม่ถูกต้อง, ไม่เปลี่ยนความรับผิดชอบ';
+$_['text_3d_s10']				= 'RealMPI ผิดพลาดร้ายแรง, ไม่เปลี่ยนความรับผิดชอบ';
 
 // Entry
-$_['entry_cc_type']				= 'Card type';
-$_['entry_cc_number']			= 'Card number';
-$_['entry_cc_name']				= 'Cardholder name';
-$_['entry_cc_expire_date']		= 'Card expiry date';
-$_['entry_cc_cvv2']				= 'Card security code (CVV2)';
-$_['entry_cc_issue']			= 'Card issue number';
+$_['entry_cc_type']				= 'ประเภทบัตร';
+$_['entry_cc_number']			= 'หมายเลขบัตร';
+$_['entry_cc_name']				= 'ชื่อผู้ถือบัตร';
+$_['entry_cc_expire_date']		= 'วันที่บัตรหมดอายุ';
+$_['entry_cc_cvv2']				= 'รหัสความปลอดภัยบนบัตร (CVV2)';
+$_['entry_cc_issue']			= 'หมายเลขผู้ถือบัตร';
 
 // Help
-$_['help_start_date']			= '(if available)';
-$_['help_issue']				= '(for Maestro and Solo cards only)';
+$_['help_start_date']			= '(ถ้ามี)';
+$_['help_issue']				= '(สำหรับบัตร Maestro และ Solo เท่านั้น)';
 
 // Error
-$_['error_card_number']			= 'Please check your card number is valid';
-$_['error_card_name']			= 'Please check the card holder name is valid';
-$_['error_card_cvv']			= 'Please check the CVV2 is valid';
-$_['error_3d_unable']			= 'Merchant requires 3D secure but unable to verify with your bank, please try later';
-$_['error_3d_500_response_no_payment'] = 'An invalid response was received from the card processor, no payment has been taken';
-$_['error_3d_unsuccessful']		= '3D secure authorisation failed';
+$_['error_card_number']			= 'โปรดตรวจสอบเลขบัตรไม่ถูกต้อง';
+$_['error_card_name']			= 'โปรดตรวจสอบชื่อผู้ถือบัตรไม่ถูกต้อง';
+$_['error_card_cvv']			= 'โปรดตรวจสอบ CVV2 ไม่ถูกต้อง';
+$_['error_3d_unable']			= 'ผู้ค้าต้องการความปลอดภัย 3D แต่ไม่สามารถตรวจสอบกับธนาคารของคุณ, โปรดลองอีกครั้ง';
+$_['error_3d_500_response_no_payment'] = 'มีการตอบสนองที่ไม่ถูกต้องรับมาจากการบวนการตัดบัตร, ยังไม่มีการชำระเงิน';
+$_['error_3d_unsuccessful']		= 'การตรวจความปลอดภัย 3D ล้มเหลว';

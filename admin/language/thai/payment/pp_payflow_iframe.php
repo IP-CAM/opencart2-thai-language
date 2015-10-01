@@ -25,7 +25,7 @@ $_['text_iframe']					= 'Iframe';
 $_['help_checkout_method']			= 'Please use Redirect method if do not have SSL installed or if you do not have Pay with PayPal option disabled on your hosted payment page.';
 
 // Column
-$_['column_transaction_id']			= 'Transaction ID';
+$_['column_transaction_id']			= 'รหัสการทำธุรกรรม';
 $_['column_transaction_type']		= 'Transaction Type';
 $_['column_amount']					= 'Amount';
 $_['column_time']					= 'Time';
@@ -48,7 +48,7 @@ $_['entry_order_status']			= 'Order Status';
 $_['entry_geo_zone']				= 'Geo Zone';
 $_['entry_status']					= 'Status';
 $_['entry_sort_order']				= 'Sort Order';
-$_['entry_transaction_id']			= 'Transaction ID';
+$_['entry_transaction_id']			= 'รหัสการทำธุรกรรม';
 $_['entry_full_refund']				= 'Full refund';
 $_['entry_amount']					= 'Amount';
 $_['entry_message']					= 'Message';
@@ -100,5 +100,5 @@ $_['error_password']				= 'Password Required!';
 $_['error_partner']					= 'Partner Required!';
 $_['error_missing_data']			= 'Missing data';
 $_['error_missing_order']			= 'Could not find the order';
-$_['error_general']					= 'There was an error';
+$_['error_general']					= 'มีข้อผิดพลาด';
 $_['error_capture_amt']				= 'Enter an amount to capture';

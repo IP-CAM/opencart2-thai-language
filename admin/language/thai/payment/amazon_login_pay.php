@@ -1,6 +1,6 @@
 <?php
 //Headings
-$_['heading_title']                 = 'Login and Pay with Amazon';
+$_['heading_title']                 = 'เข้าสู่ระบบและชำระเงินกับ Amazon';
 
 //Text
 $_['text_success']                  = 'Login and Pay with Amazon module has been updated';
@@ -41,7 +41,7 @@ $_['text_cancel_ok']				= 'Cancel was successful, order status updated to cancel
 $_['text_capture_status']			= 'Payment captured';
 $_['text_cancel_status']			= 'Payment canceled';
 $_['text_refund_status']			= 'Payment refunded';
-$_['text_order_ref']				= 'Order ref';
+$_['text_order_ref']				= 'อ้างอิงการสั่งซื้อ';
 $_['text_order_total']				= 'Total authorized';
 $_['text_total_captured']			= 'Total captured';
 $_['text_transactions']				= 'Transactions';

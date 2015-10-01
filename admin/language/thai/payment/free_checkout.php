@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']		 = 'Free Checkout';
+$_['heading_title']		 = 'ฟรีเช็คเอาท์';
 
 // Text
 $_['text_payment']		 = 'Payment';

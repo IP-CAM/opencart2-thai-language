@@ -28,7 +28,7 @@ $_['text_credit_card_blacklist']              = 'Credit Card Blacklist';
 $_['text_score']                              = 'FraudLabsPro Score';
 $_['text_status']                             = 'FraudLabs Pro Status';
 $_['text_message']                            = 'Message';
-$_['text_transaction_id']                     = 'Transaction ID';
+$_['text_transaction_id']                     = 'รหัสการทำธุรกรรม';
 $_['text_credits']                     		  = 'Balance';
 $_['text_error']                              = 'Error:';
 $_['text_flp_upgrade']                        = '<a href="http://www.fraudlabspro.com/plan" target="_blank">[Upgrade]</a>';

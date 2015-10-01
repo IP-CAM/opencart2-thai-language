@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']					= 'Checkout by Amazon';
+$_['heading_title']					= 'ชำระเงินโดย Amazon';
 
 // Text
 $_['text_payment']					= 'Payment';

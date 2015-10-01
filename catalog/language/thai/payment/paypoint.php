@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']				= 'Thank you for shopping with %s .... ';
+$_['heading_title']				= 'ขอบคุณที่ช็อปปิ้งกับ %s .... ';
 
 // Text
-$_['text_title']				= 'Credit Card / Debit Card (PayPoint)';
-$_['text_response']				= 'Response from PayPoint:';
-$_['text_success']				= '... your payment was successfully received.';
-$_['text_success_wait']			= '<b><span style="color: #FF0000">Please wait...</span></b> whilst we finish processing your order.<br>If you are not automatically re-directed in 10 seconds, please click <a href="%s">here</a>.';
-$_['text_failure']				= '... Your payment has been cancelled!';
-$_['text_failure_wait']			= '<b><span style="color: #FF0000">Please wait...</span></b><br>If you are not automatically re-directed in 10 seconds, please click <a href="%s">here</a>.';
+$_['text_title']				= 'บัตรเครดิต / บัตรเดบิต (PayPoint)';
+$_['text_response']				= 'การตอบสนองจาก PayPoint:';
+$_['text_success']				= '... การชำระเงินของคุณได้รับเรียบร้อยแล้ว.';
+$_['text_success_wait']			= '<b><span style="color: #FF0000">โปรดรอ...</span></b> ในขณะที่เรากำลังเสร็จสิ้นรายการสั่งซื้อของคุณ.<br>ถ้าคุณยังไม่ได้รับการเปลี่ยนหน้าใน 10 วินาที, โปรดคลิก <a href="%s">ที่นี่</a>.';
+$_['text_failure']				= '... การชำระเงินของคุณถูกยกเลิกแล้ว!';
+$_['text_failure_wait']			= '<b><span style="color: #FF0000">โปรดรอ...</span></b><br>ถ้าคุณยังไม่ได้รับการเปลี่ยนหน้าใน 10 วินาที, โปรดคลิก <a href="%s">ที่นี่</a>.';

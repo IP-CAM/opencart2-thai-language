@@ -11,7 +11,7 @@ $_['text_success']    = 'An email with a confirmation link has been sent your ad
 // Entry
 $_['entry_email']     = 'E-Mail Address';
 $_['entry_password']  = 'New Password';
-$_['entry_confirm']   = 'Confirm';
+$_['entry_confirm']   = 'ยืนยัน';
 
 // Error
 $_['error_email']     = 'คำเตือน: The E-Mail Address was not found in our records, please try again!';

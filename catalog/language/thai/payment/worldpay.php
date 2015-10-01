@@ -1,29 +1,29 @@
 <?php
 
 // Text
-$_['text_title']			 = 'Credit Card / Debit Card (Worldpay)';
-$_['text_credit_card']		 = 'Card Details';
-$_['text_card_type']		 = 'Card Type: ';
-$_['text_card_name']		 = 'Card Name: ';
-$_['text_card_digits']		 = 'Last Digits: ';
-$_['text_card_expiry']		 = 'Expiry: ';
+$_['text_title']			 = 'บัตรเครดิต / บัตรเดบิต (Worldpay)';
+$_['text_credit_card']		 = 'รายละเอียดบัตร';
+$_['text_card_type']		 = 'ประเภทบัตร: ';
+$_['text_card_name']		 = 'ชื่อบัตร: ';
+$_['text_card_digits']		 = 'ตัวเลขตัวสุดท้าย: ';
+$_['text_card_expiry']		 = 'หมดอายุ: ';
 $_['text_trial']			 = '%s ทุกๆ %s %s สำหรับ %s การชำระเงิน ';
 $_['text_recurring']		 = '%s ทุกๆ %s %s';
 $_['text_length']			 = ' สำหรับการชำระเงิน %s';
-$_['text_confirm_delete']	 = 'Are you sure you wish to delete this card';
-$_['text_card_success']		 = 'Card has been successfully removed';
-$_['text_card_error']		 = 'There are an error removing your card. Please contact the shop administrator for help.';
+$_['text_confirm_delete']	 = 'คุณแน่ใจหรือไม่ที่จะลบบัตรนี้';
+$_['text_card_success']		 = 'บัตรถูกเอาออกเรียบร้อยแล้ว';
+$_['text_card_error']		 = 'มีข้อผิดพลาดในการเอาบัตรออก. โปรดติดต่อผู้ดูแลร้านเพื่อขอความช่วยเหลือ.';
 
 // Entry
-$_['entry_card']			 = 'New or Existing Card: ';
-$_['entry_card_existing']	 = 'Existing';
-$_['entry_card_new']		 = 'New';
-$_['entry_card_save']		 = 'Remember Card Details';
-$_['entry_cc_cvc']			 = 'Card Verification Code (CVC)';
-$_['entry_cc_choice']		 = 'Choose an Existing Card';
+$_['entry_card']			 = 'บัตรใหม่หรือที่มีอยู่: ';
+$_['entry_card_existing']	 = 'ที่มีอยู่';
+$_['entry_card_new']		 = 'ใหม่';
+$_['entry_card_save']		 = 'จำรายละเอียดบัตร';
+$_['entry_cc_cvc']			 = 'รหัสตรวจสอบบัตร (CVC)';
+$_['entry_cc_choice']		 = 'เลือกบัตรที่มีอยู่';
 
 // Button
-$_['button_delete_card']	 = 'Delete Card';
+$_['button_delete_card']	 = 'ลบบัตร';
 
 // Error
-$_['error_process_order']	 = 'There are an error processing your order. Please contact the shop administrator for help.';
+$_['error_process_order']	 = 'มีข้อผิดพลาดในการดำเนินการสั่งซื้อของคุณ. โปรดติดต่อผู้ดูแลร้านเพื่อขอความช่วยเหลือ.';
