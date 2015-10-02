@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Store Credit';
+$_['heading_title']    = 'เครดิตร้าน';
 
 // Text
 $_['text_total']       = 'Order Totals';

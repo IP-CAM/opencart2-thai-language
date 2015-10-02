@@ -1,2 +1,2 @@
 <?php
-$_['text_klarna_fee'] = 'Klarna Fee';
+$_['text_klarna_fee'] = 'ค่าบริการ Klarna';

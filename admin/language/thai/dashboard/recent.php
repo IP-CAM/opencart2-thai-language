@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Latest Orders';
 
 // Column
-$_['column_order_id']   = 'Order ID';
+$_['column_order_id']   = 'รหัสสั่งซื้อ';
 $_['column_customer']   = 'Customer';
 $_['column_status']     = 'Status';
 $_['column_total']      = 'Total';

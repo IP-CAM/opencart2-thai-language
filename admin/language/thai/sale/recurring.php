@@ -30,7 +30,7 @@ $_['text_transaction_expired']             = 'Expired';
 // Entry
 $_['entry_cancel_payment']                 = 'Cancel Payment';
 $_['entry_order_recurring']                = 'ID';
-$_['entry_order_id']                       = 'Order ID';
+$_['entry_order_id']                       = 'รหัสสั่งซื้อ';
 $_['entry_reference']                      = 'Payment Reference';
 $_['entry_customer']                       = 'Customer';
 $_['entry_date_added']                     = 'Date Added';

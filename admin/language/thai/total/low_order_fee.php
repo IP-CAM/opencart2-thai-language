@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Low Order Fee';
+$_['heading_title']    = 'ค่าธรรมเนียมสั่งซื้อขั้นต่ำ';
 
 // Text
 $_['text_total']       = 'Order Totals';

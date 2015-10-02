@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Klarna Fee';
+$_['heading_title']    = 'ค่าบริการ Klarna';
 
 // Text
 $_['text_total']       = 'Order Totals';

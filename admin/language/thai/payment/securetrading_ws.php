@@ -59,7 +59,7 @@ $_['entry_date_to'] = 'Date To';
 $_['entry_hour'] = 'Hour';
 $_['entry_minute'] = 'Minute';
 
-$_['column_order_id'] = 'Order ID';
+$_['column_order_id'] = 'รหัสสั่งซื้อ';
 $_['column_transaction_reference'] = 'Transaction reference';
 $_['column_customer'] = 'Customer';
 $_['column_total'] = 'Total';
