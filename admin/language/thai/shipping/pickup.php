@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Pickup From Store';
+$_['heading_title']    = 'รับสินค้าเองจากที่ร้าน';
 
 // Text
 $_['text_shipping']    = 'การส่งสินค้า';

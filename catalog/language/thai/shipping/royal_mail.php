@@ -2,7 +2,7 @@
 // Text
 $_['text_title']                        = 'Royal Mail';
 $_['text_weight']                       = 'น้ำหนัก:';
-$_['text_insurance']                    = 'Insured upto:';
+$_['text_insurance']                    = 'ประกันมากถึง:';
 $_['text_special_delivery']             = 'Special Delivery Next Day';
 $_['text_1st_class_signed']             = 'First Class Signed Post';
 $_['text_2nd_class_signed']             = 'Second Class Signed Post';

@@ -1,4 +1,4 @@
 <?php
 // Text
-$_['text_title']       = 'Free Shipping';
-$_['text_description'] = 'Free Shipping';
+$_['text_title']       = 'ส่งฟรี';
+$_['text_description'] = 'จัดส่งฟรี';

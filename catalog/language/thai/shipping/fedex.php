@@ -2,7 +2,7 @@
 // Text
 $_['text_title']                               = 'Fedex';
 $_['text_weight']                              = 'น้ำหนัก:';
-$_['text_eta']                                 = 'Estimated Time:';
+$_['text_eta']                                 = 'เวลาโดยประมาณ:';
 $_['text_europe_first_international_priority'] = 'Europe First International Priority';
 $_['text_fedex_1_day_freight']                 = 'Fedex 1 Day Freight';
 $_['text_fedex_2_day']                         = 'Fedex 2 Day';

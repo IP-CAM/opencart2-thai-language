@@ -3,5 +3,5 @@
 $_['text_title']       = 'Parcelforce 48';
 $_['text_description'] = 'Parcelforce 48';
 $_['text_weight']      = 'น้ำหนัก:';
-$_['text_insurance']   = 'Insured upto:';
-$_['text_time']        = 'Estimated Time: Within 48 Hours';
+$_['text_insurance']   = 'ประกันมากถึง:';
+$_['text_time']        = 'เวลาโดยประมาณ: ภายใน 48 ชั่วโมง';
