@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']          = 'Products';
+$_['heading_title']          = 'สินค้า';
 
 // Text
 $_['text_success']           = 'Success: You have modified products!';
@@ -17,9 +17,9 @@ $_['text_amount']            = 'Fixed Amount';
 
 // Column
 $_['column_name']            = 'Product Name';
-$_['column_model']           = 'Model';
+$_['column_model']           = 'รุ่น';
 $_['column_image']           = 'Image';
-$_['column_price']           = 'Price';
+$_['column_price']           = 'ราคา';
 $_['column_quantity']        = 'Quantity';
 $_['column_status']          = 'Status';
 $_['column_action']          = 'Action';
@@ -31,7 +31,7 @@ $_['entry_meta_title'] 	     = 'Meta Tag Title';
 $_['entry_meta_keyword'] 	 = 'Meta Tag Keywords';
 $_['entry_meta_description'] = 'Meta Tag Description';
 $_['entry_keyword']          = 'SEO Keyword';
-$_['entry_model']            = 'Model';
+$_['entry_model']            = 'รุ่น';
 $_['entry_sku']              = 'SKU';
 $_['entry_upc']              = 'UPC';
 $_['entry_ean']              = 'EAN';
@@ -46,14 +46,14 @@ $_['entry_date_available']   = 'Date Available';
 $_['entry_quantity']         = 'Quantity';
 $_['entry_minimum']          = 'Minimum Quantity';
 $_['entry_stock_status']     = 'Out Of Stock Status';
-$_['entry_price']            = 'Price';
+$_['entry_price']            = 'ราคา';
 $_['entry_tax_class']        = 'Tax Class';
 $_['entry_points']           = 'Points';
 $_['entry_option_points']    = 'Points';
 $_['entry_subtract']         = 'Subtract Stock';
 $_['entry_weight_class']     = 'Weight Class';
-$_['entry_weight']           = 'Weight';
-$_['entry_dimension']        = 'Dimensions (L x W x H)';
+$_['entry_weight']           = 'น้ำหนัก';
+$_['entry_dimension']        = 'ขนาด (ยาว x กว้าง x สูง)';
 $_['entry_length_class']     = 'Length Class';
 $_['entry_length']           = 'Length';
 $_['entry_width']            = 'Width';
@@ -74,7 +74,7 @@ $_['entry_sort_order']       = 'Sort Order';
 $_['entry_category']         = 'หมวดหมู่';
 $_['entry_filter']           = 'Filters';
 $_['entry_download']         = 'Downloads';
-$_['entry_related']          = 'Related Products';
+$_['entry_related']          = 'สินค้าที่เกี่ยวข้อง';
 $_['entry_tag']          	 = 'Product Tags';
 $_['entry_reward']           = 'Reward Points';
 $_['entry_layout']           = 'Layout Override';

@@ -17,7 +17,7 @@ $_['text_loading'] 					= 'Loading items';
 
 // Column
 $_['column_asin'] 					= 'ASIN';
-$_['column_price'] 					= 'Price';
+$_['column_price'] 					= 'ราคา';
 $_['column_name'] 					= 'Name';
 $_['column_sku'] 					= 'SKU';
 $_['column_quantity'] 				= 'Quantity';

@@ -84,7 +84,7 @@ $_['help_total'] = 'The checkout total the order must reach before this payment 
 
 $_['button_reverse_authorisation'] = 'Reverse Authorisation';
 $_['button_refund'] = 'Refund';
-$_['button_show'] = 'Show';
+$_['button_show'] = 'แสดง';
 $_['button_download'] = 'Download';
 
 // Order page - payment tab

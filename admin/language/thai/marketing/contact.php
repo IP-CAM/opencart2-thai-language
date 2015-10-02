@@ -13,7 +13,7 @@ $_['text_customer_group']  = 'กลุ่มลูกค้า';
 $_['text_customer']        = 'Customers';
 $_['text_affiliate_all']   = 'All Affiliates';
 $_['text_affiliate']       = 'พันธมิตร';
-$_['text_product']         = 'Products';
+$_['text_product']         = 'สินค้า';
 
 // Entry
 $_['entry_store']          = 'From';
@@ -21,7 +21,7 @@ $_['entry_to']             = 'To';
 $_['entry_customer_group'] = 'กลุ่มลูกค้า';
 $_['entry_customer']       = 'Customer';
 $_['entry_affiliate']      = 'พันธมิตร';
-$_['entry_product']        = 'Products';
+$_['entry_product']        = 'สินค้า';
 $_['entry_subject']        = 'Subject';
 $_['entry_message']        = 'Message';
 

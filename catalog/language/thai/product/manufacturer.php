@@ -1,27 +1,27 @@
 <?php
 // Heading
-$_['heading_title']     = 'Find Your Favorite Brand';
+$_['heading_title']     = 'ค้นหายี่ห้อที่คุณชื่นชอบ';
 
 // Text
-$_['text_brand']        = 'Brand';
-$_['text_index']        = 'Brand Index:';
-$_['text_error']        = 'Brand not found!';
-$_['text_empty']        = 'There are no products to list.';
-$_['text_quantity']     = 'Qty:';
-$_['text_manufacturer'] = 'Brand:';
-$_['text_model']        = 'Product Code:';
+$_['text_brand']        = 'ยี่ห้อ';
+$_['text_index']        = 'สารบัญยี่ห้อ:';
+$_['text_error']        = 'ไม่พบยี่ห้อ!';
+$_['text_empty']        = 'ไม่มีรายการสินค้าจะแสดง.';
+$_['text_quantity']     = 'จำนวน:';
+$_['text_manufacturer'] = 'ยี่ห้อ:';
+$_['text_model']        = 'รหัสสินค้า:';
 $_['text_points']       = 'แต้มรางวัล:';
-$_['text_price']        = 'Price:';
+$_['text_price']        = 'ราคา:';
 $_['text_tax']          = 'ไม่รวมภาษี:';
-$_['text_compare']      = 'Product Compare (%s)';
-$_['text_sort']         = 'Sort By:';
+$_['text_compare']      = 'เปรียบเทียบสินค้า (%s)';
+$_['text_sort']         = 'จัดเรียงโดย:';
 $_['text_default']      = 'ค่าเริ่มต้น';
-$_['text_name_asc']     = 'Name (A - Z)';
-$_['text_name_desc']    = 'Name (Z - A)';
-$_['text_price_asc']    = 'Price (Low &gt; High)';
-$_['text_price_desc']   = 'Price (High &gt; Low)';
-$_['text_rating_asc']   = 'Rating (Lowest)';
-$_['text_rating_desc']  = 'Rating (Highest)';
-$_['text_model_asc']    = 'Model (A - Z)';
-$_['text_model_desc']   = 'Model (Z - A)';
-$_['text_limit']        = 'Show:';
+$_['text_name_asc']     = 'ชื่อ (A - Z)';
+$_['text_name_desc']    = 'ชื่อ (Z - A)';
+$_['text_price_asc']    = 'ราคา (ต่ำ &gt; สูง)';
+$_['text_price_desc']   = 'ราคา (สูง &gt; ต่ำ)';
+$_['text_rating_asc']   = 'อันดับ (ต่ำสุด)';
+$_['text_rating_desc']  = 'อันดับ (สูงสุด)';
+$_['text_model_asc']    = 'รุ่น (A - Z)';
+$_['text_model_desc']   = 'รุ่น (Z - A)';
+$_['text_limit']        = 'แสดง:';

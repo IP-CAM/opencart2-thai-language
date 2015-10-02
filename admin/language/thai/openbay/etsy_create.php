@@ -23,7 +23,7 @@ $_['text_create']  				= 'Create a new Etsy listing';
 // Entry
 $_['entry_title']      			= 'Product title';
 $_['entry_description']     	= 'Description';
-$_['entry_price']      			= 'Price';
+$_['entry_price']      			= 'ราคา';
 $_['entry_non_taxable']     	= 'Non taxable';
 $_['entry_category']     		= 'Top category';
 $_['entry_sub_category']    	= 'Sub category';
@@ -39,7 +39,7 @@ $_['entry_style_2']      		= 'Style Tag 2';
 $_['entry_processing_min']  	= 'Processing time min';
 $_['entry_processing_max']  	= 'Processing time max';
 $_['entry_materials']  			= 'Materials';
-$_['entry_tags']  				= 'Tags';
+$_['entry_tags']  				= 'แท็ก';
 $_['entry_shipping']  			= 'Shipping profile';
 $_['entry_shop']  				= 'Shop section';
 $_['entry_is_custom']  			= 'Can it be customised?';

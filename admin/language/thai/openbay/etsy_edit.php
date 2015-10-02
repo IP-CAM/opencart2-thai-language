@@ -15,7 +15,7 @@ $_['text_edit']  				= 'Update your Etsy listing';
 // Entry
 $_['entry_title']      			= 'Product title';
 $_['entry_description']     	= 'Description';
-$_['entry_price']      			= 'Price';
+$_['entry_price']      			= 'ราคา';
 $_['entry_state']      			= 'รัฐ';
 
 // Errors

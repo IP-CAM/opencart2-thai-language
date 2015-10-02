@@ -36,7 +36,7 @@ $_['column_action']				= 'Action';
 // Entry
 $_['entry_limit']				= 'Page limit';
 $_['entry_status']				= 'Status';
-$_['entry_keywords']			= 'Keywords';
+$_['entry_keywords']			= 'คำค้นหา';
 $_['entry_name']				= 'Product name';
 $_['entry_etsy_id']				= 'Etsy item ID';
 
