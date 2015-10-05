@@ -29,7 +29,7 @@ $_['text_profile_returns']          = 'Returns profile';
 $_['text_profile_generic']          = 'Generic profile';
 
 //Text
-$_['text_title']                    = 'Title';
+$_['text_title']                    = 'ไตเติล';
 $_['text_price']                    = 'ราคา';
 $_['text_stock']                    = 'Stock';
 $_['text_search']                   = 'ค้นหา';

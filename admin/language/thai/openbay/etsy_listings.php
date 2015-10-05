@@ -26,7 +26,7 @@ $_['text_listings']     		= 'Manage your Etsy listings';
 
 // Columns
 $_['column_listing_id']			= 'Etsy ID';
-$_['column_title']				= 'Title';
+$_['column_title']				= 'ไตเติล';
 $_['column_listing_qty']		= 'Listing quantity';
 $_['column_store_qty']			= 'Store quantity';
 $_['column_status']				= 'Status message';

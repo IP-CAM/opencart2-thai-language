@@ -5,10 +5,10 @@ $_['heading_title'] = 'Pay with Amazon';
 //Text
 $_['text_module'] = 'โมดูล';
 $_['text_success'] = 'สำเร็จ: You have modified module Pay with Amazon!';
-$_['text_content_top'] = 'Content Top';
-$_['text_content_bottom'] = 'Content Bottom';
-$_['text_column_left'] = 'Column Left';
-$_['text_column_right'] = 'Column Right';
+$_['text_content_top'] = 'เนื้อหาด้านบน';
+$_['text_content_bottom'] = 'เนื้อหาด้านล่าง';
+$_['text_column_left'] = 'เนื้อหาด้านซ้าย';
+$_['text_column_right'] = 'เนื้อหาด้านขวา';
 $_['text_pwa_button'] = 'Pay with Amazon';
 $_['text_pay_button'] = 'Pay';
 $_['text_a_button'] = 'A';
@@ -25,7 +25,7 @@ $_['entry_button_type'] = 'Button Type';
 $_['entry_button_colour'] = 'Button Colour';
 $_['entry_button_size'] = 'Button Size';
 $_['entry_layout'] = 'Layout';
-$_['entry_position'] = 'Position';
+$_['entry_position'] = 'ตำแหน่ง';
 $_['entry_status'] = 'สถานะ';
 $_['entry_sort_order'] = 'เรียงลำดับ';
 

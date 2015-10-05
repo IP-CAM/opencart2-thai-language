@@ -20,7 +20,7 @@ $_['button_end']                    = 'End listing';
 $_['button_retry']					= 'Retry';
 
 // Entry
-$_['entry_title']					= 'Title';
+$_['entry_title']					= 'ไตเติล';
 $_['entry_price']					= 'Selling price (Includes any tax)';
 $_['entry_stock_store']				= 'Local stock';
 $_['entry_stock_listed']			= 'eBay stock';

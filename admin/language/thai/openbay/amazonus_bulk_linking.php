@@ -6,7 +6,7 @@ $_['text_amazon'] 					= 'Amazon US';
 
 // Button
 $_['button_load'] 					= 'Load';
-$_['button_link'] 					= 'Link';
+$_['button_link'] 					= 'ลิ้งค์';
 
 // Text
 $_['text_local'] 					= 'Local';

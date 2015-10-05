@@ -88,7 +88,7 @@ $_['column_action']            = 'การทำงาน';
 $_['column_weight']            = 'Product weight';
 
 // Entry
-$_['entry_store']              = 'Store';
+$_['entry_store']              = 'ร้านค้า';
 $_['entry_customer']           = 'ลูกค้า';
 $_['entry_customer_group']     = 'กลุ่มลูกค้า';
 $_['entry_firstname']          = 'ชื่อ';

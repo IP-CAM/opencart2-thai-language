@@ -13,7 +13,7 @@ $_['column_name']      = 'Module Name';
 $_['column_action']    = 'การทำงาน';
 
 // Entry
-$_['entry_code']       = 'Module';
+$_['entry_code']       = 'โมดูล';
 $_['entry_name']       = 'Module Name';
 
 // Error

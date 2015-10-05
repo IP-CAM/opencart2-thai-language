@@ -36,7 +36,7 @@ $_['text_option']                   	= 'Option';
 $_['text_list']              			= 'รายการสินค้า';
 
 // Entry
-$_['entry_title'] 						= 'Title';
+$_['entry_title'] 						= 'ไตเติล';
 $_['entry_model'] 						= 'รุ่น';
 $_['entry_manufacturer'] 				= 'ผู้ผลิต';
 $_['entry_status'] 						= 'สถานะ';
