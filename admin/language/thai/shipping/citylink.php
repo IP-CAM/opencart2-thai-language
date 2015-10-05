@@ -10,7 +10,7 @@ $_['text_edit']        = 'Edit Citylink Shipping';
 // Entry
 $_['entry_rate']       = 'Citylink Rates';
 $_['entry_tax_class']  = 'ชนิดภาษี';
-$_['entry_geo_zone']   = 'Geo Zone';
+$_['entry_geo_zone']   = 'โซนภูมิภาค';
 $_['entry_status']     = 'สถานะ';
 $_['entry_sort_order'] = 'เรียงลำดับ';
 

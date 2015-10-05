@@ -23,7 +23,7 @@ $_['entry_server']					= 'Server';
 $_['entry_total']					= 'ทั้งหมด';
 $_['entry_pending_status']			= 'Pending Status';
 $_['entry_accepted_status']			= 'Accepted Status';
-$_['entry_geo_zone']				= 'Geo Zone';
+$_['entry_geo_zone']				= 'โซนภูมิภาค';
 $_['entry_status']					= 'สถานะ';
 $_['entry_sort_order']				= 'เรียงลำดับ';
 

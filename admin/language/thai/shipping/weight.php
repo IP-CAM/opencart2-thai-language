@@ -10,12 +10,12 @@ $_['text_edit']        = 'Edit Weight Based Shipping';
 // Entry
 $_['entry_rate']       = 'Rates';
 $_['entry_tax_class']  = 'ชนิดภาษี';
-$_['entry_geo_zone']   = 'Geo Zone';
+$_['entry_geo_zone']   = 'โซนภูมิภาค';
 $_['entry_status']     = 'สถานะ';
 $_['entry_sort_order'] = 'เรียงลำดับ';
 
 // Help
-$_['help_rate']        = 'Example: 5:10.00,7:12.00 Weight:Cost,Weight:Cost, etc..';
+$_['help_rate']        = 'ตัวอย่าง: 5:10.00,7:12.00 Weight:Cost,Weight:Cost, etc..';
 
 // Error
 $_['error_permission'] = 'คำเตือน: You do not have permission to modify weight based shipping!';

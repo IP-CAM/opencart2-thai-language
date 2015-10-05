@@ -8,7 +8,7 @@ $_['text_success']		 = 'สำเร็จ: You have modified Free Checkout paym
 $_['text_edit']          = 'Edit Free Checkout';
 
 // Entry
-$_['entry_order_status'] = 'Order Status';
+$_['entry_order_status'] = 'สถานะการสั่งซื้อ';
 $_['entry_status']		 = 'สถานะ';
 $_['entry_sort_order']	 = 'เรียงลำดับ';
 

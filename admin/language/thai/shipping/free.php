@@ -9,7 +9,7 @@ $_['text_edit']        = 'Edit Free Shipping';
 
 // Entry
 $_['entry_total']      = 'ทั้งหมด';
-$_['entry_geo_zone']   = 'Geo Zone';
+$_['entry_geo_zone']   = 'โซนภูมิภาค';
 $_['entry_status']     = 'สถานะ';
 $_['entry_sort_order'] = 'เรียงลำดับ';
 

@@ -12,12 +12,12 @@ $_['text_skrill']	     	  = '<a href="https://www.moneybookers.com/partners/?p=O
 $_['entry_email']			  = 'E-Mail';
 $_['entry_secret']		      = 'Secret';
 $_['entry_total']			  = 'ทั้งหมด';
-$_['entry_order_status']	  = 'Order Status';
+$_['entry_order_status']	  = 'สถานะการสั่งซื้อ';
 $_['entry_pending_status']	  = 'Pending Status ';
 $_['entry_canceled_status']	  = 'Canceled Status';
 $_['entry_failed_status']	  = 'Failed Status';
 $_['entry_chargeback_status'] = 'Chargeback Status';
-$_['entry_geo_zone']		  = 'Geo Zone';
+$_['entry_geo_zone']		  = 'โซนภูมิภาค';
 $_['entry_status']			  = 'สถานะ';
 $_['entry_sort_order']		  = 'เรียงลำดับ';
 

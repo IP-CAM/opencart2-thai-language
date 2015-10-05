@@ -119,7 +119,7 @@ $_['column_action']					= 'การทำงาน';
 
 // Tab
 $_['tab_settings']					= 'ตั้งค่า';
-$_['tab_order_status']				= 'Order Status';
+$_['tab_order_status']				= 'สถานะการสั่งซื้อ';
 $_['tab_checkout_customisation']	= 'Checkout Customisation';
 
 // Entry
@@ -128,15 +128,15 @@ $_['entry_password']				= 'API Password';
 $_['entry_signature']				= 'API Signature';
 $_['entry_test']					= 'Test Mode';
 $_['entry_total']					= 'ทั้งหมด';
-$_['entry_order_status']			= 'Order Status:';
-$_['entry_geo_zone']				= 'Geo Zone:';
+$_['entry_order_status']			= 'สถานะการสั่งซื้อ:';
+$_['entry_geo_zone']				= 'โซนภูมิภาค:';
 $_['entry_status']					= 'Status:';
 $_['entry_sort_order']				= 'เรียงลำดับ:';
 $_['entry_transaction_method']		= 'Transaction method:';
 $_['entry_transaction_id']			= 'รหัสการทำธุรกรรม';
 $_['entry_full_refund']				= 'Full refund';
 $_['entry_amount']					= 'Amount';
-$_['entry_message']					= 'Message';
+$_['entry_message']					= 'ข้อความ';
 $_['entry_ipn_url']					= 'IPN URL:';
 $_['entry_checkout_method']			= 'Checkout Method:';
 $_['entry_debug']					= 'Debug mode:';

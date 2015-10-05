@@ -10,7 +10,7 @@ $_['text_edit']         = 'Edit Marketing Tracking';
 
 // Column
 $_['column_name']       = 'Campaign Name';
-$_['column_code']       = 'Code';
+$_['column_code']       = 'รหัส';
 $_['column_clicks']     = 'Clicks';
 $_['column_orders']     = 'รายการสั่งซื้อ';
 $_['column_date_added'] = 'วันที่เพิ่ม';

@@ -19,8 +19,8 @@ $_['text_void_ok']				 = 'Void was successful, order status updated to voided';
 $_['entry_service_key']			 = 'Service Key';
 $_['entry_client_key']			 = 'Client Key';
 $_['entry_total']				 = 'ทั้งหมด';
-$_['entry_order_status']		 = 'Order Status';
-$_['entry_geo_zone']			 = 'Geo Zone';
+$_['entry_order_status']		 = 'สถานะการสั่งซื้อ';
+$_['entry_geo_zone']			 = 'โซนภูมิภาค';
 $_['entry_status']				 = 'สถานะ';
 $_['entry_sort_order']			 = 'เรียงลำดับ';
 $_['entry_debug']				 = 'Debug logging';
@@ -52,7 +52,7 @@ $_['help_cron_job_url']			 = 'Set a cron job to call this URL';
 
 // Tab
 $_['tab_settings']				 = 'ตั้งค่า';
-$_['tab_order_status']			 = 'Order Status';
+$_['tab_order_status']			 = 'สถานะการสั่งซื้อ';
 
 // Error
 $_['error_permission']			 = 'คำเตือน: You do not have permission to modify payment Worldpay!';

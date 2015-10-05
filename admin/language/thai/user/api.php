@@ -12,7 +12,7 @@ $_['text_edit']            = 'Edit API';
 $_['column_username']      = 'ชื่อผู้ใช้';
 $_['column_status']        = 'สถานะ';
 $_['column_date_added']    = 'วันที่เพิ่ม';
-$_['column_date_modified'] = 'Date Modified';
+$_['column_date_modified'] = 'วันที่ปรับปรุง';
 $_['column_action']        = 'การทำงาน';
 
 // Entry

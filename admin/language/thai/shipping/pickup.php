@@ -8,7 +8,7 @@ $_['text_success']     = 'สำเร็จ: You have modified pickup from stor
 $_['text_edit']        = 'Edit Pickup From Store Shipping';
 
 // Entry
-$_['entry_geo_zone']   = 'Geo Zone';
+$_['entry_geo_zone']   = 'โซนภูมิภาค';
 $_['entry_status']     = 'สถานะ';
 $_['entry_sort_order'] = 'เรียงลำดับ';
 

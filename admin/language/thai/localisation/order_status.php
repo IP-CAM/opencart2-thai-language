@@ -3,22 +3,22 @@
 $_['heading_title']    = 'สถานะการสั่งซื้อ';
 
 // Text
-$_['text_success']     = 'สำเร็จ: You have modified order statuses!';
-$_['text_list']        = 'Order Status List';
-$_['text_add']         = 'Add Order Status';
-$_['text_edit']        = 'Edit Order Status';
+$_['text_success']     = 'สำเร็จ: คุณได้ปรับปรุงสถานะการสั่งซื้อแล้ว!';
+$_['text_list']        = 'รายการสถานะการสั่งซื้อ';
+$_['text_add']         = 'เพิ่มสถานะการสั่งซื้อ';
+$_['text_edit']        = 'แก้ไขสถานะการสั่งซื้อ';
 
 // Column
-$_['column_name']      = 'Order Status Name';
+$_['column_name']      = 'ชื่อสถานะการสั่งซื้อ';
 $_['column_action']    = 'การทำงาน';
 
 // Entry
-$_['entry_name']       = 'Order Status Name';
+$_['entry_name']       = 'ชื่อสถานะการสั่งซื้อ';
 
 // Error
-$_['error_permission'] = 'คำเตือน: You do not have permission to modify order statues!';
-$_['error_name']       = 'Order Status Name must be between 3 and 32 characters!';
-$_['error_default']    = 'คำเตือน: This order status cannot be deleted as it is currently assigned as the default store order status!';
-$_['error_download']   = 'คำเตือน: This order status cannot be deleted as it is currently assigned as the default download status!';
-$_['error_store']      = 'คำเตือน: This order status cannot be deleted as it is currently assigned to %s stores!';
-$_['error_order']      = 'คำเตือน: This order status cannot be deleted as it is currently assigned to %s orders!';
+$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงสถานะสารสั่งซื้อ!';
+$_['error_name']       = 'ชื่อสถานะการสั่งซื้อต้องมีอักขระตั้งแต่ 3 ถึง 32 ตัวอักษร!';
+$_['error_default']    = 'คำเตือน: ไม่สามารถลบสถานะการสั่งซื้อนี้ได้เนื่องจากมันถูกนำไปใช้เป็นสถานะหลักของร้านค้า!';
+$_['error_download']   = 'คำเตือน: ไม่สามารถลบสถานะการสั่งซื้อนี้ได้เนื่องจากมันถูกนำไปใช้เป็นสถานะดาวน์โหลดหลัก!';
+$_['error_store']      = 'คำเตือน: ไม่สามารถลบสถานะการสั่งซื้อนี้ได้เนื่องจากมันถูกนำไปใช้ในร้านค้า %s รายการ!';
+$_['error_order']      = 'คำเตือน: ไม่สามารถลบสถานะการสั่งซื้อนี้ได้เนื่องจากมันถูกนำไปใช้ในรายการสั่งซื้อ %s รายการ!';

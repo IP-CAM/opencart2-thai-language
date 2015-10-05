@@ -3,28 +3,28 @@
 $_['heading_title']     = 'ชนิดภาษี';
 
 // Text
-$_['text_success']      = 'สำเร็จ: You have modified tax classes!';
-$_['text_list']         = 'Tax Class List';
-$_['text_add']          = 'Add Tax Class';
-$_['text_edit']         = 'Edit Tax Class';
-$_['text_shipping']     = 'Shipping Address';
-$_['text_payment']      = 'Payment Address';
-$_['text_store']        = 'Store Address';
+$_['text_success']      = 'สำเร็จ: คุณได้ปรับปรุงชนิดภาษีแล้ว!';
+$_['text_list']         = 'รายการชนิดภาษี';
+$_['text_add']          = 'เพิ่มชนิดภาษี';
+$_['text_edit']         = 'แก้ไขชนิดภาษี';
+$_['text_shipping']     = 'ที่อยู่จัดส่ง';
+$_['text_payment']      = 'ที่อยู่ชำระเงิน';
+$_['text_store']        = 'ที่อยู่ร้านค้า';
 
 // Column
-$_['column_title']      = 'Tax Class Title';
+$_['column_title']      = 'ไตเติลชนิดภาษี';
 $_['column_action']     = 'การทำงาน';
 
 // Entry
-$_['entry_title']       = 'Tax Class Title';
+$_['entry_title']       = 'ไตเติลชนิดภาษี';
 $_['entry_description'] = 'รายละเอียด';
-$_['entry_rate']        = 'Tax Rate';
-$_['entry_based']       = 'Based On';
-$_['entry_geo_zone']    = 'Geo Zone';
+$_['entry_rate']        = 'อัตราภาษี';
+$_['entry_based']       = 'พื้นฐานบน';
+$_['entry_geo_zone']    = 'โซนภูมิภาค';
 $_['entry_priority']    = 'ความสำคัญ';
 
 // Error
-$_['error_permission']  = 'คำเตือน: You do not have permission to modify tax classes!';
-$_['error_title']       = 'Tax Class Title must be between 3 and 32 characters!';
-$_['error_description'] = 'Description must be between 3 and 255 characters!';
-$_['error_product']     = 'คำเตือน: This tax class cannot be deleted as it is currently assigned to %s products!';
+$_['error_permission']  = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงชนิดภาษี!';
+$_['error_title']       = 'ไตเติลชนิดภาษีต้องมีอักขระตั้งแต่ 3 ถึง 32 ตัวอักษร!';
+$_['error_description'] = 'รายละเอียดต้องมีอักขระตั้งแต่ 3 ถึง 255 ตัวอักษร!';
+$_['error_product']     = 'คำเตือน: ไม่สามารถลบชนิดภาษีนี้ได้เนื่องจากมันถูกนำไปใช้ในสินค้า %s รายการ!';

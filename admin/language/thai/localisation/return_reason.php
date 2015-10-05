@@ -3,19 +3,19 @@
 $_['heading_title']    = 'เหตุผลการคืน';
 
 // Text
-$_['text_success']     = 'สำเร็จ: You have modified return reasons!';
-$_['text_list']        = 'Return Reason List';
-$_['text_add']         = 'Add Return Reason';
-$_['text_edit']        = 'Edit Return Reason';
+$_['text_success']     = 'สำเร็จ: คุณได้ปรับปรุงเหตุผลการคืนแล้ว!';
+$_['text_list']        = 'รายการเหตุผลการคืน';
+$_['text_add']         = 'เพิ่มเหตุผลการคืน';
+$_['text_edit']        = 'แก้ไขเหตุผลการคืน';
 
 // Column
-$_['column_name']      = 'Return Reason Name';
+$_['column_name']      = 'ชื่อเหตุผลการคืน';
 $_['column_action']    = 'การทำงาน';
 
 // Entry
-$_['entry_name']       = 'Return Reason Name';
+$_['entry_name']       = 'ชื่อเหตุผลการคืน';
 
 // Error
-$_['error_permission'] = 'คำเตือน: You do not have permission to modify return reasons!';
-$_['error_name']       = 'Return Reason Name must be between 3 and 128 characters!';
-$_['error_return']     = 'คำเตือน: This return reason cannot be deleted as it is currently assigned to %s returned products!';
+$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงเหตุผลการคืน!';
+$_['error_name']       = 'ชื่อเหตุผลการคืนต้องมีอักขระตั้งแต่ 3 ถึง 128 ตัวอักษร!';
+$_['error_return']     = 'คำเตือน: ไม่สามารถลบเหตุผลการคืนนี้ได้เนื่องจากมันถูกนำไปใช้ในสินค้าที่ถูกคืน %s รายการ!';

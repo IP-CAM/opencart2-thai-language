@@ -11,7 +11,7 @@ $_['text_refund']					= 'Refund';
 $_['entry_transaction_id']			= 'รหัสการทำธุรกรรม';
 $_['entry_full_refund']				= 'Full refund';
 $_['entry_amount']					= 'Amount';
-$_['entry_message']					= 'Message';
+$_['entry_message']					= 'ข้อความ';
 
 // Button
 $_['button_refund']					= 'Issue refund';

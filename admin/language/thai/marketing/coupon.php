@@ -12,7 +12,7 @@ $_['text_amount']         = 'จำนวนคงที่';
 
 // Column
 $_['column_name']         = 'Coupon Name';
-$_['column_code']         = 'Code';
+$_['column_code']         = 'รหัส';
 $_['column_discount']     = 'ส่วนลด';
 $_['column_date_start']   = 'วันที่เริ่ม';
 $_['column_date_end']     = 'วันที่สิ้นสุด';
@@ -25,7 +25,7 @@ $_['column_action']       = 'การทำงาน';
 
 // Entry
 $_['entry_name']          = 'Coupon Name';
-$_['entry_code']          = 'Code';
+$_['entry_code']          = 'รหัส';
 $_['entry_type']          = 'ประเภท';
 $_['entry_discount']      = 'ส่วนลด';
 $_['entry_logged']        = 'Customer Login';

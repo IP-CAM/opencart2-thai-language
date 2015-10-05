@@ -15,8 +15,8 @@ $_['entry_callback']		= 'Relay Response URL';
 $_['entry_md5']				= 'MD5 Hash Value';
 $_['entry_test']			= 'Test Mode';
 $_['entry_total']			= 'ทั้งหมด';
-$_['entry_order_status']	= 'Order Status';
-$_['entry_geo_zone']		= 'Geo Zone';
+$_['entry_order_status']	= 'สถานะการสั่งซื้อ';
+$_['entry_geo_zone']		= 'โซนภูมิภาค';
 $_['entry_status']			= 'สถานะ';
 $_['entry_sort_order']		= 'เรียงลำดับ';
 

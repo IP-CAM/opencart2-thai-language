@@ -11,7 +11,7 @@ $_['text_sent']         = 'สำเร็จ: Gift Voucher e-mail has been sent
 
 // Column
 $_['column_name']       = 'Voucher Name';
-$_['column_code']       = 'Code';
+$_['column_code']       = 'รหัส';
 $_['column_from']       = 'From';
 $_['column_to']         = 'To';
 $_['column_theme']      = 'Theme';
@@ -23,13 +23,13 @@ $_['column_date_added'] = 'วันที่เพิ่ม';
 $_['column_action']     = 'การทำงาน';
 
 // Entry
-$_['entry_code']        = 'Code';
+$_['entry_code']        = 'รหัส';
 $_['entry_from_name']   = 'From Name';
 $_['entry_from_email']  = 'From E-Mail';
 $_['entry_to_name']     = 'To Name';
 $_['entry_to_email']    = 'To E-Mail';
 $_['entry_theme']       = 'Theme';
-$_['entry_message']     = 'Message';
+$_['entry_message']     = 'ข้อความ';
 $_['entry_amount']      = 'Amount';
 $_['entry_status']      = 'สถานะ';
 

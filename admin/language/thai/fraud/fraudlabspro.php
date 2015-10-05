@@ -4,9 +4,9 @@ $_['heading_title']                           = 'FraudLabs Pro';
 
 // Text
 $_['text_fraud']                              = 'ป้องกันการโกง';
-$_['text_success']                            = 'สำเร็จ: You have modified FraudLabs Pro!';
+$_['text_success']                            = 'สำเร็จ: คุณได้ปรับปรุง FraudLabs Pro แล้ว!';
 $_['text_edit']                               = 'ตั้งค่า';
-$_['text_signup']                             = 'FraudLabsPro is a fraud detection service. If you don\'t have a API key you can <a href="http://www.fraudlabspro.com/plan?ref=1730" target="_blank"><u>sign up here</u></a>.';
+$_['text_signup']                             = 'FraudLabsPro คือระบบตรวจการโกง. ถ้าคุณไม่มีกุญแจ API คุณสามารถ<a href="http://www.fraudlabspro.com/plan?ref=1730" target="_blank"><u>สมัครได้ที่นี่</u></a>.';
 $_['text_id']                                 = 'FraudLabs Pro ID';
 $_['text_ip_address']                         = 'IP Address';
 $_['text_ip_net_speed']                       = 'IP Net Speed';
@@ -27,22 +27,22 @@ $_['text_email_blacklist']                    = 'Email Blacklist';
 $_['text_credit_card_blacklist']              = 'Credit Card Blacklist';
 $_['text_score']                              = 'FraudLabsPro Score';
 $_['text_status']                             = 'FraudLabs Pro Status';
-$_['text_message']                            = 'Message';
+$_['text_message']                            = 'ข้อความ';
 $_['text_transaction_id']                     = 'รหัสการทำธุรกรรม';
-$_['text_credits']                     		  = 'Balance';
-$_['text_error']                              = 'Error:';
-$_['text_flp_upgrade']                        = '<a href="http://www.fraudlabspro.com/plan" target="_blank">[Upgrade]</a>';
-$_['text_flp_merchant_area']                  = 'Please login to <a href="http://www.fraudlabspro.com/login" target="_blank">FraudLabs Pro Merchant Area</a> for more information about this order.';
+$_['text_credits']                     		  = 'งบดุล';
+$_['text_error']                              = 'ผิดพลาด:';
+$_['text_flp_upgrade']                        = '<a href="http://www.fraudlabspro.com/plan" target="_blank">[อัพเกรด]</a>';
+$_['text_flp_merchant_area']                  = 'โปรดเข้าสู่ระบบไปยัง <a href="http://www.fraudlabspro.com/login" target="_blank">FraudLabs Pro Merchant Area</a> สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการสั่งซื้อนี้.';
 
 
 // Entry
 $_['entry_status']                            = 'สถานะ';
-$_['entry_key']                               = 'API Key';
-$_['entry_score']                             = 'Risk Score';
-$_['entry_order_status']                      = 'Order Status';
-$_['entry_review_status']                     = 'Review Status';
-$_['entry_approve_status']                    = 'Approve Status';
-$_['entry_reject_status']                     = 'Reject Status';
+$_['entry_key']                               = 'กุญแจ API';
+$_['entry_score']                             = 'คะแนนความเสี่ยง';
+$_['entry_order_status']                      = 'สถานะการสั่งซื้อ';
+$_['entry_review_status']                     = 'สถานะรีวิว';
+$_['entry_approve_status']                    = 'สถานะการอนุมัติ';
+$_['entry_reject_status']                     = 'สถานะการปฏิเสธ';
 $_['entry_simulate_ip']                       = 'Simulate IP';
 
 // Help

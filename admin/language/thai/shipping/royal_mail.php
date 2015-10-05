@@ -18,12 +18,12 @@ $_['entry_display_weight']             = 'Display Delivery Weight';
 $_['entry_display_insurance']          = 'Display Insurance';
 $_['entry_weight_class']               = 'หน่วยน้ำหนัก';
 $_['entry_tax_class']                  = 'ชนิดภาษี';
-$_['entry_geo_zone']                   = 'Geo Zone';
+$_['entry_geo_zone']                   = 'โซนภูมิภาค';
 $_['entry_status']                     = 'สถานะ';
 $_['entry_sort_order']                 = 'เรียงลำดับ';
 
 // Help
-$_['help_rate']                        = 'Example: 5:10.00,7:12.00 Weight:Cost,Weight:Cost, etc..';
+$_['help_rate']                        = 'ตัวอย่าง: 5:10.00,7:12.00 Weight:Cost,Weight:Cost, etc..';
 $_['help_insurance']                   = 'Enter values upto 5,2 decimal places. (12345.67) Example: 34:0,100:1,250:2.25 - Insurance cover for cart values upto 34 would cost 0.00 extra, those values more than 100 and upto 250 will cost 2.25 extra. Do not enter currency symbols.';
 $_['help_display_weight']              = 'Do you want to display the shipping weight? (e.g. Delivery Weight : 2.7674 kg)';
 $_['help_display_insurance']           = 'Do you want to display the shipping insurance? (e.g. Insured upto &pound;500)';

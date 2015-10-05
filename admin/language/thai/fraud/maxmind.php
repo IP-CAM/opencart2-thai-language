@@ -4,9 +4,9 @@ $_['heading_title']                           = 'MaxMind Anti-Fraud';
 
 // Text
 $_['text_fraud']                              = 'ป้องกันการโกง';
-$_['text_success']                            = 'สำเร็จ: You have modified MaxMind anti-fraud!';
+$_['text_success']                            = 'สำเร็จ: คุณได้ปรับปรุง MaxMind anti-fraud แล้ว!';
 $_['text_edit']                               = 'Edit MaxMind Anti-Fraud';
-$_['text_signup']                             = 'MaxMind is a fraud detection service. If you don\'t have a license key you can <a href="http://www.maxmind.com/?rId=opencart" target="_blank"><u>sign up here</u></a>.';
+$_['text_signup']                             = 'MaxMind คือบริการตรวจสอบการโกง. ถ้าคุณไม่มีกุญแจใบอนุญาต คุณสามารถ<a href="http://www.maxmind.com/?rId=opencart" target="_blank"><u>สมัครได้ที่นี่</u></a>.';
 $_['text_country_match']                      = 'Country Match:';
 $_['text_country_code']                       = 'Country Code:';
 $_['text_high_risk_country']                  = 'High Risk Country:';
@@ -53,15 +53,15 @@ $_['text_city_postal_match']                  = 'City Postal Match:';
 $_['text_ship_city_postal_match']             = 'Shipping City Postal Match:';
 $_['text_score']                              = 'Score:';
 $_['text_explanation']                        = 'Explanation:';
-$_['text_risk_score']                         = 'Risk Score:';
+$_['text_risk_score']                         = 'คะแนนความเสี่ยง:';
 $_['text_queries_remaining']                  = 'Queries Remaining:';
 $_['text_maxmind_id']                         = 'Maxmind ID:';
-$_['text_error']                              = 'Error:';
+$_['text_error']                              = 'ผิดพลาด:';
 
 // Entry
-$_['entry_key']                               = 'MaxMind License Key';
-$_['entry_score']                             = 'Risk Score';
-$_['entry_order_status']                      = 'Order Status';
+$_['entry_key']                               = 'กุญแจใบอนุญาต MaxMind';
+$_['entry_score']                             = 'คะแนนความเสี่ยง';
+$_['entry_order_status']                      = 'สถานะการสั่งซื้อ';
 $_['entry_status']                            = 'สถานะ';
 
 // Help

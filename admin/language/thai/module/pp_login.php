@@ -17,7 +17,7 @@ $_['entry_debug']          = 'Debug Logging';
 $_['entry_customer_group'] = 'กลุ่มลูกค้า';
 $_['entry_button']         = 'Button Colour';
 $_['entry_seamless']       = 'Allow "Seamless Checkout"';
-$_['entry_locale']         = 'Locale';
+$_['entry_locale']         = 'ท้องถิ่น';
 $_['entry_return_url']     = 'Return URL';
 $_['entry_status']         = 'สถานะ';
 

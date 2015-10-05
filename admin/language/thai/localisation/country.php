@@ -3,34 +3,34 @@
 $_['heading_title']           = 'ประเทศ';
 
 // Text
-$_['text_success']            = 'สำเร็จ: You have modified countries!';
-$_['text_list']               = 'Country List';
-$_['text_add']                = 'Add Country';
-$_['text_edit']               = 'Edit Country';
+$_['text_success']            = 'สำเร็จ: คุณได้ปรับปรุงประเทศแล้ว!';
+$_['text_list']               = 'รายการประเทศ';
+$_['text_add']                = 'เพิ่มประเทศ';
+$_['text_edit']               = 'แก้ไขประเทศ';
 
 // Column
-$_['column_name']             = 'Country Name';
+$_['column_name']             = 'ชื่อประเทศ';
 $_['column_iso_code_2']       = 'ISO Code (2)';
 $_['column_iso_code_3']       = 'ISO Code (3)';
 $_['column_action']           = 'การทำงาน';
 
 // Entry
-$_['entry_name']              = 'Country Name';
+$_['entry_name']              = 'ชื่อประเทศ';
 $_['entry_iso_code_2']        = 'ISO Code (2)';
 $_['entry_iso_code_3']        = 'ISO Code (3)';
-$_['entry_address_format']    = 'Address Format';
-$_['entry_postcode_required'] = 'Postcode Required';
+$_['entry_address_format']    = 'รูปแบบที่อยู่';
+$_['entry_postcode_required'] = 'ต้องการรหัสไปรษณีย์';
 $_['entry_status']            = 'สถานะ';
 
 // Help
-$_['help_address_format']     = 'First Name = {firstname}<br />Last Name = {lastname}<br />Company = {company}<br />Address 1 = {address_1}<br />Address 2 = {address_2}<br />City = {city}<br />Postcode = {postcode}<br />Zone = {zone}<br />Zone Code = {zone_code}<br />Country = {country}';
+$_['help_address_format']     = 'ชื่อ = {firstname}<br />นามสกุล = {lastname}<br />บริษัท = {company}<br />ที่อยู่ 1 = {address_1}<br />ที่อยู่ 2 = {address_2}<br />เมือง = {city}<br />รหัสไปรษณีย์ = {postcode}<br />โซน = {zone}<br />รหัสโซน = {zone_code}<br />ประเทศ = {country}';
 
 // Error
-$_['error_permission']        = 'คำเตือน: You do not have permission to modify countries!';
-$_['error_name']              = 'Country Name must be between 3 and 128 characters!';
-$_['error_default']           = 'คำเตือน: This country cannot be deleted as it is currently assigned as the default store country!';
-$_['error_store']             = 'คำเตือน: This country cannot be deleted as it is currently assigned to %s stores!';
-$_['error_address']           = 'คำเตือน: This country cannot be deleted as it is currently assigned to %s address book entries!';
-$_['error_affiliate']         = 'คำเตือน: This country cannot be deleted as it is currently assigned to %s affiliates!';
-$_['error_zone']              = 'คำเตือน: This country cannot be deleted as it is currently assigned to %s zones!';
-$_['error_zone_to_geo_zone']  = 'คำเตือน: This country cannot be deleted as it is currently assigned to %s zones to geo zones!';
+$_['error_permission']        = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงประเทศ!';
+$_['error_name']              = 'ชื่อประเทศต้องมีอักขระตั้งแต่ 3 ถึง 128 ตัวอักษร!';
+$_['error_default']           = 'คำเตือน: ประเทศนี้ไม่สามารถลบได้เนื่องจากมันกำลังถูกนำไปใช้งานในร้านค้าหลัก!';
+$_['error_store']             = 'คำเตือน: ประเทศนี้ไม่สามารถลบได้เนื่องจากมันกำลังถูกนำไปใช้งานในร้านค้า %s รายการ!';
+$_['error_address']           = 'คำเตือน: ประเทศนี้ไม่สามารถลบได้เนื่องจากมันกำลังถูกนำไปใช้งานในสมุดที่อยู่ %s รายการ!';
+$_['error_affiliate']         = 'คำเตือน: ประเทศนี้ไม่สามารถลบได้เนื่องจากมันกำลังถูกนำไปใช้งานในพันธมิตร %s รายการ!';
+$_['error_zone']              = 'คำเตือน: ประเทศนี้ไม่สามารถลบได้เนื่องจากมันกำลังถูกนำไปใช้งานในโซน %s รายการ!';
+$_['error_zone_to_geo_zone']  = 'คำเตือน: ประเทศนี้ไม่สามารถลบได้เนื่องจากมันกำลังถูกนำไปใช้งานในโซนของโซนภูมิภาค %s รายการ!';

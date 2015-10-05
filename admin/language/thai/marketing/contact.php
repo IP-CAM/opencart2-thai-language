@@ -23,7 +23,7 @@ $_['entry_customer']       = 'ลูกค้า';
 $_['entry_affiliate']      = 'พันธมิตร';
 $_['entry_product']        = 'สินค้า';
 $_['entry_subject']        = 'Subject';
-$_['entry_message']        = 'Message';
+$_['entry_message']        = 'ข้อความ';
 
 // Help
 $_['help_customer']       = 'เติมข้อความอัตโนมัติ';

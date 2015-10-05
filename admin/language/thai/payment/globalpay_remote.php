@@ -79,7 +79,7 @@ $_['help_card_data_status']			= 'Logs last 4 cards digits, expire, name, type an
 // Tab
 $_['tab_api']					    = 'API Details';
 $_['tab_account']				    = 'Accounts';
-$_['tab_order_status']				= 'Order Status';
+$_['tab_order_status']				= 'สถานะการสั่งซื้อ';
 $_['tab_payment']					= 'Payment Settings';
 
 // Button

@@ -13,7 +13,7 @@ $_['text_register']     = '<a href="affiliate_id=%d">%s</a> ลงทะเบ�
 
 // Column
 $_['column_affiliate']  = 'พันธมิตร';
-$_['column_comment']    = 'Comment';
+$_['column_comment']    = 'ความคิดเห็น';
 $_['column_ip']         = 'IP';
 $_['column_date_added'] = 'วันที่เพิ่ม';
 

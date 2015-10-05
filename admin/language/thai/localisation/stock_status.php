@@ -3,19 +3,19 @@
 $_['heading_title']    = 'สถานะสต็อก';
 
 // Text
-$_['text_success']     = 'สำเร็จ: You have modified stock statuses!';
-$_['text_list']        = 'Stock Status List';
-$_['text_add']         = 'Add Stock Status';
-$_['text_edit']        = 'Edit Stock Status';
+$_['text_success']     = 'สำเร็จ: คุณได้ปรับปรุงสถานะสต็อกแล้ว!';
+$_['text_list']        = 'รายการสถานะสต็อก';
+$_['text_add']         = 'เพิ่มสถานะสต็อก';
+$_['text_edit']        = 'แก้ไขสถานะสต็อก';
 
 // Column
-$_['column_name']      = 'Stock Status Name';
+$_['column_name']      = 'ชื่อสถานะสต็อก';
 $_['column_action']    = 'การทำงาน';
 
 // Entry
-$_['entry_name']       = 'Stock Status Name';
+$_['entry_name']       = 'ชื่อสถานะสต็อก';
 
 // Error
-$_['error_permission'] = 'คำเตือน: You do not have permission to modify stock statuses!';
-$_['error_name']       = 'Stock Status Name must be between 3 and 32 characters!';
-$_['error_product']    = 'คำเตือน: This stock status cannot be deleted as it is currently assigned to %s products!';
+$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงสถานะสต็อก!';
+$_['error_name']       = 'ชื่อสถานะสต็อกต้องมีอักขระตั้งแต่ 3 ถึง 32 ตัวอักษร!';
+$_['error_product']    = 'คำเตือน: ไม่สามารถลบสถานะสต็อกนี้ได้เนื่องจากมันถูกนำไปใช้ในสินค้า %s รายการ!';

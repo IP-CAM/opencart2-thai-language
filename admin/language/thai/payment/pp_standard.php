@@ -26,13 +26,13 @@ $_['entry_processed_status']		 = 'Processed Status';
 $_['entry_refunded_status']			 = 'Refunded Status';
 $_['entry_reversed_status']			 = 'Reversed Status';
 $_['entry_voided_status']			 = 'Voided Status';
-$_['entry_geo_zone']				 = 'Geo Zone';
+$_['entry_geo_zone']				 = 'โซนภูมิภาค';
 $_['entry_status']					 = 'สถานะ';
 $_['entry_sort_order']				 = 'เรียงลำดับ';
 
 // Tab
 $_['tab_general']					 = 'General';
-$_['tab_order_status']       		 = 'Order Status';
+$_['tab_order_status']       		 = 'สถานะการสั่งซื้อ';
 
 // Help
 $_['help_test']						 = 'Use the live or testing (sandbox) gateway server to process transactions?';

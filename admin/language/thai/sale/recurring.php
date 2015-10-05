@@ -46,6 +46,6 @@ $_['entry_recurring']                      = 'รายละเอียดผ�
 $_['entry_payment_method']                 = 'วิธีการชำระเงิน';
 
 // Error / Success
-$_['error_not_cancelled']                  = 'Error: %s';
+$_['error_not_cancelled']                  = 'ผิดพลาด: %s';
 $_['error_not_found']                      = 'Could not cancel recurring profile';
 $_['text_cancelled']                    = 'Recurring payment has been cancelled';

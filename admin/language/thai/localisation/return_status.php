@@ -3,20 +3,20 @@
 $_['heading_title']    = 'สถานะการคืน';
 
 // Text
-$_['text_success']     = 'สำเร็จ: You have modified return statuses!';
-$_['text_list']        = 'Return Status List';
-$_['text_add']         = 'Add Return Status';
-$_['text_edit']        = 'Edit Return Status';
+$_['text_success']     = 'สำเร็จ: คุณได้ปรับปรุงสถานะการคืนแล้ว!';
+$_['text_list']        = 'รายการสถานะการคืน';
+$_['text_add']         = 'เพิ่มสถานะการคืน';
+$_['text_edit']        = 'แก้ไขสถานะการคืน';
 
 // Column
-$_['column_name']      = 'Return Status Name';
+$_['column_name']      = 'ชื่อสถานะการคืน';
 $_['column_action']    = 'การทำงาน';
 
 // Entry
-$_['entry_name']       = 'Return Status Name';
+$_['entry_name']       = 'ชื่อสถานะการคืน';
 
 // Error
-$_['error_permission'] = 'คำเตือน: You do not have permission to modify return statues!';
-$_['error_name']       = 'Return Status Name must be between 3 and 32 characters!';
-$_['error_default']    = 'คำเตือน: This return status cannot be deleted as it is currently assigned as the default return status!';
-$_['error_return']     = 'คำเตือน: This return status cannot be deleted as it is currently assigned to %s returns!';
+$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงสถานะการคืน!';
+$_['error_name']       = 'ชื่อสถานะการคืนต้องมีอักขระตั้งแต่ 3 ถึง 32 ตัวอักษร';
+$_['error_default']    = 'คำเตือน: ไม่สามารถลบสถานะการคืนนี้ได้เนื่องจากมันถูกนำไปใช้ในค่าเริ่มต้นการคืนของร้านค้า!';
+$_['error_return']     = 'คำเตือน: ไม่สามารถลบสถานะการคืนนี้ได้เนื่องจากมันถูกนำไปใช้ในรายการคืนสินค้า %s รายการ!';

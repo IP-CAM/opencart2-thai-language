@@ -3,19 +3,19 @@
 $_['heading_title']    = 'การทำงานคืนสินค้า';
 
 // Text
-$_['text_success']     = 'สำเร็จ: You have modified return actions!';
-$_['text_list']        = 'Return Action List';
-$_['text_add']         = 'Add Return Action';
-$_['text_edit']        = 'Edit Return Action';
+$_['text_success']     = 'สำเร็จ: คุณได้ปรับปรุงการทำงานคืนสินค้าแล้ว!';
+$_['text_list']        = 'รายการการทำงานคืนสินค้า';
+$_['text_add']         = 'เพิ่มการทำงานคืนสินค้า';
+$_['text_edit']        = 'แก้ไขการทำงานคืนสินค้า';
 
 // Column
-$_['column_name']      = 'Return Action Name';
+$_['column_name']      = 'ชื่อการทำงานคืนสินค้า';
 $_['column_action']    = 'การทำงาน';
 
 // Entry
-$_['entry_name']       = 'Return Action Name';
+$_['entry_name']       = 'ชื่อการทำงานคืนสินค้า';
 
 // Error
-$_['error_permission'] = 'คำเตือน: You do not have permission to modify return actions!';
-$_['error_name']       = 'Return Action Name must be between 3 and 64 characters!';
-$_['error_return']     = 'คำเตือน: This return action cannot be deleted as it is currently assigned to %s returned products!';
+$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงการทำงานคืนสินค้า!';
+$_['error_name']       = 'ชื่อการทำงานคืนสินค้าต้องมีอักขระตั้งแต่ 3 ถึง 64 ตัวอักษร!';
+$_['error_return']     = 'คำเตือน: ไม่สามารถลบการทำงานคืนสินค้านี้เนื่องจากถูกนำไปใช้ในสินค้าที่คืน %s รายการ!';

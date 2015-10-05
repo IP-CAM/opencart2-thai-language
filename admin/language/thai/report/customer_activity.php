@@ -19,7 +19,7 @@ $_['text_order_guest']    = '%s ได้สร้าง<a href="order_id=%d">�
 
 // Column
 $_['column_customer']     = 'ลูกค้า';
-$_['column_comment']      = 'Comment';
+$_['column_comment']      = 'ความคิดเห็น';
 $_['column_ip']           = 'IP';
 $_['column_date_added']   = 'วันที่เพิ่ม';
 

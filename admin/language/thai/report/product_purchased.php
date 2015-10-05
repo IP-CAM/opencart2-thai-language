@@ -17,4 +17,4 @@ $_['column_total']      = 'ทั้งหมด';
 // Entry
 $_['entry_date_start']  = 'วันที่เริ่ม';
 $_['entry_date_end']    = 'วันที่สิ้นสุด';
-$_['entry_status']      = 'Order Status';
+$_['entry_status']      = 'สถานะการสั่งซื้อ';

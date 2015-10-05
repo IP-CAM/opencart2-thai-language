@@ -14,7 +14,7 @@ $_['entry_display_weight']    = 'Display Delivery Weight';
 $_['entry_display_insurance'] = 'Display Insurance';
 $_['entry_display_time']      = 'Display Delivery Time';
 $_['entry_tax_class']         = 'ชนิดภาษี';
-$_['entry_geo_zone']          = 'Geo Zone';
+$_['entry_geo_zone']          = 'โซนภูมิภาค';
 $_['entry_status']            = 'สถานะ';
 $_['entry_sort_order']        = 'เรียงลำดับ';
 

@@ -3,28 +3,28 @@
 $_['heading_title']          = 'โซน';
 
 // Text
-$_['text_success']           = 'สำเร็จ: You have modified zones!';
-$_['text_list']              = 'Zone List';
-$_['text_add']               = 'Add Zone';
-$_['text_edit']              = 'Edit Zone';
+$_['text_success']           = 'สำเร็จ: คุณได้ปรับปรุงโซนแล้ว!';
+$_['text_list']              = 'รายการโซน';
+$_['text_add']               = 'เพิ่มโซน';
+$_['text_edit']              = 'แก้ไขโซน';
 
 // Column
-$_['column_name']            = 'Zone Name';
-$_['column_code']            = 'Zone Code';
-$_['column_country']         = 'Country';
+$_['column_name']            = 'ชื่อโซน';
+$_['column_code']            = 'รหัสโซน';
+$_['column_country']         = 'ประเทศ';
 $_['column_action']          = 'การทำงาน';
 
 // Entry
-$_['entry_name']             = 'Zone Name';
-$_['entry_code']             = 'Zone Code';
-$_['entry_country']          = 'Country';
+$_['entry_name']             = 'ชื่อโซน';
+$_['entry_code']             = 'รหัสโซน';
+$_['entry_country']          = 'ประเทศ';
 $_['entry_status']           = 'สถานะ';
 
 // Error
-$_['error_permission']       = 'คำเตือน: You do not have permission to modify zones!';
-$_['error_name']             = 'Zone Name must be between 3 and 128 characters!';
-$_['error_default']          = 'คำเตือน: This zone cannot be deleted as it is currently assigned as the default store zone!';
-$_['error_store']            = 'คำเตือน: This zone cannot be deleted as it is currently assigned to %s stores!';
-$_['error_address']          = 'คำเตือน: This zone cannot be deleted as it is currently assigned to %s address book entries!';
-$_['error_affiliate']        = 'คำเตือน: This zone cannot be deleted as it is currently assigned to %s affiliates!';
-$_['error_zone_to_geo_zone'] = 'คำเตือน: This zone cannot be deleted as it is currently assigned to %s zones to geo zones!';
+$_['error_permission']       = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงโซน!';
+$_['error_name']             = 'ชื่อโซนต้องมีอักขระตั้งแต่ 3 ถึง 128 ตัวอักษร!';
+$_['error_default']          = 'คำเตือน: ไม่สามารถลบโซนนี้ได้เนื่องจากมันถูกนำไปใช้เป็นค่าเริ่มต้นของร้าน!';
+$_['error_store']            = 'คำเตือน: ไม่สามารถลบโซนนี้ได้เนื่องจากมันถูกนำไปใช้ในร้าน % รายการ!';
+$_['error_address']          = 'คำเตือน: ไม่สามารถลบโซนนี้ได้เนื่องจากมันถูกนำไปใช้ในสมุดที่อยู่ % รายการ!';
+$_['error_affiliate']        = 'คำเตือน: ไม่สามารถลบโซนนี้ได้เนื่องจากมันถูกนำไปใช้ในพันธมิตร % รายการ!';
+$_['error_zone_to_geo_zone'] = 'คำเตือน: ไม่สามารถลบโซนนี้ได้เนื่องจากมันถูกนำไปใช้ในโซนภูมิภาค % รายการ!';

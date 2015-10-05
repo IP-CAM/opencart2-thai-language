@@ -3,28 +3,28 @@
 $_['heading_title']    = 'หน่วยน้ำหนัก';
 
 // Text
-$_['text_success']     = 'สำเร็จ: You have modified weight classes!';
-$_['text_list']        = 'Weight Class List';
-$_['text_add']         = 'Add Weight Class';
-$_['text_edit']        = 'Edit Weight Class';
+$_['text_success']     = 'สำเร็จ: คุณได้ปรับปรุงหน่วยน้ำหนักแล้ว!';
+$_['text_list']        = 'รายการหน่วยน้ำหนัก';
+$_['text_add']         = 'เพิ่มหน่วยน้ำหนัก';
+$_['text_edit']        = 'แก้ไขหน่วยน้ำหนัก';
 
 // Column
-$_['column_title']     = 'Weight Title';
-$_['column_unit']      = 'Weight Unit';
-$_['column_value']     = 'Value';
+$_['column_title']     = 'ไตเติลน้ำหนัก';
+$_['column_unit']      = 'หน่วยของน้ำหนัก';
+$_['column_value']     = 'มูลค่า';
 $_['column_action']    = 'การทำงาน';
 
 // Entry
-$_['entry_title']      = 'Weight Title';
-$_['entry_unit']       = 'Weight Unit';
-$_['entry_value']      = 'Value';
+$_['entry_title']      = 'ไตเติลน้ำหนัก';
+$_['entry_unit']       = 'หน่วยของน้ำหนัก';
+$_['entry_value']      = 'มูลค่า';
 
 // Help
-$_['help_value']       = 'Set to 1.00000 if this is your default weight.';
+$_['help_value']       = 'กำหนดเป็น 1.00000 ถ้านี่คือค่าเริ่มต้นน้ำหนักของคุณ.';
 
 // Error
-$_['error_permission'] = 'คำเตือน: You do not have permission to modify weight classes!';
-$_['error_title']      = 'Weight Title must be between 3 and 32 characters!';
-$_['error_unit']       = 'Weight Unit must be between 1 and 4 characters!';
-$_['error_default']    = 'คำเตือน: This weight class cannot be deleted as it is currently assigned as the default store weight class!';
-$_['error_product']    = 'คำเตือน: This weight class cannot be deleted as it is currently assigned to %s products!';
+$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงหน่วยน้ำหนัก!';
+$_['error_title']      = 'ไตเติลน้ำหนักต้องมีอักขระตั้งแต่ 3 ถึง 32 ตัวอักษร!';
+$_['error_unit']       = 'หน่วยของน้ำหนักต้องมีอักขระตั้งแต่ 1 ถึง 4 ตัวอักษร!';
+$_['error_default']    = 'คำเตือน: ไม่สามารถลบหน่วยน้ำหนักนี้เนื่องจากมันถูกนำไปใช้เป็นค่าเริ่มต้นของร้านค้า!';
+$_['error_product']    = 'คำเตือน: ไม่สามารถลบหน่วยน้ำหนักนี้เนื่องจากมันถูกนำไปใช้ในสินค้า %s รายการ!';
