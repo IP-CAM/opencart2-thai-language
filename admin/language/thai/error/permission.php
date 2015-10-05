@@ -3,4 +3,4 @@
 $_['heading_title']   = 'ถูกปฏิเสธการเข้าถึง!';
 
 // Text
-$_['text_permission'] = 'You do not have permission to access this page, please refer to your system administrator.';
+$_['text_permission'] = 'คุณไม่ได้รับอนุญาตให้เข้าถึงหน้านี้, โปรดอ้างอิงไปยังผู้ดูแลระบบของคุณ.';
