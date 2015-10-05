@@ -14,6 +14,6 @@ $_['column_orders']    = 'No. Orders';
 $_['column_total']     = 'Total';
 
 // Entry
-$_['entry_date_start'] = 'Date Start';
-$_['entry_date_end']   = 'Date End';
+$_['entry_date_start'] = 'วันที่เริ่ม';
+$_['entry_date_end']   = 'วันที่สิ้นสุด';
 $_['entry_status']     = 'Order Status';

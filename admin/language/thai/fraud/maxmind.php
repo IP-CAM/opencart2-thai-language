@@ -4,7 +4,7 @@ $_['heading_title']                           = 'MaxMind Anti-Fraud';
 
 // Text
 $_['text_fraud']                              = 'Anti-Fraud';
-$_['text_success']                            = 'Success: You have modified MaxMind anti-fraud!';
+$_['text_success']                            = 'สำเร็จ: You have modified MaxMind anti-fraud!';
 $_['text_edit']                               = 'Edit MaxMind Anti-Fraud';
 $_['text_signup']                             = 'MaxMind is a fraud detection service. If you don\'t have a license key you can <a href="http://www.maxmind.com/?rId=opencart" target="_blank"><u>sign up here</u></a>.';
 $_['text_country_match']                      = 'Country Match:';
@@ -62,7 +62,7 @@ $_['text_error']                              = 'Error:';
 $_['entry_key']                               = 'MaxMind License Key';
 $_['entry_score']                             = 'Risk Score';
 $_['entry_order_status']                      = 'Order Status';
-$_['entry_status']                            = 'Status';
+$_['entry_status']                            = 'สถานะ';
 
 // Help
 $_['help_score']                              = 'The higher the score the more likely the order is fraudulent. Set a score between 0 - 100.';

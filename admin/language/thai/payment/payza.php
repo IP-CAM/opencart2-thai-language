@@ -4,7 +4,7 @@ $_['heading_title']					= 'Payza';
 
 // Text
 $_['text_payment']					= 'Payment';
-$_['text_success']					= 'Success: You have modified Payza account details!';
+$_['text_success']					= 'สำเร็จ: You have modified Payza account details!';
 $_['text_edit']                     = 'Edit Payza';
 
 // Entry
@@ -14,8 +14,8 @@ $_['entry_callback']				= 'Alert URL';
 $_['entry_total']					= 'Total';
 $_['entry_order_status']			= 'Order Status';
 $_['entry_geo_zone']				= 'Geo Zone';
-$_['entry_status']					= 'Status';
-$_['entry_sort_order']				= 'Sort Order';
+$_['entry_status']					= 'สถานะ';
+$_['entry_sort_order']				= 'เรียงลำดับ';
 
 // Help
 $_['help_callback']					= 'This has to be set in the Payza control panel. You will also need to check the "IPN Status" to enabled.';

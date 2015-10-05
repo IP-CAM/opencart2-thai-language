@@ -4,7 +4,7 @@ $_['heading_title']         = 'United States Postal Service';
 
 // Text
 $_['text_shipping']         = 'การส่งสินค้า';
-$_['text_success']          = 'Success: You have modified United States Postal Service!';
+$_['text_success']          = 'สำเร็จ: You have modified United States Postal Service!';
 $_['text_edit']             = 'Edit United States Postal Service Shipping';
 $_['text_domestic_00']      = 'First-Class Mail Parcel';
 $_['text_domestic_01']      = 'First-Class Mail Large Envelope';
@@ -59,16 +59,16 @@ $_['entry_size']            = 'Size';
 $_['entry_container']       = 'Container';
 $_['entry_machinable']      = 'Machinable';
 $_['entry_dimension']       = 'ขนาด (ยาว x กว้าง x สูง)';
-$_['entry_length']          = 'Length';
-$_['entry_height']          = 'Height';
-$_['entry_width']           = 'Width';
+$_['entry_length']          = 'ความยาว';
+$_['entry_height']          = 'ความสูง';
+$_['entry_width']           = 'ความกว้าง';
 $_['entry_display_time']    = 'Display Delivery Time';
 $_['entry_display_weight']  = 'Display Delivery Weight';
-$_['entry_weight_class']    = 'Weight Class';
-$_['entry_tax']             = 'Tax Class';
+$_['entry_weight_class']    = 'หน่วยน้ำหนัก';
+$_['entry_tax']             = 'ชนิดภาษี';
 $_['entry_geo_zone']        = 'Geo Zone';
-$_['entry_status']          = 'Status';
-$_['entry_sort_order']      = 'Sort Order';
+$_['entry_status']          = 'สถานะ';
+$_['entry_sort_order']      = 'เรียงลำดับ';
 $_['entry_debug']      		= 'Debug Mode';
 
 // Help

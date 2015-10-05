@@ -3,7 +3,7 @@
 $_['heading_title']         = 'Customers';
 
 // Text
-$_['text_success']          = 'Success: You have modified customers!';
+$_['text_success']          = 'สำเร็จ: You have modified customers!';
 $_['text_list']             = 'Customer List';
 $_['text_add']              = 'Add Customer';
 $_['text_edit']             = 'Edit Customer';
@@ -16,15 +16,15 @@ $_['text_remove_ban_ip']    = 'Remove Ban IP';
 $_['column_name']           = 'Customer Name';
 $_['column_email']          = 'E-Mail';
 $_['column_customer_group'] = 'กลุ่มลูกค้า';
-$_['column_status']         = 'Status';
-$_['column_date_added']     = 'Date Added';
+$_['column_status']         = 'สถานะ';
+$_['column_date_added']     = 'วันที่เพิ่ม';
 $_['column_comment']        = 'Comment';
-$_['column_description']    = 'Description';
+$_['column_description']    = 'รายละเอียด';
 $_['column_amount']         = 'Amount';
-$_['column_points']         = 'Points';
+$_['column_points']         = 'แต้ม';
 $_['column_ip']             = 'IP';
 $_['column_total']          = 'Total Accounts';
-$_['column_action']         = 'Action';
+$_['column_action']         = 'การทำงาน';
 
 // Entry
 $_['entry_customer_group']  = 'กลุ่มลูกค้า';
@@ -34,7 +34,7 @@ $_['entry_email']           = 'E-Mail';
 $_['entry_telephone']       = 'Telephone';
 $_['entry_fax']             = 'Fax';
 $_['entry_newsletter']      = 'Newsletter';
-$_['entry_status']          = 'Status';
+$_['entry_status']          = 'สถานะ';
 $_['entry_approved']        = 'Approved';
 $_['entry_safe']            = 'Safe';
 $_['entry_password']        = 'Password';
@@ -48,19 +48,19 @@ $_['entry_country']         = 'Country';
 $_['entry_zone']            = 'Region / State';
 $_['entry_default']         = 'Default Address';
 $_['entry_comment']         = 'Comment';
-$_['entry_description']     = 'Description';
+$_['entry_description']     = 'รายละเอียด';
 $_['entry_amount']          = 'Amount';
-$_['entry_points']          = 'Points';
+$_['entry_points']          = 'แต้ม';
 $_['entry_name']            = 'Customer Name';
 $_['entry_ip']              = 'IP';
-$_['entry_date_added']      = 'Date Added';
+$_['entry_date_added']      = 'วันที่เพิ่ม';
 
 // Help
 $_['help_safe']             = 'Set to true to avoid this customer from being caught by the anti-fraud system';
 $_['help_points']           = 'Use minus to remove points';
 
 // Error
-$_['error_warning']         = 'คำเตือน: Please check the form carefully for errors!';
+$_['error_warning']         = 'คำเตือน: กรุณาตรวจสอบฟอร์มอย่างระมัดระวังสำหรับข้อผิดพลาด!';
 $_['error_permission']      = 'คำเตือน: You do not have permission to modify customers!';
 $_['error_exists']          = 'คำเตือน: E-Mail Address is already registered!';
 $_['error_firstname']       = 'First Name must be between 1 and 32 characters!';

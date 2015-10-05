@@ -4,14 +4,14 @@ $_['heading_title']    = 'Free Shipping';
 
 // Text
 $_['text_shipping']    = 'การส่งสินค้า';
-$_['text_success']     = 'Success: You have modified free shipping!';
+$_['text_success']     = 'สำเร็จ: You have modified free shipping!';
 $_['text_edit']        = 'Edit Free Shipping';
 
 // Entry
 $_['entry_total']      = 'Total';
 $_['entry_geo_zone']   = 'Geo Zone';
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+$_['entry_status']     = 'สถานะ';
+$_['entry_sort_order'] = 'เรียงลำดับ';
 
 // Help
 $_['help_total']       = 'Sub-Total amount needed before the free shipping module becomes available.';

@@ -3,41 +3,41 @@
 $_['heading_title']       = 'Coupons';
 
 // Text
-$_['text_success']        = 'Success: You have modified coupons!';
+$_['text_success']        = 'สำเร็จ: You have modified coupons!';
 $_['text_list']           = 'Coupon List';
 $_['text_add']            = 'Add Coupon';
 $_['text_edit']           = 'Edit Coupon';
-$_['text_percent']        = 'Percentage';
-$_['text_amount']         = 'Fixed Amount';
+$_['text_percent']        = 'เปอร์เซ็นต์';
+$_['text_amount']         = 'จำนวนคงที่';
 
 // Column
 $_['column_name']         = 'Coupon Name';
 $_['column_code']         = 'Code';
 $_['column_discount']     = 'ส่วนลด';
-$_['column_date_start']   = 'Date Start';
-$_['column_date_end']     = 'Date End';
-$_['column_status']       = 'Status';
+$_['column_date_start']   = 'วันที่เริ่ม';
+$_['column_date_end']     = 'วันที่สิ้นสุด';
+$_['column_status']       = 'สถานะ';
 $_['column_order_id']     = 'รหัสสั่งซื้อ';
 $_['column_customer']     = 'Customer';
 $_['column_amount']       = 'Amount';
-$_['column_date_added']   = 'Date Added';
-$_['column_action']       = 'Action';
+$_['column_date_added']   = 'วันที่เพิ่ม';
+$_['column_action']       = 'การทำงาน';
 
 // Entry
 $_['entry_name']          = 'Coupon Name';
 $_['entry_code']          = 'Code';
-$_['entry_type']          = 'Type';
+$_['entry_type']          = 'ประเภท';
 $_['entry_discount']      = 'ส่วนลด';
 $_['entry_logged']        = 'Customer Login';
 $_['entry_shipping']      = 'Free Shipping';
 $_['entry_total']         = 'Total Amount';
 $_['entry_category']      = 'Category';
 $_['entry_product']       = 'สินค้า';
-$_['entry_date_start']    = 'Date Start';
-$_['entry_date_end']      = 'Date End';
+$_['entry_date_start']    = 'วันที่เริ่ม';
+$_['entry_date_end']      = 'วันที่สิ้นสุด';
 $_['entry_uses_total']    = 'Uses Per Coupon';
 $_['entry_uses_customer'] = 'Uses Per Customer';
-$_['entry_status']        = 'Status';
+$_['entry_status']        = 'สถานะ';
 
 // Help
 $_['help_code']           = 'The code the customer enters to get the discount.';

@@ -3,14 +3,14 @@
 $_['heading_title']    = 'Stock Statuses';
 
 // Text
-$_['text_success']     = 'Success: You have modified stock statuses!';
+$_['text_success']     = 'สำเร็จ: You have modified stock statuses!';
 $_['text_list']        = 'Stock Status List';
 $_['text_add']         = 'Add Stock Status';
 $_['text_edit']        = 'Edit Stock Status';
 
 // Column
 $_['column_name']      = 'Stock Status Name';
-$_['column_action']    = 'Action';
+$_['column_action']    = 'การทำงาน';
 
 // Entry
 $_['entry_name']       = 'Stock Status Name';

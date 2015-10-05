@@ -16,15 +16,15 @@ $_['text_change_merchantid']        	= 'Change';
 $_['text_allowed']                  	= 'Allowed';
 $_['text_not_allowed']              	= 'Not Allowed';
 $_['text_price']              			= 'ราคา';
-$_['text_name']              			= 'Name';
-$_['text_description']              	= 'Description';
+$_['text_name']              			= 'ชื่อ';
+$_['text_description']              	= 'รายละเอียด';
 $_['text_order_frequency']          	= 'Order import frequency';
 $_['text_bulk_listing']             	= 'Bulk Listing';
 $_['text_product_listings']         	= 'Listings per month';
 
 // Columns
-$_['column_name']                     	= 'Name';
-$_['column_description']              	= 'Description';
+$_['column_name']                     	= 'ชื่อ';
+$_['column_description']              	= 'รายละเอียด';
 $_['column_order_frequency']          	= 'Order import frequency';
 $_['column_bulk_listing']             	= 'Bulk Listing';
 $_['column_product_listings']         	= 'Listings per month';

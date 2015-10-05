@@ -3,8 +3,8 @@
 $_['heading_title']                    = 'Settings';
 
 // Text
-$_['text_stores']                      = 'Stores';
-$_['text_success']                     = 'Success: You have modified settings!';
+$_['text_stores']                      = 'ร้านค้า';
+$_['text_success']                     = 'สำเร็จ: You have modified settings!';
 $_['text_edit']                        = 'Edit Setting';
 $_['text_product']                     = 'สินค้า';
 $_['text_review']                      = 'รีวิว';
@@ -30,7 +30,7 @@ $_['entry_geocode']                    = 'Geocode';
 $_['entry_email']                      = 'E-Mail';
 $_['entry_telephone']                  = 'Telephone';
 $_['entry_fax']                        = 'Fax';
-$_['entry_image']                      = 'Image';
+$_['entry_image']                      = 'รูปภาพ';
 $_['entry_open']                       = 'เวลาเปิด';
 $_['entry_comment']                    = 'Comment';
 $_['entry_location']                   = 'Store Location';
@@ -45,8 +45,8 @@ $_['entry_language']                   = 'ภาษา';
 $_['entry_admin_language']             = 'Administration Language';
 $_['entry_currency']                   = 'สกุลเงิน';
 $_['entry_currency_auto']              = 'Auto Update Currency';
-$_['entry_length_class']               = 'Length Class';
-$_['entry_weight_class']               = 'Weight Class';
+$_['entry_length_class']               = 'หน่วยความยาว';
+$_['entry_weight_class']               = 'หน่วยน้ำหนัก';
 $_['entry_product_limit']              = 'Default Items Per Page (Catalog)';
 $_['entry_product_description_length'] = 'List Description Limit (Catalog)';
 $_['entry_limit_admin']                = 'Default Items Per Page (Admin)';
@@ -98,8 +98,8 @@ $_['entry_image_compare']              = 'Compare Image Size';
 $_['entry_image_wishlist']             = 'Wish List Image Size';
 $_['entry_image_cart']                 = 'Cart Image Size';
 $_['entry_image_location']             = 'Store Image Size';
-$_['entry_width']                      = 'Width';
-$_['entry_height']                     = 'Height';
+$_['entry_width']                      = 'ความกว้าง';
+$_['entry_height']                     = 'ความสูง';
 $_['entry_ftp_hostname']               = 'FTP Host';
 $_['entry_ftp_port']                   = 'FTP Port';
 $_['entry_ftp_username']               = 'FTP Username';
@@ -130,7 +130,7 @@ $_['entry_error_filename']             = 'Error Log Filename';
 $_['entry_google_analytics']           = 'Google Analytics Code';
 $_['entry_google_captcha_public']      = 'Site key';
 $_['entry_google_captcha_secret']      = 'Secret key';
-$_['entry_status']                     = 'Status';
+$_['entry_status']                     = 'สถานะ';
 
 // Help
 $_['help_geocode']                     = 'Please enter your store location geocode manually.';
@@ -181,7 +181,7 @@ $_['help_ftp_root']                    = 'The directory your OpenCart installati
 $_['help_mail_protocol']               = 'Only choose \'Mail\' unless your host has disabled the php mail function.';
 $_['help_mail_parameter']              = 'When using \'Mail\', additional mail parameters can be added here (e.g. -f email@storeaddress.com).';
 $_['help_mail_smtp_hostname']          = 'Add \'tls://\' prefix if security connection is required. (e.g. tls://smtp.gmail.com).';
-$_['help_mail_alert']                  = 'Any additional emails you want to receive the alert email, in addition to the main store email. (comma separated).';
+$_['help_mail_alert']                  = 'Any additional emails you want to receive the alert email, in addition to the main store email. (แบ่งด้วยเครื่องหมายลูกน้ำ (,)).';
 $_['help_secure']                      = 'To use SSL check with your host if a SSL certificate is installed and add the SSL URL to the catalog and admin config files.';
 $_['help_shared']                      = 'Try to share the session cookie between stores so the cart can be passed between different domains.';
 $_['help_robots']                      = 'A list of web crawler user agents that shared sessions will not be used with. Use separate lines for each user agent.';
@@ -197,7 +197,7 @@ $_['help_google_analytics']            = 'Login to your <a href="http://www.goog
 $_['help_google_captcha']              = 'Go to <a href="https://www.google.com/recaptcha/intro/index.html" target="_blank"><u>Google reCAPTCHA page</u></a> and register your website.';
 
 // Error
-$_['error_warning']                    = 'คำเตือน: Please check the form carefully for errors!';
+$_['error_warning']                    = 'คำเตือน: กรุณาตรวจสอบฟอร์มอย่างระมัดระวังสำหรับข้อผิดพลาด!';
 $_['error_permission']                 = 'คำเตือน: You do not have permission to modify settings!';
 $_['error_name']                       = 'Store Name must be between 3 and 32 characters!';
 $_['error_owner']                      = 'Store Owner must be between 3 and 64 characters!';

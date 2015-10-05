@@ -1,19 +1,19 @@
 <?php
 // Heading
-$_['heading_title']       = 'Options';
+$_['heading_title']       = 'ตัวเลือก';
 
 // Text
-$_['text_success']        = 'Success: You have modified options!';
-$_['text_list']           = 'Option List';
-$_['text_add']            = 'Add Option';
-$_['text_edit']           = 'Edit Option';
-$_['text_choose']         = 'Choose';
+$_['text_success']        = 'สำเร็จ: คุณได้ปรับปรุงตัวเลือกแล้ว!';
+$_['text_list']           = 'รายการตัวเลือก';
+$_['text_add']            = 'เพิ่มตัวเลือก';
+$_['text_edit']           = 'แก้ไขตัวเลือก';
+$_['text_choose']         = 'เลือก';
 $_['text_select']         = 'Select';
 $_['text_radio']          = 'Radio';
 $_['text_checkbox']       = 'Checkbox';
-$_['text_image']          = 'Image';
+$_['text_image']          = 'รูปภาพ';
 $_['text_input']          = 'Input';
-$_['text_text']           = 'Text';
+$_['text_text']           = 'ข้อความ';
 $_['text_textarea']       = 'Textarea';
 $_['text_file']           = 'File';
 $_['text_date']           = 'Date';
@@ -21,20 +21,20 @@ $_['text_datetime']       = 'Date &amp; Time';
 $_['text_time']           = 'Time';
 
 // Column
-$_['column_name']         = 'Option Name';
-$_['column_sort_order']   = 'Sort Order';
-$_['column_action']       = 'Action';
+$_['column_name']         = 'ชื่อตัวเลือก';
+$_['column_sort_order']   = 'เรียงลำดับ';
+$_['column_action']       = 'การทำงาน';
 
 // Entry
-$_['entry_name']          = 'Option Name';
-$_['entry_type']          = 'Type';
-$_['entry_option_value']  = 'Option Value Name';
-$_['entry_image']         = 'Image';
-$_['entry_sort_order']    = 'Sort Order';
+$_['entry_name']          = 'ชื่อตัวเลือก';
+$_['entry_type']          = 'ประเภท';
+$_['entry_option_value']  = 'ค่าของตัวเลือก';
+$_['entry_image']         = 'รูปภาพ';
+$_['entry_sort_order']    = 'เรียงลำดับ';
 
 // Error
-$_['error_permission']    = 'คำเตือน: You do not have permission to modify options!';
-$_['error_name']          = 'Option Name must be between 1 and 128 characters!';
-$_['error_type']          = 'คำเตือน: Option Values required!';
-$_['error_option_value']  = 'Option Value Name must be between 1 and 128 characters!';
-$_['error_product']       = 'คำเตือน: This option cannot be deleted as it is currently assigned to %s products!';
+$_['error_permission']    = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงตัวเลือก!';
+$_['error_name']          = 'ชื่อตัวเลือกต้องมีอักขระตั้งแต่ 1 ถึง 128 ตัวอักษร!';
+$_['error_type']          = 'คำเตือน: ต้องกรอกค่าของตัวเลือก!';
+$_['error_option_value']  = 'ค่าของตัวเลือกต้องมีอักขระตั้งแต่ 1 ถึง 128 ตัวอักษร!';
+$_['error_product']       = 'คำเตือน: ตัวเลือกนี้ไม่สามารถลบได้เนื่องจากถูกนำไปใช้ในสินค้า %s รายการ!';

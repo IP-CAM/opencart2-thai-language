@@ -3,14 +3,14 @@
 $_['heading_title']        = 'Extension Installer';
 
 // Text
-$_['text_success']         = 'Success: You have installed your extension!';
+$_['text_success']         = 'สำเร็จ: You have installed your extension!';
 $_['text_unzip']           = 'Extracting files!';
 $_['text_ftp']             = 'Copying files!';
 $_['text_sql']             = 'Running SQL!';
 $_['text_xml']             = 'Applying modifications!';
 $_['text_php']             = 'Running PHP!';
 $_['text_remove']          = 'Removing temporary files!';
-$_['text_clear']           = 'Success: You have cleared all temporary files!';
+$_['text_clear']           = 'สำเร็จ: You have cleared all temporary files!';
 
 // Entry
 $_['entry_upload']         = 'Upload File';

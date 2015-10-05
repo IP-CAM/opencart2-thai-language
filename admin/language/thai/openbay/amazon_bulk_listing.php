@@ -32,10 +32,10 @@ $_['entry_condition_note'] 			= 'Condition note';
 $_['entry_start_selling'] 			= 'Start Selling';
 
 // Column
-$_['column_name'] 					= 'Name';
-$_['column_image'] 					= 'Image';
+$_['column_name'] 					= 'ชื่อ';
+$_['column_image'] 					= 'รูปภาพ';
 $_['column_model'] 					= 'รุ่น';
-$_['column_status'] 				= 'Status';
+$_['column_status'] 				= 'สถานะ';
 $_['column_matches']				= 'Matches';
 $_['column_result'] 				= 'ผลลัพธ์';
 

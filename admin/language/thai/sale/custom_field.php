@@ -3,16 +3,16 @@
 $_['heading_title']         = 'Custom Fields';
 
 // Text
-$_['text_success']          = 'Success: You have modified custom fields!';
+$_['text_success']          = 'สำเร็จ: You have modified custom fields!';
 $_['text_list']             = 'Custom Field List';
 $_['text_add']              = 'Add Custom Field';
 $_['text_edit']             = 'Edit Custom Field';
-$_['text_choose']           = 'Choose';
+$_['text_choose']           = 'เลือก';
 $_['text_select']           = 'Select';
 $_['text_radio']            = 'Radio';
 $_['text_checkbox']         = 'Checkbox';
 $_['text_input']            = 'Input';
-$_['text_text']             = 'Text';
+$_['text_text']             = 'ข้อความ';
 $_['text_textarea']         = 'Textarea';
 $_['text_file']             = 'File';
 $_['text_date']             = 'Date';
@@ -23,21 +23,21 @@ $_['text_address']          = 'ที่อยู่';
 
 // Column
 $_['column_name']           = 'Custom Field Name';
-$_['column_location']       = 'Location';
-$_['column_type']           = 'Type';
-$_['column_sort_order']     = 'Sort Order';
-$_['column_action']         = 'Action';
+$_['column_location']       = 'ตำแหน่ง';
+$_['column_type']           = 'ประเภท';
+$_['column_sort_order']     = 'เรียงลำดับ';
+$_['column_action']         = 'การทำงาน';
 
 // Entry
 $_['entry_name']            = 'Custom Field Name';
-$_['entry_location']        = 'Location';
-$_['entry_type']            = 'Type';
+$_['entry_location']        = 'ตำแหน่ง';
+$_['entry_type']            = 'ประเภท';
 $_['entry_value']           = 'Value';
 $_['entry_custom_value']    = 'Custom Field Value Name';
 $_['entry_customer_group']  = 'กลุ่มลูกค้า';
-$_['entry_required']        = 'Required';
-$_['entry_status']          = 'Status';
-$_['entry_sort_order']      = 'Sort Order';
+$_['entry_required']        = 'ต้องการ';
+$_['entry_status']          = 'สถานะ';
+$_['entry_sort_order']      = 'เรียงลำดับ';
 
 // Help
 $_['help_sort_order']       = 'Use minus to count backwards from the last field in the set.';

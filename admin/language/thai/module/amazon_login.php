@@ -4,7 +4,7 @@ $_['heading_title'] = 'Login with Amazon';
 
 //Text
 $_['text_module'] = 'Modules';
-$_['text_success'] = 'Success: You have modified module Login with Amazon!';
+$_['text_success'] = 'สำเร็จ: You have modified module Login with Amazon!';
 $_['text_content_top'] = 'Content Top';
 $_['text_content_bottom'] = 'Content Bottom';
 $_['text_column_left'] = 'Column Left';
@@ -26,8 +26,8 @@ $_['entry_button_colour'] = 'Button Colour';
 $_['entry_button_size'] = 'Button Size';
 $_['entry_layout'] = 'Layout';
 $_['entry_position'] = 'Position';
-$_['entry_status'] = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+$_['entry_status'] = 'สถานะ';
+$_['entry_sort_order'] = 'เรียงลำดับ';
 
 //Error
 $_['error_permission'] = 'คำเตือน: You do not have permission to modify module Login with Amazon!';

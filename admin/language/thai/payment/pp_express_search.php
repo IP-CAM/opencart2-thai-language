@@ -4,22 +4,22 @@ $_['heading_title']					= 'Search Transactions';
 
 // Column
 $_['tbl_column_date']				= 'Date';
-$_['tbl_column_type']				= 'Type';
+$_['tbl_column_type']				= 'ประเภท';
 $_['tbl_column_email']				= 'อีเมลล์';
-$_['tbl_column_name']				= 'Name';
+$_['tbl_column_name']				= 'ชื่อ';
 $_['tbl_column_transid']			= 'รหัสการทำธุรกรรม';
-$_['tbl_column_status']				= 'Status';
+$_['tbl_column_status']				= 'สถานะ';
 $_['tbl_column_currency']			= 'สกุลเงิน';
 $_['tbl_column_amount']				= 'Amount';
 $_['tbl_column_fee']				= 'Fee';
 $_['tbl_column_netamt']				= 'Net Amount';
-$_['tbl_column_action']				= 'Action';
+$_['tbl_column_action']				= 'การทำงาน';
 
 // Text
 $_['text_pp_express']				= 'PayPal Express Checkout';
 $_['text_date_search']				= 'Search by date';
 $_['text_searching']				= 'Searching';
-$_['text_name']						= 'Name';
+$_['text_name']						= 'ชื่อ';
 $_['text_buyer_info']				= 'Buyer information';
 $_['text_view']						= 'View';
 $_['text_format']					= 'Format';
@@ -49,8 +49,8 @@ $_['entry_date_start']				= 'Start';
 $_['entry_date_end']				= 'End';
 $_['entry_date_to']					= 'to';
 $_['entry_transaction']				= 'Transaction';
-$_['entry_transaction_type']		= 'Type';
-$_['entry_transaction_status']		= 'Status';
+$_['entry_transaction_type']		= 'ประเภท';
+$_['entry_transaction_status']		= 'สถานะ';
 $_['entry_email']					= 'อีเมลล์';
 $_['entry_email_buyer']				= 'Buyer';
 $_['entry_email_merchant']			= 'Receiver';

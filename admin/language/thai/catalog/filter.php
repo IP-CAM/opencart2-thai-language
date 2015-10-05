@@ -1,24 +1,24 @@
 <?php
 // Heading
-$_['heading_title']     = 'Filters';
+$_['heading_title']     = 'กรอง';
 
 // Text
-$_['text_success']      = 'Success: You have modified filters!';
-$_['text_list']         = 'Filter List';
-$_['text_add']          = 'Add Filter';
-$_['text_edit']         = 'Edit Filter';
+$_['text_success']      = 'สำเร็จ: คุณปรับปรุงตัวกรองสำเร็จ!';
+$_['text_list']         = 'รายการตัวกรอง';
+$_['text_add']          = 'เพิ่มตัวกรอง';
+$_['text_edit']         = 'แก้ไขตัวกรอง';
 
 // Column
-$_['column_group']      = 'Filter Group';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+$_['column_group']      = 'กลุ่มตัวกรอง';
+$_['column_sort_order'] = 'เรียงลำดับ';
+$_['column_action']     = 'การทำงาน';
 
 // Entry
-$_['entry_group']       = 'Filter Group Name';
-$_['entry_name']        = 'Filter Name';
-$_['entry_sort_order']  = 'Sort Order';
+$_['entry_group']       = 'ชื่อกลุ่มตัวกรอง';
+$_['entry_name']        = 'ชื่อตัวกรอง';
+$_['entry_sort_order']  = 'เรียงลำดับ';
 
 // Error
-$_['error_permission']  = 'คำเตือน: You do not have permission to modify filters!';
-$_['error_group']       = 'Filter Group Name must be between 1 and 64 characters!';
-$_['error_name']        = 'Filter Name must be between 1 and 64 characters!';
+$_['error_permission']  = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับแต่งตัวกรอง!';
+$_['error_group']       = 'ชื่อกลุ่มตัวกรองต้องมีอักขระตั้งแต่ 1 ถึง 64 ตัวอักษร!';
+$_['error_name']        = 'ชื่อตัวกรองต้องมีอักขระตั้งแต่ 1 ถึง 64 ตัวอักษร!';

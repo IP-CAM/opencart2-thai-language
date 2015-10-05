@@ -5,7 +5,7 @@ $_['heading_title']     = 'Latest Orders';
 // Column
 $_['column_order_id']   = 'รหัสสั่งซื้อ';
 $_['column_customer']   = 'Customer';
-$_['column_status']     = 'Status';
+$_['column_status']     = 'สถานะ';
 $_['column_total']      = 'Total';
-$_['column_date_added'] = 'Date Added';
-$_['column_action']     = 'Action';
+$_['column_date_added'] = 'วันที่เพิ่ม';
+$_['column_action']     = 'การทำงาน';

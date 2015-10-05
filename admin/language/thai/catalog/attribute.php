@@ -1,25 +1,25 @@
 <?php
 // Heading
-$_['heading_title']          = 'Attributes';
+$_['heading_title']          = 'คุณลักษณะ';
 
 // Text
-$_['text_success']           = 'Success: You have modified attributes!';
-$_['text_list']              = 'Attribute List';
-$_['text_add']               = 'Add Attribute';
-$_['text_edit']              = 'Edit Attribute';
+$_['text_success']           = 'สำเร็จ: คุณได้ปรับปรุงคุณลักษณะแล้ว!';
+$_['text_list']              = 'รายการคุณลักษณะ';
+$_['text_add']               = 'เพิ่มคุณลักษณะ';
+$_['text_edit']              = 'แก้ไขคุณลักษณะ';
 
 // Column
-$_['column_name']            = 'Attribute Name';
-$_['column_attribute_group'] = 'Attribute Group';
-$_['column_sort_order']      = 'Sort Order';
-$_['column_action']          = 'Action';
+$_['column_name']            = 'ชื่อคุณลักษณะ';
+$_['column_attribute_group'] = 'กลุ่มคุณลักษณะ';
+$_['column_sort_order']      = 'เรียงลำดับ';
+$_['column_action']          = 'การทำงาน';
 
 // Entry
-$_['entry_name']            = 'Attribute Name';
-$_['entry_attribute_group'] = 'Attribute Group';
-$_['entry_sort_order']      = 'Sort Order';
+$_['entry_name']            = 'ชื่อคุณลักษณะ';
+$_['entry_attribute_group'] = 'กลุ่มคุณลักษณะ';
+$_['entry_sort_order']      = 'เรียงลำดับ';
 
 // Error
-$_['error_permission']      = 'คำเตือน: You do not have permission to modify attributes!';
-$_['error_name']            = 'Attribute Name must be between 3 and 64 characters!';
-$_['error_product']         = 'คำเตือน: This attribute cannot be deleted as it is currently assigned to %s products!';
+$_['error_permission']      = 'คำเตือน: คุณไม่ได้รับอนุญาตให้แก้ไขคุณลักษณะ!';
+$_['error_name']            = 'ชื่อคุณลักษณะต้องมีอักขระตั้งแต่ 3 ถึง 64 ตัวอักษร!';
+$_['error_product']         = 'คำเตือน: คุณลักษณะนี้ไม่สามารถลบได้เนื่องจากมันกำลังถูกใช้งานโดยสินค้า %s รายการ!';

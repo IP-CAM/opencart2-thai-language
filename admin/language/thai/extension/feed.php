@@ -3,13 +3,13 @@
 $_['heading_title']    = 'Feeds';
 
 // Text
-$_['text_success']     = 'Success: You have modified feeds!';
+$_['text_success']     = 'สำเร็จ: You have modified feeds!';
 $_['text_list']        = 'Feed List';
 
 // Column
 $_['column_name']      = 'Product Feed Name';
-$_['column_status']    = 'Status';
-$_['column_action']    = 'Action';
+$_['column_status']    = 'สถานะ';
+$_['column_action']    = 'การทำงาน';
 
 // Error
 $_['error_permission'] = 'คำเตือน: You do not have permission to modify feeds!';

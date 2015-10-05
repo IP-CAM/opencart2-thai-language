@@ -4,7 +4,7 @@ $_['heading_title']					= 'ชำระเงินโดย Amazon';
 
 // Text
 $_['text_payment']					= 'Payment';
-$_['text_success']					= 'Success: Checkout by Amazon module has been updated';
+$_['text_success']					= 'สำเร็จ: Checkout by Amazon module has been updated';
 $_['text_edit']                     = 'Edit Amazon Payment';
 $_['text_germany']					= 'Germany';
 $_['text_uk']						= 'United Kingdom';
@@ -30,7 +30,7 @@ $_['text_amazon_join']				= 'To create your Checkout by Amazon account <a href="
 
 // Column
 $_['column_submission_id']			= 'Submission ID';
-$_['column_status']					= 'Status';
+$_['column_status']					= 'สถานะ';
 $_['column_text']					= 'Response';
 $_['column_amazon_order_item_code'] = 'Amazon Order Product Code';
 
@@ -51,8 +51,8 @@ $_['entry_ip']						= 'IP Address';
 $_['entry_ip_allowed']				= 'IPs allowed';
 $_['entry_total']	         		= 'Total';
 $_['entry_geo_zone']			    = 'Geo Zone';
-$_['entry_status']					= 'Status';
-$_['entry_sort_order']				= 'Sort Order';
+$_['entry_status']					= 'สถานะ';
+$_['entry_sort_order']				= 'เรียงลำดับ';
 $_['entry_colour']					= 'Colour';
 $_['entry_background']				= 'Background';
 $_['entry_size']				    = 'Size';

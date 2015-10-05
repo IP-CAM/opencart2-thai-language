@@ -3,26 +3,26 @@
 $_['heading_title']        = 'Tax Rates';
 
 // Text
-$_['text_success']         = 'Success: You have modified tax rates!';
+$_['text_success']         = 'สำเร็จ: You have modified tax rates!';
 $_['text_list']            = 'Tax Rate List';
 $_['text_add']             = 'Add Tax Rate';
 $_['text_edit']            = 'Edit Tax Rate';
-$_['text_percent']         = 'Percentage';
-$_['text_amount']          = 'Fixed Amount';
+$_['text_percent']         = 'เปอร์เซ็นต์';
+$_['text_amount']          = 'จำนวนคงที่';
 
 // Column
 $_['column_name']          = 'Tax Name';
 $_['column_rate']          = 'Tax Rate';
-$_['column_type']          = 'Type';
+$_['column_type']          = 'ประเภท';
 $_['column_geo_zone']      = 'Geo Zone';
-$_['column_date_added']    = 'Date Added';
+$_['column_date_added']    = 'วันที่เพิ่ม';
 $_['column_date_modified'] = 'Date Modified';
-$_['column_action']        = 'Action';
+$_['column_action']        = 'การทำงาน';
 
 // Entry
 $_['entry_name']           = 'Tax Name';
 $_['entry_rate']           = 'Tax Rate';
-$_['entry_type']           = 'Type';
+$_['entry_type']           = 'ประเภท';
 $_['entry_customer_group'] = 'กลุ่มลูกค้า';
 $_['entry_geo_zone']       = 'Geo Zone';
 

@@ -3,11 +3,11 @@
 $_['heading_title']     = 'บัตรกำนัล';
 
 // Text
-$_['text_success']      = 'Success: You have modified vouchers!';
+$_['text_success']      = 'สำเร็จ: You have modified vouchers!';
 $_['text_list']         = 'Gift Voucher List';
 $_['text_add']          = 'Add Gift Voucher';
 $_['text_edit']         = 'Edit Gift Voucher';
-$_['text_sent']         = 'Success: Gift Voucher e-mail has been sent!';
+$_['text_sent']         = 'สำเร็จ: Gift Voucher e-mail has been sent!';
 
 // Column
 $_['column_name']       = 'Voucher Name';
@@ -16,11 +16,11 @@ $_['column_from']       = 'From';
 $_['column_to']         = 'To';
 $_['column_theme']      = 'Theme';
 $_['column_amount']     = 'Amount';
-$_['column_status']     = 'Status';
+$_['column_status']     = 'สถานะ';
 $_['column_order_id']   = 'รหัสสั่งซื้อ';
 $_['column_customer']   = 'Customer';
-$_['column_date_added'] = 'Date Added';
-$_['column_action']     = 'Action';
+$_['column_date_added'] = 'วันที่เพิ่ม';
+$_['column_action']     = 'การทำงาน';
 
 // Entry
 $_['entry_code']        = 'Code';
@@ -31,7 +31,7 @@ $_['entry_to_email']    = 'To E-Mail';
 $_['entry_theme']       = 'Theme';
 $_['entry_message']     = 'Message';
 $_['entry_amount']      = 'Amount';
-$_['entry_status']      = 'Status';
+$_['entry_status']      = 'สถานะ';
 
 // Help
 $_['help_code']         = 'The code the customer enters to activate the voucher.';

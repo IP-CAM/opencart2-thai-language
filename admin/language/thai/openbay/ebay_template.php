@@ -6,10 +6,10 @@ $_['text_openbay']                  = 'OpenBay Pro';
 
 // Columns
 $_['column_name']            		= 'Template name';
-$_['column_action']            		= 'Action';
+$_['column_action']            		= 'การทำงาน';
 
 // Entry
-$_['entry_template_name']           = 'Name';
+$_['entry_template_name']           = 'ชื่อ';
 $_['entry_template_html']           = 'HTML';
 
 // Text

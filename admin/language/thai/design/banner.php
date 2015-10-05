@@ -3,7 +3,7 @@
 $_['heading_title']      = 'Banners';
 
 // Text
-$_['text_success']       = 'Success: You have modified banners!';
+$_['text_success']       = 'สำเร็จ: You have modified banners!';
 $_['text_list']          = 'Banner List';
 $_['text_add']           = 'Add Banner';
 $_['text_edit']          = 'Edit Banner';
@@ -11,16 +11,16 @@ $_['text_default']       = 'ค่าเริ่มต้น';
 
 // Column
 $_['column_name']        = 'Banner Name';
-$_['column_status']      = 'Status';
-$_['column_action']      = 'Action';
+$_['column_status']      = 'สถานะ';
+$_['column_action']      = 'การทำงาน';
 
 // Entry
 $_['entry_name']         = 'Banner Name';
 $_['entry_title']        = 'Title';
 $_['entry_link']         = 'Link';
-$_['entry_image']        = 'Image';
-$_['entry_status']       = 'Status';
-$_['entry_sort_order']   = 'Sort Order';
+$_['entry_image']        = 'รูปภาพ';
+$_['entry_status']       = 'สถานะ';
+$_['entry_sort_order']   = 'เรียงลำดับ';
 
 // Error
 $_['error_permission']   = 'คำเตือน: You do not have permission to modify banners!';

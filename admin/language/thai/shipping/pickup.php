@@ -4,13 +4,13 @@ $_['heading_title']    = 'รับสินค้าเองจากที่
 
 // Text
 $_['text_shipping']    = 'การส่งสินค้า';
-$_['text_success']     = 'Success: You have modified pickup from store!';
+$_['text_success']     = 'สำเร็จ: You have modified pickup from store!';
 $_['text_edit']        = 'Edit Pickup From Store Shipping';
 
 // Entry
 $_['entry_geo_zone']   = 'Geo Zone';
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+$_['entry_status']     = 'สถานะ';
+$_['entry_sort_order'] = 'เรียงลำดับ';
 
 // Error
 $_['error_permission'] = 'คำเตือน: You do not have permission to modify pickup from store!';

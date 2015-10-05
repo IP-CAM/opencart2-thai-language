@@ -15,10 +15,10 @@ $_['text_register']     = '<a href="affiliate_id=%d">%s</a> registered for a new
 $_['column_affiliate']  = 'พันธมิตร';
 $_['column_comment']    = 'Comment';
 $_['column_ip']         = 'IP';
-$_['column_date_added'] = 'Date Added';
+$_['column_date_added'] = 'วันที่เพิ่ม';
 
 // Entry
 $_['entry_affiliate']   = 'พันธมิตร';
 $_['entry_ip']          = 'IP';
-$_['entry_date_start']  = 'Date Start';
-$_['entry_date_end']    = 'Date End';
+$_['entry_date_start']  = 'วันที่เริ่ม';
+$_['entry_date_end']    = 'วันที่สิ้นสุด';

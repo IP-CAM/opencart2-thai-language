@@ -54,11 +54,11 @@ $_['text_spain'] 					= 'Spain';
 $_['text_united_kingdom'] 			= 'United Kingdom';
 
 // Columns
-$_['column_image'] 					= 'Image';
+$_['column_image'] 					= 'รูปภาพ';
 $_['column_asin'] 					= 'ASIN';
 $_['column_price'] 					= 'ราคา';
-$_['column_action'] 				= 'Action';
-$_['column_name'] 					= 'Product Name';
+$_['column_action'] 				= 'การทำงาน';
+$_['column_name'] 					= 'ชื่อสินค้า';
 $_['column_model'] 					= 'รุ่น';
 $_['column_combination'] 			= 'Variant Combination';
 $_['column_sku_variant'] 			= 'Variant SKU';
@@ -72,7 +72,7 @@ $_['entry_condition_note'] 			= 'Condition Note';
 $_['entry_price'] 					= 'ราคา';
 $_['entry_sale_price'] 				= 'Sale Price';
 $_['entry_sale_date'] 				= 'Sale date range';
-$_['entry_quantity'] 				= 'Quantity';
+$_['entry_quantity'] 				= 'จำนวน';
 $_['entry_start_selling'] 			= 'Available from date';
 $_['entry_restock_date'] 			= 'Restock Date';
 $_['entry_country_of_origin'] 		= 'Country of Origin';

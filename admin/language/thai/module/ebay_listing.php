@@ -4,7 +4,7 @@ $_['heading_title']     = 'eBay Listing';
 
 // Text
 $_['text_module']       = 'Modules';
-$_['text_success']      = 'Success: You have modified module eBay featured!';
+$_['text_success']      = 'สำเร็จ: You have modified module eBay featured!';
 $_['text_edit']        	= 'Edit eBay module';
 $_['text_list']         = 'Layout List';
 $_['text_register']     = 'You need to register and enable OpenBay Pro for eBay!';
@@ -18,15 +18,15 @@ $_['entry_username']    = 'eBay username';
 $_['entry_keywords']    = 'Search Keywords';
 $_['entry_description'] = 'Include Description Search';
 $_['entry_limit']       = 'Limit';
-$_['entry_length']      = 'Length';
-$_['entry_width']       = 'Width';
-$_['entry_height']      = 'Height';
+$_['entry_length']      = 'ความยาว';
+$_['entry_width']       = 'ความกว้าง';
+$_['entry_height']      = 'ความสูง';
 $_['entry_site']   		= 'eBay Site';
 $_['entry_sort']   		= 'Sort by';
-$_['entry_status']   	= 'Status';
+$_['entry_status']   	= 'สถานะ';
 
 // Error
 $_['error_permission']  = 'คำเตือน: You do not have permission to modify module eBay!';
 $_['error_name']        = 'Module Name must be between 3 and 64 characters!';
-$_['error_width']       = 'Width required!';
-$_['error_height']      = 'Height required!';
+$_['error_width']       = 'ต้องกรอกความกว้าง!';
+$_['error_height']      = 'ต้องกรอกความสูง!';

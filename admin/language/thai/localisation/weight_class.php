@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Weight Classes';
 
 // Text
-$_['text_success']     = 'Success: You have modified weight classes!';
+$_['text_success']     = 'สำเร็จ: You have modified weight classes!';
 $_['text_list']        = 'Weight Class List';
 $_['text_add']         = 'Add Weight Class';
 $_['text_edit']        = 'Edit Weight Class';
@@ -12,7 +12,7 @@ $_['text_edit']        = 'Edit Weight Class';
 $_['column_title']     = 'Weight Title';
 $_['column_unit']      = 'Weight Unit';
 $_['column_value']     = 'Value';
-$_['column_action']    = 'Action';
+$_['column_action']    = 'การทำงาน';
 
 // Entry
 $_['entry_title']      = 'Weight Title';

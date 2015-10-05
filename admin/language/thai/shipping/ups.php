@@ -4,7 +4,7 @@ $_['heading_title']                = 'UPS';
 
 // Text
 $_['text_shipping']                = 'การส่งสินค้า';
-$_['text_success']                 = 'Success: You have modified UPS shipping!';
+$_['text_success']                 = 'สำเร็จ: You have modified UPS shipping!';
 $_['text_edit']                    = 'Edit UPS Shipping';
 $_['text_regular_daily_pickup']    = 'Regular Daily Pickup';
 $_['text_daily_pickup']            = 'Daily Pickup';
@@ -70,16 +70,16 @@ $_['entry_quote_type']             = 'Quote Type';
 $_['entry_service']                = 'Services';
 $_['entry_insurance']              = 'Enable Insurance';
 $_['entry_display_weight']         = 'Display Delivery Weight';
-$_['entry_weight_class']           = 'Weight Class';
-$_['entry_length_class']           = 'Length Class';
+$_['entry_weight_class']           = 'หน่วยน้ำหนัก';
+$_['entry_length_class']           = 'หน่วยความยาว';
 $_['entry_dimension']			   = 'ขนาด (ยาว x กว้าง x สูง)';
-$_['entry_length']                 = 'Length';
-$_['entry_height']                 = 'Height';
-$_['entry_width']                  = 'Width';
-$_['entry_tax_class']              = 'Tax Class';
+$_['entry_length']                 = 'ความยาว';
+$_['entry_height']                 = 'ความสูง';
+$_['entry_width']                  = 'ความกว้าง';
+$_['entry_tax_class']              = 'ชนิดภาษี';
 $_['entry_geo_zone']               = 'Geo Zone';
-$_['entry_status']                 = 'Status';
-$_['entry_sort_order']             = 'Sort Order';
+$_['entry_status']                 = 'สถานะ';
+$_['entry_sort_order']             = 'เรียงลำดับ';
 $_['entry_debug']      			   = 'Debug Mode';
 
 // Help

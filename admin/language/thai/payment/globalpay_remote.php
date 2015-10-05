@@ -4,7 +4,7 @@ $_['heading_title']					= 'Globalpay Remote';
 
 // Text
 $_['text_payment']					= 'Payment';
-$_['text_success']					= 'Success: You have modified Globalpay account details!';
+$_['text_success']					= 'สำเร็จ: You have modified Globalpay account details!';
 $_['text_edit']                     = 'Edit Globalpay Remote';
 $_['text_card_type']				= 'ประเภทบัตร';
 $_['text_enabled']					= 'Enabled';
@@ -42,7 +42,7 @@ $_['text_globalpay_remote']			= '<a target="_blank" href="https://resourcecentre
 
 // Column
 $_['text_column_amount']			= 'Amount';
-$_['text_column_type']				= 'Type';
+$_['text_column_type']				= 'ประเภท';
 $_['text_column_date_added']		= 'Created';
 
 // Entry
@@ -52,7 +52,7 @@ $_['entry_rebate_password']			= 'Rebate password';
 $_['entry_total']					= 'Total';
 $_['entry_sort_order']				= 'Sort order';
 $_['entry_geo_zone']				= 'Geo zone';
-$_['entry_status']					= 'Status';
+$_['entry_status']					= 'สถานะ';
 $_['entry_debug']					= 'Debug logging';
 $_['entry_auto_settle']				= 'Settlement type';
 $_['entry_tss_check']				= 'TSS checks';

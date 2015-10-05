@@ -21,10 +21,10 @@ $_['text_order_guest']    = '%s created a <a href="order_id=%d">new order</a>.';
 $_['column_customer']     = 'Customer';
 $_['column_comment']      = 'Comment';
 $_['column_ip']           = 'IP';
-$_['column_date_added']   = 'Date Added';
+$_['column_date_added']   = 'วันที่เพิ่ม';
 
 // Entry
 $_['entry_customer']      = 'Customer';
 $_['entry_ip']            = 'IP';
-$_['entry_date_start']    = 'Date Start';
-$_['entry_date_end']      = 'Date End';
+$_['entry_date_start']    = 'วันที่เริ่ม';
+$_['entry_date_end']      = 'วันที่สิ้นสุด';

@@ -4,7 +4,7 @@ $_['heading_title']        = 'Log In with PayPal';
 
 //Text
 $_['text_module']          = 'Modules';
-$_['text_success']         = 'Success: You have modified Log In with PayPal module!';
+$_['text_success']         = 'สำเร็จ: You have modified Log In with PayPal module!';
 $_['text_edit']            = 'Edit Log In with PayPal Module';
 $_['text_button_grey']     = 'Grey';
 $_['text_button_blue']     = 'Blue (Recommended)';
@@ -19,7 +19,7 @@ $_['entry_button']         = 'Button Colour';
 $_['entry_seamless']       = 'Allow "Seamless Checkout"';
 $_['entry_locale']         = 'Locale';
 $_['entry_return_url']     = 'Return URL';
-$_['entry_status']         = 'Status';
+$_['entry_status']         = 'สถานะ';
 
 //Help
 $_['help_sandbox']         = 'Use sandbox (testing) environment?';

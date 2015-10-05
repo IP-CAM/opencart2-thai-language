@@ -3,10 +3,10 @@
 $_['heading_title']                        = 'Recurring Profiles';
 
 // Text
-$_['text_success']                         = 'Success: You have modified recurring profiles!';
-$_['text_list']                            = 'Recurring Profile List';
-$_['text_add']                             = 'Add Recurring Profile';
-$_['text_edit']                            = 'Edit Recurring Profile';
+$_['text_success']                         = 'สำเร็จ: คุณได้ปรับปรุงข้อมูลผ่อนชำระแล้ว!';
+$_['text_list']                            = 'รายการข้อมูลผ่อนชำระ';
+$_['text_add']                             = 'เพิ่มข้อมูลผ่อนชำระ';
+$_['text_edit']                            = 'แก้ไขข้อมูลผ่อนชำระ';
 $_['text_payment_profiles']                = 'Recurring Profiles';
 $_['text_status_active']                   = 'Active';
 $_['text_status_inactive']                 = 'Inactive';
@@ -33,16 +33,16 @@ $_['entry_order_recurring']                = 'ID';
 $_['entry_order_id']                       = 'รหัสสั่งซื้อ';
 $_['entry_reference']                      = 'Payment Reference';
 $_['entry_customer']                       = 'Customer';
-$_['entry_date_added']                     = 'Date Added';
-$_['entry_status']                         = 'Status';
-$_['entry_type']                           = 'Type';
-$_['entry_action']                         = 'Action';
+$_['entry_date_added']                     = 'วันที่เพิ่ม';
+$_['entry_status']                         = 'สถานะ';
+$_['entry_type']                           = 'ประเภท';
+$_['entry_action']                         = 'การทำงาน';
 $_['entry_email']                          = 'อีเมลล์';
 $_['entry_description']                    = 'Recurring Profile\'s description';
-$_['entry_product']                        = 'Product';
-$_['entry_quantity']                       = 'Quantity';
+$_['entry_product']                        = 'สินค้า';
+$_['entry_quantity']                       = 'จำนวน';
 $_['entry_amount']                         = 'Amount';
-$_['entry_recurring']                      = 'Recurring Profile';
+$_['entry_recurring']                      = 'รายละเอียดผ่อนชำระ';
 $_['entry_payment_method']                 = 'วิธีการชำระเงิน';
 
 // Error / Success

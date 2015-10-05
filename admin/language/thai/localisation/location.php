@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Store Locations';
 
 // Text
-$_['text_success']     = 'Success: You have modified store locations!';
+$_['text_success']     = 'สำเร็จ: You have modified store locations!';
 $_['text_list']        = 'Store Location List';
 $_['text_add']         = 'Add Store Location';
 $_['text_edit']        = 'Edit Store Location';
@@ -14,7 +14,7 @@ $_['text_geocode']     = 'Geocode was not successful for the following reason:';
 // Column
 $_['column_name']      = 'Store Name';
 $_['column_address']   = 'ที่อยู่';
-$_['column_action']    = 'Action';
+$_['column_action']    = 'การทำงาน';
 
 // Entry
 $_['entry_name']       = 'Store Name';
@@ -22,7 +22,7 @@ $_['entry_address']    = 'ที่อยู่';
 $_['entry_geocode']    = 'Geocode';
 $_['entry_telephone']  = 'Telephone';
 $_['entry_fax']        = 'Fax';
-$_['entry_image']      = 'Image';
+$_['entry_image']      = 'รูปภาพ';
 $_['entry_open']       = 'เวลาเปิด';
 $_['entry_comment']    = 'Comment';
 

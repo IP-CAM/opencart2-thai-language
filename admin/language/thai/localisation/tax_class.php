@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Tax Classes';
 
 // Text
-$_['text_success']      = 'Success: You have modified tax classes!';
+$_['text_success']      = 'สำเร็จ: You have modified tax classes!';
 $_['text_list']         = 'Tax Class List';
 $_['text_add']          = 'Add Tax Class';
 $_['text_edit']         = 'Edit Tax Class';
@@ -13,15 +13,15 @@ $_['text_store']        = 'Store Address';
 
 // Column
 $_['column_title']      = 'Tax Class Title';
-$_['column_action']     = 'Action';
+$_['column_action']     = 'การทำงาน';
 
 // Entry
 $_['entry_title']       = 'Tax Class Title';
-$_['entry_description'] = 'Description';
+$_['entry_description'] = 'รายละเอียด';
 $_['entry_rate']        = 'Tax Rate';
 $_['entry_based']       = 'Based On';
 $_['entry_geo_zone']    = 'Geo Zone';
-$_['entry_priority']    = 'Priority';
+$_['entry_priority']    = 'ความสำคัญ';
 
 // Error
 $_['error_permission']  = 'คำเตือน: You do not have permission to modify tax classes!';

@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Length Classes';
 
 // Text
-$_['text_success']     = 'Success: You have modified length classes!';
+$_['text_success']     = 'สำเร็จ: You have modified length classes!';
 $_['text_list']        = 'Length Class List';
 $_['text_add']         = 'Add Length Class';
 $_['text_edit']        = 'Edit Length Class';
@@ -12,7 +12,7 @@ $_['text_edit']        = 'Edit Length Class';
 $_['column_title']     = 'Length Title';
 $_['column_unit']      = 'Length Unit';
 $_['column_value']     = 'Value';
-$_['column_action']    = 'Action';
+$_['column_action']    = 'การทำงาน';
 
 // Entry
 $_['entry_title']      = 'Length Title';

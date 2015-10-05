@@ -1,10 +1,10 @@
 <?php
 // Heading
-$_['heading_title']                    = 'Stores';
+$_['heading_title']                    = 'ร้านค้า';
 
 // Text
 $_['text_settings']                    = 'Settings';
-$_['text_success']                     = 'Success: You have modified Stores!';
+$_['text_success']                     = 'สำเร็จ: You have modified Stores!';
 $_['text_list']                        = 'Store List';
 $_['text_add']                         = 'Add Store';
 $_['text_edit']                        = 'Edit Store';
@@ -19,7 +19,7 @@ $_['text_payment']                     = 'Payment Address';
 // Column
 $_['column_name']                      = 'Store Name';
 $_['column_url']	                   = 'Store URL';
-$_['column_action']                    = 'Action';
+$_['column_action']                    = 'การทำงาน';
 
 // Entry
 $_['entry_url']                        = 'Store URL';
@@ -31,7 +31,7 @@ $_['entry_geocode']                    = 'Geocode';
 $_['entry_email']                      = 'E-Mail';
 $_['entry_telephone']                  = 'Telephone';
 $_['entry_fax']                        = 'Fax';
-$_['entry_image']                      = 'Image';
+$_['entry_image']                      = 'รูปภาพ';
 $_['entry_open']                       = 'เวลาเปิด';
 $_['entry_comment']                    = 'Comment';
 $_['entry_location']                   = 'Store Location';
@@ -71,8 +71,8 @@ $_['entry_image_compare']              = 'Compare Image Size';
 $_['entry_image_wishlist']             = 'Wish List Image Size';
 $_['entry_image_cart']                 = 'Cart Image Size';
 $_['entry_image_location']             = 'Store Image Size';
-$_['entry_width']                      = 'Width';
-$_['entry_height']                     = 'Height';
+$_['entry_width']                      = 'ความกว้าง';
+$_['entry_height']                     = 'ความสูง';
 $_['entry_secure']                     = 'Use SSL';
 
 // Help
@@ -100,7 +100,7 @@ $_['help_icon']                        = 'The icon should be a PNG that is 16px 
 $_['help_secure']                      = 'To use SSL check with your host if a SSL certificate is installed.';
 
 // Error
-$_['error_warning']                    = 'คำเตือน: Please check the form carefully for errors!';
+$_['error_warning']                    = 'คำเตือน: กรุณาตรวจสอบฟอร์มอย่างระมัดระวังสำหรับข้อผิดพลาด!';
 $_['error_permission']                 = 'คำเตือน: You do not have permission to modify stores!';
 $_['error_name']                       = 'Store Name must be between 3 and 32 characters!';
 $_['error_owner']                      = 'Store Owner must be between 3 and 64 characters!';

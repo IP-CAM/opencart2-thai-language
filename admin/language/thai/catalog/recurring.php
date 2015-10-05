@@ -1,42 +1,42 @@
 <?php
 // Heading
-$_['heading_title']			= 'Recurring Profiles';
+$_['heading_title']			= 'รายละเอียดผ่อนชำระ';
 
 // Text
-$_['text_success']          = 'Success: You have modified recurring profiles!';
-$_['text_list']             = 'Recurring Profile List';
-$_['text_add']              = 'Add Recurring Profile';
-$_['text_edit']             = 'Edit Recurring Profile';
+$_['text_success']          = 'สำเร็จ: คุณได้ปรับปรุงข้อมูลผ่อนชำระแล้ว!';
+$_['text_list']             = 'รายการข้อมูลผ่อนชำระ';
+$_['text_add']              = 'เพิ่มข้อมูลผ่อนชำระ';
+$_['text_edit']             = 'แก้ไขข้อมูลผ่อนชำระ';
 $_['text_day']				= 'วัน';
-$_['text_week']				= 'Week';
-$_['text_semi_month']		= 'Semi Month';
+$_['text_week']				= 'สัปดาห์';
+$_['text_semi_month']		= 'ครึ่งเดือน';
 $_['text_month']			= 'เดือน';
 $_['text_year']				= 'ปี';
-$_['text_recurring']	    = '<p><i class="fa fa-info-circle"></i> Recurring amounts are calculated by the frequency and cycles.</p><p>For example if you use a frequency of "week" and a cycle of "2", then the user will be billed every 2 weeks.</p><p>The duration is the number of times the user will make a payment, set this to 0 if you want payments until they are cancelled.</p>';
-$_['text_profile']			= 'Recurring Profile';
-$_['text_trial']			= 'Trial Profile';
+$_['text_recurring']	    = '<p><i class="fa fa-info-circle"></i> จำนวนผ่อนจะถูกคำณวนโดยความถี่และรอบ.</p><p>ตัวอย่างเช่นถ้าคุณใช้ความถี่เป็น "สัปดาห์" และรอบเป็น "2", ผู้ใช้จะได้รับบิลทุกๆ 2 สัปดาห์.</p><p>ระยะเวลาคือเลขของเวลาที่ผู้ใช้จะชำระเงิน, กำหนดเป็น 0 ถ้าคุณต้องการชำระจนกว่าพวกเขาจะยกเลิก.</p>';
+$_['text_profile']			= 'รายละเอียดผ่อนชำระ';
+$_['text_trial']			= 'รายละเอียดการลองผ่อนชำระ';
 
 // Entry
-$_['entry_name']			= 'Name';
+$_['entry_name']			= 'ชื่อ';
 $_['entry_price']			= 'ราคา';
-$_['entry_duration']		= 'Duration';
-$_['entry_cycle']			= 'Cycle';
-$_['entry_frequency']		= 'Frequency';
-$_['entry_trial_price']		= 'Trial price';
-$_['entry_trial_duration']	= 'Trial duration';
-$_['entry_trial_status']	= 'Trial status';
-$_['entry_trial_cycle']	    = 'Trial cycle';
-$_['entry_trial_frequency']	= 'Trial frequency';
-$_['entry_status']			= 'Status';
-$_['entry_sort_order']		= 'Sort Order';
+$_['entry_duration']		= 'ระยะเวลา';
+$_['entry_cycle']			= 'รอบ';
+$_['entry_frequency']		= 'ความถี่';
+$_['entry_trial_price']		= 'ราคาทดลอง';
+$_['entry_trial_duration']	= 'ระยะทดลอง';
+$_['entry_trial_status']	= 'สถานะ';
+$_['entry_trial_cycle']	    = 'รอบทดลอง';
+$_['entry_trial_frequency']	= 'ความถี่ทดลอง';
+$_['entry_status']			= 'สถานะ';
+$_['entry_sort_order']		= 'เรียงลำดับ';
 
 // Column
-$_['column_name']			= 'Name';
-$_['column_sort_order']	    = 'Sort Order';
-$_['column_action']         = 'Action';
+$_['column_name']			= 'ชื่อ';
+$_['column_sort_order']	    = 'เรียงลำดับ';
+$_['column_action']         = 'การทำงาน';
 
 // Error
-$_['error_warning']         = 'คำเตือน: Please check the form carefully for errors!';
-$_['error_permission']		= 'คำเตือน: You do not have permission to modify recurring profiles!';
-$_['error_name']			= 'Profile Name must be greater than 3 and less than 255 characters!';
-$_['error_product']			= 'คำเตือน: This recurring profile cannot be deleted as it is currently assigned to %s products!';
+$_['error_warning']         = 'คำเตือน: กรุณาตรวจสอบฟอร์มอย่างระมัดระวังสำหรับข้อผิดพลาด!';
+$_['error_permission']		= 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงรายละเอียดผ่อนชำระ!';
+$_['error_name']			= 'ชื่อรายละเอียดต้องมีอักขระตั้งแต่ 3 ถึง 255 ตัวอักษร!';
+$_['error_product']			= 'คำเตือน: การผ่อนชำระนี้ไม่สามารถลบได้เนื่องจากมันถูกนำไปใช้ในสินค้า %s รายการ!';

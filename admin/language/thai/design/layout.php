@@ -3,7 +3,7 @@
 $_['heading_title']       = 'Layouts';
 
 // Text
-$_['text_success']        = 'Success: You have modified layouts!';
+$_['text_success']        = 'สำเร็จ: You have modified layouts!';
 $_['text_list']           = 'Layout List';
 $_['text_add']            = 'Add Layout';
 $_['text_edit']           = 'Edit Layout';
@@ -15,7 +15,7 @@ $_['text_column_right']   = 'Column Right';
 
 // Column
 $_['column_name']         = 'Layout Name';
-$_['column_action']       = 'Action';
+$_['column_action']       = 'การทำงาน';
 
 // Entry
 $_['entry_name']          = 'Layout Name';
@@ -23,7 +23,7 @@ $_['entry_store']         = 'Store';
 $_['entry_route']         = 'Route';
 $_['entry_module']        = 'Module';
 $_['entry_position']      = 'Position';
-$_['entry_sort_order']    = 'Sort Order';
+$_['entry_sort_order']    = 'เรียงลำดับ';
 
 // Error
 $_['error_permission']    = 'คำเตือน: You do not have permission to modify layouts!';

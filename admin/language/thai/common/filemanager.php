@@ -3,9 +3,9 @@
 $_['heading_title']    = 'Image Manager';
 
 // Text
-$_['text_uploaded']    = 'Success: Your file has been uploaded!';
-$_['text_directory']   = 'Success: Directory created!';
-$_['text_delete']      = 'Success: Your file or directory has been deleted!';
+$_['text_uploaded']    = 'สำเร็จ: Your file has been uploaded!';
+$_['text_directory']   = 'สำเร็จ: Directory created!';
+$_['text_delete']      = 'สำเร็จ: Your file or directory has been deleted!';
 
 // Entry
 $_['entry_search']     = 'Search..';

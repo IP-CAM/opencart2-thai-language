@@ -1,34 +1,34 @@
 <?php
 // Heading
-$_['heading_title']      = 'Manufacturers';
+$_['heading_title']      = 'ผู้ผลิต';
 
 // Text
-$_['text_success']       = 'Success: You have modified manufacturers!';
-$_['text_list']          = 'Manufacturer List';
-$_['text_add']           = 'Add Manufacturer';
-$_['text_edit']          = 'Edit Manufacturer';
+$_['text_success']       = 'สำเร็จ: คุณได้ปรับปรุงผู้ผลิตแล้ว!';
+$_['text_list']          = 'รายการผู้ผลิต';
+$_['text_add']           = 'เพิ่มผู้ผลิต';
+$_['text_edit']          = 'แก้ไขผู้ผลิต';
 $_['text_default']       = 'ค่าเริ่มต้น';
-$_['text_percent']       = 'Percentage';
-$_['text_amount']        = 'Fixed Amount';
+$_['text_percent']       = 'เปอร์เซ็นต์';
+$_['text_amount']        = 'จำนวนคงที่';
 
 // Column
-$_['column_name']        = 'Manufacturer Name';
-$_['column_sort_order']  = 'Sort Order';
-$_['column_action']      = 'Action';
+$_['column_name']        = 'ชื่อผู้ผลิต';
+$_['column_sort_order']  = 'เรียงลำดับ';
+$_['column_action']      = 'การทำงาน';
 
 // Entry
-$_['entry_name']         = 'Manufacturer Name';
-$_['entry_store']        = 'Stores';
-$_['entry_keyword']      = 'SEO Keyword';
-$_['entry_image']        = 'Image';
-$_['entry_sort_order']   = 'Sort Order';
-$_['entry_type']         = 'Type';
+$_['entry_name']         = 'ชื่อผู้ผลิต';
+$_['entry_store']        = 'ร้านค้า';
+$_['entry_keyword']      = 'คำค้น SEO';
+$_['entry_image']        = 'รูปภาพ';
+$_['entry_sort_order']   = 'เรียงลำดับ';
+$_['entry_type']         = 'ประเภท';
 
 // Help
-$_['help_keyword']       = 'Do not use spaces, instead replace spaces with - and make sure the keyword is globally unique.';
+$_['help_keyword']       = 'ห้ามใช้ช่องว่าง, แทนที่ช่องว่างด้วย - และโปรดแน่ใจว่าคำค้นเป็นเอกลักษณ์.';
 
 // Error
-$_['error_permission']   = 'คำเตือน: You do not have permission to modify manufacturers!';
-$_['error_name']         = 'Manufacturer Name must be between 2 and 64 characters!';
-$_['error_keyword']      = 'SEO keyword already in use!';
-$_['error_product']      = 'คำเตือน: This manufacturer cannot be deleted as it is currently assigned to %s products!';
+$_['error_permission']   = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงผู้ผลิต!';
+$_['error_name']         = 'ชื่อผู้ผลิตต้องมีอักขระตั้งแต่ 2 ถึง 64 ตัวอักษร!';
+$_['error_keyword']      = 'คำค้น SEO มีใช้อยู่แล้ว!';
+$_['error_product']      = 'คำเตือน: ผู้ผลิตนี้ไม่สามารถลบได้เนื่องจากมันถูกนำไปใช้กับสินค้า %s รายการ!';

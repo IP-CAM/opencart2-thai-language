@@ -3,7 +3,7 @@
 $_['heading_title']             = 'พันธมิตร';
 
 // Text
-$_['text_success']              = 'Success: You have modified affiliates!';
+$_['text_success']              = 'สำเร็จ: You have modified affiliates!';
 $_['text_approved']             = 'You have approved %s accounts!';
 $_['text_list']                 = 'Affiliate List';
 $_['text_add']                  = 'Add Affiliate';
@@ -18,12 +18,12 @@ $_['column_name']               = 'Affiliate Name';
 $_['column_email']              = 'E-Mail';
 $_['column_code']               = 'Tracking Code';
 $_['column_balance']            = 'Balance';
-$_['column_status']             = 'Status';
+$_['column_status']             = 'สถานะ';
 $_['column_approved']           = 'Approved';
-$_['column_date_added']         = 'Date Added';
-$_['column_description']        = 'Description';
+$_['column_date_added']         = 'วันที่เพิ่ม';
+$_['column_description']        = 'รายละเอียด';
 $_['column_amount']             = 'Amount';
-$_['column_action']             = 'Action';
+$_['column_action']             = 'การทำงาน';
 
 // Entry
 $_['entry_firstname']           = 'ชื่อ';
@@ -31,7 +31,7 @@ $_['entry_lastname']            = 'นามสกุล';
 $_['entry_email']               = 'E-Mail';
 $_['entry_telephone']           = 'Telephone';
 $_['entry_fax']                 = 'Fax';
-$_['entry_status']              = 'Status';
+$_['entry_status']              = 'สถานะ';
 $_['entry_password']            = 'Password';
 $_['entry_confirm']             = 'ยืนยัน';
 $_['entry_company']             = 'Company';
@@ -54,10 +54,10 @@ $_['entry_bank_swift_code']     = 'รหัส SWIFT';
 $_['entry_bank_account_name']   = 'ชื่อบัญชี';
 $_['entry_bank_account_number'] = 'หมายเลขบัญชี';
 $_['entry_amount']              = 'Amount';
-$_['entry_description']         = 'Description';
+$_['entry_description']         = 'รายละเอียด';
 $_['entry_name']                = 'Affiliate Name';
 $_['entry_approved']            = 'Approved';
-$_['entry_date_added']          = 'Date Added';
+$_['entry_date_added']          = 'วันที่เพิ่ม';
 
 // Help
 $_['help_code']                 = 'The tracking code that will be used to track referrals.';

@@ -19,10 +19,10 @@ $_['success_transaction_resent']	= 'Transaction was successfully resent';
 $_['column_trans_id']				= 'รหัสการทำธุรกรรม';
 $_['column_amount']					= 'Amount';
 $_['column_type']					= 'Payment type';
-$_['column_status']					= 'Status';
+$_['column_status']					= 'สถานะ';
 $_['column_pend_reason']			= 'Pending reason';
 $_['column_date_added']				= 'Created';
-$_['column_action']					= 'Action';
+$_['column_action']					= 'การทำงาน';
 
 // Button
 $_['button_void']					= 'Void';

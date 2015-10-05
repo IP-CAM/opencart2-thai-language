@@ -3,21 +3,21 @@
 $_['heading_title']     = 'กลุ่มลูกค้าs';
 
 // Text
-$_['text_success']      = 'Success: You have modified customer groups!';
+$_['text_success']      = 'สำเร็จ: You have modified customer groups!';
 $_['text_list']         = 'Customer Group List';
 $_['text_add']          = 'Add กลุ่มลูกค้า';
 $_['text_edit']         = 'Edit กลุ่มลูกค้า';
 
 // Column
 $_['column_name']       = 'Customer Group Name';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+$_['column_sort_order'] = 'เรียงลำดับ';
+$_['column_action']     = 'การทำงาน';
 
 // Entry
 $_['entry_name']        = 'Customer Group Name';
-$_['entry_description'] = 'Description';
+$_['entry_description'] = 'รายละเอียด';
 $_['entry_approval']    = 'Approve New Customers';
-$_['entry_sort_order']  = 'Sort Order';
+$_['entry_sort_order']  = 'เรียงลำดับ';
 
 // Help
 $_['help_approval']     = 'Customers must be approved by an administrator before they can login.';

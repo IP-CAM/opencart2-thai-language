@@ -3,43 +3,43 @@
 $_['heading_title']          = 'ข้อมูล';
 
 // Text
-$_['text_success']           = 'Success: You have modified information!';
-$_['text_list']              = 'Information List';
-$_['text_add']               = 'Add Information';
-$_['text_edit']              = 'Edit Information';
+$_['text_success']           = 'สำเร็จ: คุณได้ปรับปรุงข้อมูลแล้ว!';
+$_['text_list']              = 'รายการข้อมูล';
+$_['text_add']               = 'เพิ่มข้อมูล';
+$_['text_edit']              = 'แก้ไขข้อมูล';
 $_['text_default']           = 'ค่าเริ่มต้น';
 
 // Column
-$_['column_title']           = 'Information Title';
-$_['column_sort_order']	     = 'Sort Order';
-$_['column_action']          = 'Action';
+$_['column_title']           = 'ไตเติลข้อมูล';
+$_['column_sort_order']	     = 'เรียงลำดับ';
+$_['column_action']          = 'การทำงาน';
 
 // Entry
-$_['entry_title']            = 'Information Title';
-$_['entry_description']      = 'Description';
-$_['entry_store']            = 'Stores';
+$_['entry_title']            = 'ไตเติลข้อมูล';
+$_['entry_description']      = 'รายละเอียด';
+$_['entry_store']            = 'ร้านค้า';
 $_['entry_meta_title'] 	     = 'Meta Tag Title';
 $_['entry_meta_keyword'] 	 = 'Meta Tag Keywords';
 $_['entry_meta_description'] = 'Meta Tag Description';
-$_['entry_keyword']          = 'SEO Keyword';
-$_['entry_bottom']           = 'Bottom';
-$_['entry_status']           = 'Status';
-$_['entry_sort_order']       = 'Sort Order';
-$_['entry_layout']           = 'Layout Override';
+$_['entry_keyword']          = 'คำค้น SEO';
+$_['entry_bottom']           = 'ด้านล่าง';
+$_['entry_status']           = 'สถานะ';
+$_['entry_sort_order']       = 'เรียงลำดับ';
+$_['entry_layout']           = 'แทนที่เลย์เอาต์';
 
 // Help
-$_['help_keyword']           = 'Do not use spaces, instead replace spaces with - and make sure the keyword is globally unique.';
-$_['help_bottom']            = 'Display in the bottom footer.';
+$_['help_keyword']           = 'ห้ามใช้ช่องว่าง, แทนที่ช่องว่างด้วย - และโปรดแน่ใจว่าคำค้นเป็นเอกลักษณ์.';
+$_['help_bottom']            = 'แสดงในท้ายหน้าด้านล่าง.';
 
 // Error
-$_['error_warning']          = 'คำเตือน: Please check the form carefully for errors!';
-$_['error_permission']       = 'คำเตือน: You do not have permission to modify information!';
-$_['error_title']            = 'Information Title must be between 3 and 64 characters!';
-$_['error_description']      = 'Description must be more than 3 characters!';
-$_['error_meta_title']       = 'Meta Title must be greater than 3 and less than 255 characters!';
-$_['error_keyword']          = 'SEO keyword already in use!';
-$_['error_account']          = 'คำเตือน: This information page cannot be deleted as it is currently assigned as the store account terms!';
-$_['error_checkout']         = 'คำเตือน: This information page cannot be deleted as it is currently assigned as the store checkout terms!';
-$_['error_affiliate']        = 'คำเตือน: This information page cannot be deleted as it is currently assigned as the store affiliate terms!';
-$_['error_return']           = 'คำเตือน: This information page cannot be deleted as it is currently assigned as the store return terms!';
-$_['error_store']            = 'คำเตือน: This information page cannot be deleted as its currently used by %s stores!';
+$_['error_warning']          = 'คำเตือน: กรุณาตรวจสอบฟอร์มอย่างระมัดระวังสำหรับข้อผิดพลาด!';
+$_['error_permission']       = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงข้อมูล!';
+$_['error_title']            = 'ข้อมูลต้องมีอักขระตั้งแต่ 3 ถึง 64 ตัวอักษร!';
+$_['error_description']      = 'รายละเอียดต้องมีอักขระมากกว่า 3 ตัวอักษร!';
+$_['error_meta_title']       = 'Title ต้องมีอักขระตั้งแต่ 3 ถึง 255 ตัวอักษร!';
+$_['error_keyword']          = 'คำค้น SEO มีใช้อยู่แล้ว!';
+$_['error_account']          = 'คำเตือน: หน้าข้อมูลนี้ไม่สามารถลบได้เนื่องจากถูกนำไปใช้ในเงื่อนไขบัญชีผู้ใช้!';
+$_['error_checkout']         = 'คำเตือน: หน้าข้อมูลนี้ไม่สามารถลบได้เนื่องจากถูกนำไปใช้ในเงื่อนไขชำระเงิน!';
+$_['error_affiliate']        = 'คำเตือน: หน้าข้อมูลนี้ไม่สามารถลบได้เนื่องจากถูกนำไปใช้ในเงื่อนไขพันธมิตรร้านค้า!';
+$_['error_return']           = 'คำเตือน: หน้าข้อมูลนี้ไม่สามารถลบได้เนื่องจากถูกนำไปใช้ในเงื่อนไขการคืนสินค้า!';
+$_['error_store']            = 'คำเตือน: หน้าข้อมูลนี้ไม่สามารถลบได้เนื่องจากถูกนำไปใช้ใน %s ร้านค้า!';

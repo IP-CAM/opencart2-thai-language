@@ -26,8 +26,8 @@ $_['entry_subject']        = 'Subject';
 $_['entry_message']        = 'Message';
 
 // Help
-$_['help_customer']       = 'Autocomplete';
-$_['help_affiliate']      = 'Autocomplete';
+$_['help_customer']       = 'เติมข้อความอัตโนมัติ';
+$_['help_affiliate']      = 'เติมข้อความอัตโนมัติ';
 $_['help_product']        = 'Send only to customers who have ordered products in the list. (Autocomplete)';
 
 // Error

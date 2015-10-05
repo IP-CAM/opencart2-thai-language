@@ -4,14 +4,14 @@ $_['heading_title']     = 'HTML Content';
 
 // Text
 $_['text_module']       = 'Modules';
-$_['text_success']      = 'Success: You have modified HTML Content module!';
+$_['text_success']      = 'สำเร็จ: You have modified HTML Content module!';
 $_['text_edit']         = 'Edit HTML Content Module';
 
 // Entry
 $_['entry_name']        = 'Module Name';
 $_['entry_title']       = 'Heading Title';
-$_['entry_description'] = 'Description';
-$_['entry_status']      = 'Status';
+$_['entry_description'] = 'รายละเอียด';
+$_['entry_status']      = 'สถานะ';
 
 // Error
 $_['error_permission']  = 'คำเตือน: You do not have permission to modify HTML Content module!';

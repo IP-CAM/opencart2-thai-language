@@ -4,7 +4,7 @@ $_['heading_title']                            = 'Fedex';
 
 // Text
 $_['text_shipping']                            = 'การส่งสินค้า';
-$_['text_success']                             = 'Success: You have modified Fedex shipping!';
+$_['text_success']                             = 'สำเร็จ: You have modified Fedex shipping!';
 $_['text_edit']                                = 'Edit Fedex Shipping';
 $_['text_europe_first_international_priority'] = 'Europe First International Priority';
 $_['text_fedex_1_day_freight']                 = 'Fedex 1 Day Freight';
@@ -51,20 +51,20 @@ $_['entry_postcode']                           = 'Post Code';
 $_['entry_test']                               = 'Test Mode';
 $_['entry_service']                            = 'Services';
 $_['entry_dimension']                          = 'Box Dimensions (L x W x H)';
-$_['entry_length_class']                       = 'Length Class';
-$_['entry_length']                             = 'Length';
-$_['entry_width']                              = 'Width';
-$_['entry_height']                             = 'Height';
+$_['entry_length_class']                       = 'หน่วยความยาว';
+$_['entry_length']                             = 'ความยาว';
+$_['entry_width']                              = 'ความกว้าง';
+$_['entry_height']                             = 'ความสูง';
 $_['entry_dropoff_type']                       = 'Drop Off Type';
 $_['entry_packaging_type']                     = 'Packaging Type';
 $_['entry_rate_type']                          = 'Rate Type';
 $_['entry_display_time']                       = 'Display Delivery Time';
 $_['entry_display_weight']                     = 'Display Delivery Weight';
-$_['entry_weight_class']                       = 'Weight Class';
-$_['entry_tax_class']                          = 'Tax Class';
+$_['entry_weight_class']                       = 'หน่วยน้ำหนัก';
+$_['entry_tax_class']                          = 'ชนิดภาษี';
 $_['entry_geo_zone']                           = 'Geo Zone';
-$_['entry_status']                             = 'Status';
-$_['entry_sort_order']                         = 'Sort Order';
+$_['entry_status']                             = 'สถานะ';
+$_['entry_sort_order']                         = 'เรียงลำดับ';
 
 // Help
 $_['help_length_class']                        = 'Set to inches or centimeters.';

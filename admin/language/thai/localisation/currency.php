@@ -3,7 +3,7 @@
 $_['heading_title']        = 'Currencies';
 
 // Text
-$_['text_success']         = 'Success: You have modified currencies!';
+$_['text_success']         = 'สำเร็จ: You have modified currencies!';
 $_['text_list']            = 'Currency List';
 $_['text_add']             = 'Add Currency';
 $_['text_edit']            = 'Edit Currency';
@@ -13,7 +13,7 @@ $_['column_title']         = 'Currency Title';
 $_['column_code']          = 'Code';
 $_['column_value']         = 'Value';
 $_['column_date_modified'] = 'Last Updated';
-$_['column_action']        = 'Action';
+$_['column_action']        = 'การทำงาน';
 
 // Entry
 $_['entry_title']          = 'Currency Title';
@@ -22,7 +22,7 @@ $_['entry_value']          = 'Value';
 $_['entry_symbol_left']    = 'Symbol Left';
 $_['entry_symbol_right']   = 'Symbol Right';
 $_['entry_decimal_place']  = 'Decimal Places';
-$_['entry_status']         = 'Status';
+$_['entry_status']         = 'สถานะ';
 
 // Help
 $_['help_code']            = 'Do not change if this is your default currency. Must be valid <a href="http://www.xe.com/iso4217.php" target="_blank">ISO code</a>.';

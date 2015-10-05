@@ -10,8 +10,8 @@ $_['column_name']      = 'Coupon Name';
 $_['column_code']      = 'Code';
 $_['column_orders']    = 'Orders';
 $_['column_total']     = 'Total';
-$_['column_action']    = 'Action';
+$_['column_action']    = 'การทำงาน';
 
 // Entry
-$_['entry_date_start'] = 'Date Start';
-$_['entry_date_end']   = 'Date End';
+$_['entry_date_start'] = 'วันที่เริ่ม';
+$_['entry_date_end']   = 'วันที่สิ้นสุด';

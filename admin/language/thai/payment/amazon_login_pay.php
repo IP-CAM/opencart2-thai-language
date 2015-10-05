@@ -49,24 +49,24 @@ $_['text_column_authorization_id']	= 'Amazon Authorization ID';
 $_['text_column_capture_id']		= 'Amazon Capture ID';
 $_['text_column_refund_id']			= 'Amazon Refund ID';
 $_['text_column_amount']			= 'Amount';
-$_['text_column_type']				= 'Type';
-$_['text_column_status']			= 'Status';
+$_['text_column_type']				= 'ประเภท';
+$_['text_column_status']			= 'สถานะ';
 $_['text_column_date_added']		= 'Date added';
 $_['text_confirm_cancel']			= 'Are you sure you want to cancel the payment?';
 $_['text_confirm_capture']			= 'Are you sure you want to capture the payment?';
 $_['text_confirm_refund']			= 'Are you sure you want to refund the payment?';
 $_['text_minimum_total']            = 'Minimum Order Total';
 $_['text_geo_zone']                 = 'Geo Zone';
-$_['text_status']                   = 'Status';
+$_['text_status']                   = 'สถานะ';
 $_['text_declined_codes']           = 'Test Decline Codes';
-$_['text_sort_order']               = 'Sort Order';
+$_['text_sort_order']               = 'เรียงลำดับ';
 $_['text_amazon_invalid']           = 'InvalidPaymentMethod';
 $_['text_amazon_rejected']          = 'AmazonRejected';
 $_['text_amazon_timeout']           = 'TransactionTimedOut';
 $_['text_amazon_no_declined']       = '--- No Automatic Declined Authorization ---';
 
 // Columns
-$_['column_status']                 = 'Status';
+$_['column_status']                 = 'สถานะ';
 
 //entry
 $_['entry_merchant_id']             = 'Merchant ID';

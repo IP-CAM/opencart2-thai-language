@@ -66,8 +66,8 @@ $_['text_image_all_template']   		= 'Add all images to template';
 $_['text_image_exclude_default']		= 'Exclude default image';
 $_['text_image_exclude_default_help']	= 'Only for bulk listing feature! Will not include the default product image in theme image list';
 $_['text_confirm_delete']       		= 'Are you sure you want to delete the profile?';
-$_['text_width']      					= 'Width';
-$_['text_height']      					= 'Height';
+$_['text_width']      					= 'ความกว้าง';
+$_['text_height']      					= 'ความสูง';
 $_['text_px']      						= 'px';
 $_['text_add']      					= 'Add profile';
 $_['text_edit']      					= 'Edit profile';
@@ -78,11 +78,11 @@ $_['text_general_price']        		= 'Price % modification';
 $_['text_general_price_help']   		= '0 is default, -10 will reduce by 10%, 10 will increase by 10% (only used on bulk listing)';
 
 //General profile options
-$_['text_profile_name']         		= 'Name';
+$_['text_profile_name']         		= 'ชื่อ';
 $_['text_profile_default']      		= 'ค่าเริ่มต้น';
-$_['text_profile_type']         		= 'Type';
-$_['text_profile_desc']         		= 'Description';
-$_['text_profile_action']       		= 'Action';
+$_['text_profile_type']         		= 'ประเภท';
+$_['text_profile_desc']         		= 'รายละเอียด';
+$_['text_profile_action']       		= 'การทำงาน';
 
 // Profile types
 $_['text_type_shipping']       			= 'การส่งสินค้า';

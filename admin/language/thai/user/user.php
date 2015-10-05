@@ -3,16 +3,16 @@
 $_['heading_title']     = 'Users';
 
 // Text
-$_['text_success']      = 'Success: You have modified users!';
+$_['text_success']      = 'สำเร็จ: You have modified users!';
 $_['text_list']         = 'User List';
 $_['text_add']          = 'Add User';
 $_['text_edit']         = 'Edit User';
 
 // Column
 $_['column_username']   = 'Username';
-$_['column_status']     = 'Status';
-$_['column_date_added'] = 'Date Added';
-$_['column_action']     = 'Action';
+$_['column_status']     = 'สถานะ';
+$_['column_date_added'] = 'วันที่เพิ่ม';
+$_['column_action']     = 'การทำงาน';
 
 // Entry
 $_['entry_username']   	= 'Username';
@@ -22,8 +22,8 @@ $_['entry_confirm']    	= 'ยืนยัน';
 $_['entry_firstname']  	= 'ชื่อ';
 $_['entry_lastname']   	= 'นามสกุล';
 $_['entry_email']      	= 'E-Mail';
-$_['entry_image']      	= 'Image';
-$_['entry_status']     	= 'Status';
+$_['entry_image']      	= 'รูปภาพ';
+$_['entry_status']     	= 'สถานะ';
 
 // Error
 $_['error_permission'] 	= 'คำเตือน: You do not have permission to modify users!';

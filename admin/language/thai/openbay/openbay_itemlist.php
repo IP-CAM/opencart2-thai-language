@@ -33,19 +33,19 @@ $_['text_variations_stock'] 			= 'stock';
 $_['text_min']                      	= 'Min';
 $_['text_max']                      	= 'Max';
 $_['text_option']                   	= 'Option';
-$_['text_list']              			= 'Product List';
+$_['text_list']              			= 'รายการสินค้า';
 
 // Entry
 $_['entry_title'] 						= 'Title';
 $_['entry_model'] 						= 'รุ่น';
-$_['entry_manufacturer'] 				= 'Manufacturer';
-$_['entry_status'] 						= 'Status';
+$_['entry_manufacturer'] 				= 'ผู้ผลิต';
+$_['entry_status'] 						= 'สถานะ';
 $_['entry_status_marketplace'] 			= 'Marketplace status';
 $_['entry_stock_range'] 				= 'Stock range';
 $_['entry_category'] 					= 'Category';
 $_['entry_populated'] 					= 'Populated';
 $_['entry_sku'] 						= 'SKU';
-$_['entry_description'] 				= 'Description';
+$_['entry_description'] 				= 'รายละเอียด';
 
 // Button
 $_['button_error_fix']              	= 'Fix errors';
