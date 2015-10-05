@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Google Sitemap';
 
 // Text
-$_['text_feed']        = 'Feeds';
+$_['text_feed']        = 'ฟีด';
 $_['text_success']     = 'สำเร็จ: You have modified Google Sitemap feed!';
 $_['text_edit']        = 'Edit Google Sitemap';
 

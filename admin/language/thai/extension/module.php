@@ -3,20 +3,20 @@
 $_['heading_title']    = 'โมดูล';
 
 // Text
-$_['text_success']     = 'สำเร็จ: You have modified modules!';
-$_['text_layout']      = 'After you have installed and configured a module you can add it to a layout <a href="%s" class="alert-link">here</a>!';
-$_['text_add']         = 'Add Module';
-$_['text_list']        = 'Module List';
+$_['text_success']     = 'สำเร็จ: คุณได้ปรับปรุงโมดูลแล้ว!';
+$_['text_layout']      = 'หลังจากที่คุณติดตั้งและตั้งค่าโมดูลแล้ว คุณสามารถเพิ่มมันลงในเลยเอาต์<a href="%s" class="alert-link">ที่นี่</a>!';
+$_['text_add']         = 'เพิ่มโมดูล';
+$_['text_list']        = 'รายการโมดูล';
 
 // Column
-$_['column_name']      = 'Module Name';
+$_['column_name']      = 'ชื่อโมดูล';
 $_['column_action']    = 'การทำงาน';
 
 // Entry
 $_['entry_code']       = 'โมดูล';
-$_['entry_name']       = 'Module Name';
+$_['entry_name']       = 'ชื่อโมดูล';
 
 // Error
-$_['error_permission'] = 'คำเตือน: You do not have permission to modify modules!';
-$_['error_name']       = 'Module Name must be between 3 and 64 characters!';
-$_['error_code']       = 'Extension required!';
+$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงโมดูล!';
+$_['error_name']       = 'ชื่อโมดูลต้องมีอักขระตั้งแต่ 3 ถึง 64 ตัวอักษร!';
+$_['error_code']       = 'ต้องการส่วนขยาย!';

@@ -6,7 +6,7 @@ $_['text_confirm_title']        = 'Review bulk status update';
 
 // Button
 $_['button_status']           	= 'Change status';
-$_['button_update']           	= 'Update';
+$_['button_update']           	= 'อัพเดท';
 
 // Column
 $_['column_channel']        	= 'Order Channel';
@@ -29,7 +29,7 @@ $_['text_list']					= 'Order list';
 
 // Entry
 $_['entry_carrier']             = 'Carrier';
-$_['entry_tracking_no']         = 'Tracking';
+$_['entry_tracking_no']         = 'รหัสติดตาม';
 $_['entry_other']               = 'Other';
 $_['entry_date_added']          = 'วันที่เพิ่ม';
 $_['entry_order_channel']       = 'Order channel';

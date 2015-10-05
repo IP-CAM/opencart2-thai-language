@@ -13,7 +13,7 @@ $_['text_latest']       = 'ล่าสุด';
 $_['text_random']       = 'Random';
 
 // Entry
-$_['entry_name']        = 'Module Name';
+$_['entry_name']        = 'ชื่อโมดูล';
 $_['entry_username']    = 'eBay username';
 $_['entry_keywords']    = 'Search Keywords';
 $_['entry_description'] = 'Include Description Search';
@@ -27,6 +27,6 @@ $_['entry_status']   	= 'สถานะ';
 
 // Error
 $_['error_permission']  = 'คำเตือน: You do not have permission to modify module eBay!';
-$_['error_name']        = 'Module Name must be between 3 and 64 characters!';
+$_['error_name']        = 'ชื่อโมดูลต้องมีอักขระตั้งแต่ 3 ถึง 64 ตัวอักษร!';
 $_['error_width']       = 'ต้องกรอกความกว้าง!';
 $_['error_height']      = 'ต้องกรอกความสูง!';

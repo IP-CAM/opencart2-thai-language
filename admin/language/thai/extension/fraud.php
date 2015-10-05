@@ -3,13 +3,13 @@
 $_['heading_title']    = 'ป้องกันการโกง';
 
 // Text
-$_['text_success']     = 'สำเร็จ: You have modified anti-fraud!';
-$_['text_list']        = 'Anti-Fraud List';
+$_['text_success']     = 'สำเร็จ: คุณได้ปรับปรุงการป้องกันการโกงแล้ว!';
+$_['text_list']        = 'รายการป้องกันการโกง';
 
 // Column
-$_['column_name']      = 'Anti-Fraud Name';
+$_['column_name']      = 'ชื่อป้องกันการโกง';
 $_['column_status']    = 'สถานะ';
 $_['column_action']    = 'การทำงาน';
 
 // Error
-$_['error_permission'] = 'คำเตือน: You do not have permission to modify anti-fraud!';
+$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงการป้องกันการโกง!';

@@ -17,7 +17,7 @@ $_['text_listing_info']             = 'Listing information';
 $_['button_view']					= 'View listing';
 $_['button_remove']					= 'Remove link';
 $_['button_end']                    = 'End listing';
-$_['button_retry']					= 'Retry';
+$_['button_retry']					= 'ลองอีกครั้ง';
 
 // Entry
 $_['entry_title']					= 'ไตเติล';

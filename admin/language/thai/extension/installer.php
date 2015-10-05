@@ -3,36 +3,36 @@
 $_['heading_title']        = 'ตัวติดตั้งส่วนขยาย';
 
 // Text
-$_['text_success']         = 'สำเร็จ: You have installed your extension!';
-$_['text_unzip']           = 'Extracting files!';
-$_['text_ftp']             = 'Copying files!';
-$_['text_sql']             = 'Running SQL!';
-$_['text_xml']             = 'Applying modifications!';
-$_['text_php']             = 'Running PHP!';
-$_['text_remove']          = 'Removing temporary files!';
-$_['text_clear']           = 'สำเร็จ: You have cleared all temporary files!';
+$_['text_success']         = 'สำเร็จ: คุณได้ติดตั้งส่วนขยายของคุณแล้ว!';
+$_['text_unzip']           = 'กำลังแตกไฟล์!';
+$_['text_ftp']             = 'กำลังคัดลอกไฟล์!';
+$_['text_sql']             = 'กำลังรันคำสั่ง SQL!';
+$_['text_xml']             = 'กำลังนำการปรับปรุงไปใช้!';
+$_['text_php']             = 'กำลังรัน PHP!';
+$_['text_remove']          = 'กำลังเอาไฟล์ชั่วคราวออก!';
+$_['text_clear']           = 'สำเร็จ: คุณได้ล้างไฟล์ชั่วคราวออกหมดแล้ว!';
 
 // Entry
-$_['entry_upload']         = 'Upload File';
-$_['entry_overwrite']      = 'Files that will be overwritten';
-$_['entry_progress']       = 'Progress';
+$_['entry_upload']         = 'อัพโหลดไฟล์';
+$_['entry_overwrite']      = 'ไฟล์ที่จะถูกเขียนทับ';
+$_['entry_progress']       = 'ความคืบหน้า';
 
 // Help
-$_['help_upload']          = 'Requires a modification file with extension ".ocmod.zip" or ".ocmod.xml".';
+$_['help_upload']          = 'ต้องการไฟล์ปรับปรุงที่มีนามสกุล ".ocmod.zip" หรือ ".ocmod.xml".';
 
 // Error
-$_['error_permission']     = 'คำเตือน: You do not have permission to modify extensions!';
-$_['error_temporary']      = 'คำเตือน: There are some temporary files that require deleting. Click the clear button to remove them!';
-$_['error_upload']         = 'File could not be uploaded!';
+$_['error_permission']     = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงส่วนขยาย!';
+$_['error_temporary']      = 'คำเตือน: มีไฟล์ชั่วคราวบางไฟล์ต้องการการลบ. คลิกที่ปุ่มล้างค่าเพื่อเอามันออก!';
+$_['error_upload']         = 'ไฟล์ไม่สามารถอัพโหลดได้!';
 $_['error_filetype']       = 'ประเภทไฟล์ไม่ถูกต้อง!';
-$_['error_file']           = 'File could not be found!';
-$_['error_unzip']          = 'Zip file could not be opened!';
-$_['error_code']           = 'Modification requires a unique ID code!';
-$_['error_exists']         = 'Modification %s is using the same ID code as the one you are trying to upload!';
-$_['error_directory']      = 'Directory containing files to be uploaded could not be found!';
-$_['error_ftp_status']     = 'FTP needs to be enabled in the settings';
-$_['error_ftp_connection'] = 'Could not connect as %s:%s';
-$_['error_ftp_login']      = 'Could not login as %s';
-$_['error_ftp_root']       = 'Could not set root directory as %s';
-$_['error_ftp_directory']  = 'Could not change to directory %s';
-$_['error_ftp_file']       = 'Could not upload file %s';
+$_['error_file']           = 'ไม่พบไฟล์!';
+$_['error_unzip']          = 'ไฟล์ zip ไม่สามารถเปิดได้!';
+$_['error_code']           = 'การปรับปรุงต้องการโค้ด ID ที่เป็นเอกลักษณ์!';
+$_['error_exists']         = 'การปรับปรุง %s กำลังใช้โค้ด ID เหมือนกันกับอันที่คุณพยายามอัพโหลด!';
+$_['error_directory']      = 'ไม่พบโฟลเดอร์ที่มีไฟล์ที่จะอัพโหลด!';
+$_['error_ftp_status']     = 'ต้องเปิดใช้งาน FTP ในหน้าตั้งค่า';
+$_['error_ftp_connection'] = 'ไม่สามารถเชื่อมต่อเป็น %s:%s';
+$_['error_ftp_login']      = 'ไม่สามารถเข้าสู่ระบบเป็น %s';
+$_['error_ftp_root']       = 'ไม่สามารถกำหนดโฟลเดอร์หลักเป็น %s';
+$_['error_ftp_directory']  = 'ไม่สามารถเปลี่ยนไปยังโฟลเดอร์ %s';
+$_['error_ftp_file']       = 'ไม่สามารถอัพโหลดไฟล์ %s';

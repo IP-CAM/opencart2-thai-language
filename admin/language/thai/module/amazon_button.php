@@ -10,10 +10,10 @@ $_['text_right']       = 'Right';
 $_['text_center']      = 'Center';
 
 // Entry
-$_['entry_name']       = 'Module Name';
+$_['entry_name']       = 'ชื่อโมดูล';
 $_['entry_align']      = 'Align';
 $_['entry_status']     = 'สถานะ';
 
 // Error
 $_['error_permission'] = 'คำเตือน: You do not have permission to modify Amazon payments module!';
-$_['error_name']       = 'Module Name must be between 3 and 64 characters!';
+$_['error_name']       = 'ชื่อโมดูลต้องมีอักขระตั้งแต่ 3 ถึง 64 ตัวอักษร!';

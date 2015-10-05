@@ -1,15 +1,15 @@
 <?php
 // Heading
-$_['heading_title']    = 'Feeds';
+$_['heading_title']    = 'ฟีด';
 
 // Text
-$_['text_success']     = 'สำเร็จ: You have modified feeds!';
-$_['text_list']        = 'Feed List';
+$_['text_success']     = 'สำเร็จ: คุณปรับปรุงฟีดแล้ว!';
+$_['text_list']        = 'รายการฟีด';
 
 // Column
-$_['column_name']      = 'Product Feed Name';
+$_['column_name']      = 'ชื่อฟีดสินค้า';
 $_['column_status']    = 'สถานะ';
 $_['column_action']    = 'การทำงาน';
 
 // Error
-$_['error_permission'] = 'คำเตือน: You do not have permission to modify feeds!';
+$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงฟีด!';
