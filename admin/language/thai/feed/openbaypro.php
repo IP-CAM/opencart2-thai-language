@@ -4,4 +4,4 @@ $_['heading_title']	  = 'OpenBay Pro';
 
 // Text
 $_['text_module']    = 'โมดูล';
-$_['text_installed'] = 'OpenBay Pro module is now installed. It is available under Extensions -> OpenBay Pro';
+$_['text_installed'] = 'โมดูล OpenBay Pro module นั้นติดตั้งแล้ว. มันจะมีอยู่ในส่วนขยาย -> OpenBay Pro';
