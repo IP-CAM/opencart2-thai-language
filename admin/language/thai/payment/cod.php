@@ -8,7 +8,7 @@ $_['text_success']					= 'สำเร็จ: You have modified Cash On Delivery
 $_['text_edit']                     = 'Edit Cash On Delivery';
 
 // Entry
-$_['entry_total']					= 'Total';
+$_['entry_total']					= 'ทั้งหมด';
 $_['entry_order_status']			= 'Order Status';
 $_['entry_geo_zone']				= 'Geo Zone';
 $_['entry_status']					= 'สถานะ';

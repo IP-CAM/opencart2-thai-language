@@ -71,11 +71,11 @@ $_['text_history']             = 'Add Order History';
 
 // Column
 $_['column_order_id']          = 'รหัสสั่งซื้อ';
-$_['column_customer']          = 'Customer';
+$_['column_customer']          = 'ลูกค้า';
 $_['column_status']            = 'สถานะ';
 $_['column_date_added']        = 'วันที่เพิ่ม';
 $_['column_date_modified']     = 'Date Modified';
-$_['column_total']             = 'Total';
+$_['column_total']             = 'ทั้งหมด';
 $_['column_product']           = 'สินค้า';
 $_['column_model']             = 'รุ่น';
 $_['column_quantity']          = 'จำนวน';
@@ -89,7 +89,7 @@ $_['column_weight']            = 'Product weight';
 
 // Entry
 $_['entry_store']              = 'Store';
-$_['entry_customer']           = 'Customer';
+$_['entry_customer']           = 'ลูกค้า';
 $_['entry_customer_group']     = 'กลุ่มลูกค้า';
 $_['entry_firstname']          = 'ชื่อ';
 $_['entry_lastname']           = 'นามสกุล';
@@ -126,7 +126,7 @@ $_['entry_coupon']             = 'คูปอง';
 $_['entry_voucher']            = 'บัตรกำนัล';
 $_['entry_reward']             = 'Reward';
 $_['entry_order_id']           = 'รหัสสั่งซื้อ';
-$_['entry_total']              = 'Total';
+$_['entry_total']              = 'ทั้งหมด';
 $_['entry_date_added']         = 'วันที่เพิ่ม';
 $_['entry_date_modified']      = 'Date Modified';
 

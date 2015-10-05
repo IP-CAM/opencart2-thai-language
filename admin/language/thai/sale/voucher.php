@@ -18,7 +18,7 @@ $_['column_theme']      = 'Theme';
 $_['column_amount']     = 'Amount';
 $_['column_status']     = 'สถานะ';
 $_['column_order_id']   = 'รหัสสั่งซื้อ';
-$_['column_customer']   = 'Customer';
+$_['column_customer']   = 'ลูกค้า';
 $_['column_date_added'] = 'วันที่เพิ่ม';
 $_['column_action']     = 'การทำงาน';
 

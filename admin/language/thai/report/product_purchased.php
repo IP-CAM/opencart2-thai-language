@@ -12,7 +12,7 @@ $_['column_date_end']   = 'วันที่สิ้นสุด';
 $_['column_name']       = 'ชื่อสินค้า';
 $_['column_model']      = 'รุ่น';
 $_['column_quantity']   = 'จำนวน';
-$_['column_total']      = 'Total';
+$_['column_total']      = 'ทั้งหมด';
 
 // Entry
 $_['entry_date_start']  = 'วันที่เริ่ม';

@@ -4,12 +4,12 @@ $_['heading_title']     = 'Affiliate Activity Report';
 
 // Text
 $_['text_list']         = 'Affiliate Activity List';
-$_['text_edit']         = '<a href="affiliate_id=%d">%s</a> updated their account details.';
-$_['text_forgotten']    = '<a href="affiliate_id=%d">%s</a> requested a new password.';
-$_['text_login']        = '<a href="affiliate_id=%d">%s</a> logged in.';
-$_['text_password']     = '<a href="affiliate_id=%d">%s</a> updated their account password.';
-$_['text_payment']      = '<a href="affiliate_id=%d">%s</a> updated their payment details.';
-$_['text_register']     = '<a href="affiliate_id=%d">%s</a> registered for a new account.';
+$_['text_edit']         = '<a href="affiliate_id=%d">%s</a> ปรับปรุงรายละเอียดบัญชีผู้ใช้ของพวกเขา.';
+$_['text_forgotten']    = '<a href="affiliate_id=%d">%s</a> ร้องขอรหัสผ่านใหม่.';
+$_['text_login']        = '<a href="affiliate_id=%d">%s</a> เข้าสู่ระบบ.';
+$_['text_password']     = '<a href="affiliate_id=%d">%s</a> ปรับปรุงรหัสผ่านของพวกเขา.';
+$_['text_payment']      = '<a href="affiliate_id=%d">%s</a> ปรับปรุงรายละเอียดการชำระเงินของพวกเขา.';
+$_['text_register']     = '<a href="affiliate_id=%d">%s</a> ลงทะเบียนบัญชีผู้ใช่ใหม่.';
 
 // Column
 $_['column_affiliate']  = 'พันธมิตร';

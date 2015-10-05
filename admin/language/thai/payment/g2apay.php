@@ -14,7 +14,7 @@ $_['entry_api_hash']		     		 = 'API Hash';
 $_['entry_environment']			 		 = 'Environment';
 $_['entry_secret_token']		 		 = 'Secret Token';
 $_['entry_ipn_url']				 		 = 'IPN URL:';
-$_['entry_total']				 		 = 'Total';
+$_['entry_total']				 		 = 'ทั้งหมด';
 
 $_['entry_geo_zone']			 		 = 'Geo Zone';
 $_['entry_status']				 		 = 'สถานะ';

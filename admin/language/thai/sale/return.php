@@ -16,7 +16,7 @@ $_['text_history']        = 'Add Return History';
 // Column
 $_['column_return_id']     = 'รหัสรายการคืน';
 $_['column_order_id']      = 'รหัสสั่งซื้อ';
-$_['column_customer']      = 'Customer';
+$_['column_customer']      = 'ลูกค้า';
 $_['column_product']       = 'สินค้า';
 $_['column_model']         = 'รุ่น';
 $_['column_status']        = 'สถานะ';
@@ -27,7 +27,7 @@ $_['column_notify']        = 'Customer Notified';
 $_['column_action']        = 'การทำงาน';
 
 // Entry
-$_['entry_customer']      = 'Customer';
+$_['entry_customer']      = 'ลูกค้า';
 $_['entry_order_id']      = 'รหัสสั่งซื้อ';
 $_['entry_date_ordered']  = 'Order Date';
 $_['entry_firstname']     = 'ชื่อ';

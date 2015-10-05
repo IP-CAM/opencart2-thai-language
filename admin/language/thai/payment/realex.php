@@ -49,7 +49,7 @@ $_['text_realex']					 = '<a target="_blank" href="http://www.realexpayments.co.
 $_['entry_merchant_id']				 = 'Merchant ID';
 $_['entry_secret']					 = 'Shared secret';
 $_['entry_rebate_password']			 = 'Rebate password';
-$_['entry_total']					 = 'Total';
+$_['entry_total']					 = 'ทั้งหมด';
 $_['entry_sort_order']				 = 'Sort order';
 $_['entry_geo_zone']				 = 'Geo zone';
 $_['entry_status']					 = 'สถานะ';

@@ -15,7 +15,7 @@ $_['column_date_start'] = 'วันที่เริ่ม';
 $_['column_date_end']   = 'วันที่สิ้นสุด';
 $_['column_title']      = 'Tax Title';
 $_['column_orders']     = 'No. Orders';
-$_['column_total']      = 'Total';
+$_['column_total']      = 'ทั้งหมด';
 
 // Entry
 $_['entry_date_start']  = 'วันที่เริ่ม';

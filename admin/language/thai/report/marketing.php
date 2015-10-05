@@ -11,7 +11,7 @@ $_['column_campaign']  = 'Campaign Name';
 $_['column_code']      = 'Code';
 $_['column_clicks']    = 'Clicks';
 $_['column_orders']    = 'No. Orders';
-$_['column_total']     = 'Total';
+$_['column_total']     = 'ทั้งหมด';
 
 // Entry
 $_['entry_date_start'] = 'วันที่เริ่ม';

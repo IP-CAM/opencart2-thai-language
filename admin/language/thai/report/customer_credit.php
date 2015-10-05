@@ -8,7 +8,7 @@ $_['column_customer']       = 'Customer Name';
 $_['column_email']          = 'E-Mail';
 $_['column_customer_group'] = 'กลุ่มลูกค้า';
 $_['column_status']         = 'สถานะ';
-$_['column_total']          = 'Total';
+$_['column_total']          = 'ทั้งหมด';
 $_['column_action']         = 'การทำงาน';
 
 // Entry

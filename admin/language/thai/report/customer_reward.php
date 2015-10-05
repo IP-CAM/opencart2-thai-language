@@ -12,7 +12,7 @@ $_['column_customer_group'] = 'กลุ่มลูกค้า';
 $_['column_status']         = 'สถานะ';
 $_['column_points']         = 'แต้มรางวัล';
 $_['column_orders']         = 'No. Orders';
-$_['column_total']          = 'Total';
+$_['column_total']          = 'ทั้งหมด';
 $_['column_action']         = 'การทำงาน';
 
 // Entry

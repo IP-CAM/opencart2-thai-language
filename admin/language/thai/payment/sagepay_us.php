@@ -10,7 +10,7 @@ $_['text_edit']                     = 'Edit Sage Payment Solutions (US)';
 // Entry
 $_['entry_merchant_id']				= 'Merchant ID';
 $_['entry_merchant_key']			= 'Merchant Key';
-$_['entry_total']					= 'Total';
+$_['entry_total']					= 'ทั้งหมด';
 $_['entry_order_status']			= 'Order Status';
 $_['entry_geo_zone']				= 'Geo Zone';
 $_['entry_status']					= 'สถานะ';
