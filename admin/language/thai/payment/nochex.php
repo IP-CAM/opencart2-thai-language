@@ -11,7 +11,7 @@ $_['text_seller']					= 'Seller / Personal Account';
 $_['text_merchant']					= 'Merchant Account';
 
 // Entry
-$_['entry_email']					= 'E-Mail';
+$_['entry_email']					= 'อีเมลล์';
 $_['entry_account']					= 'Account Type';
 $_['entry_merchant']				= 'Merchant ID';
 $_['entry_template']				= 'Pass Template';

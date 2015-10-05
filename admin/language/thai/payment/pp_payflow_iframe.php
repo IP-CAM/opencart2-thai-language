@@ -27,7 +27,7 @@ $_['help_checkout_method']			= 'Please use Redirect method if do not have SSL in
 // Column
 $_['column_transaction_id']			= 'รหัสการทำธุรกรรม';
 $_['column_transaction_type']		= 'Transaction Type';
-$_['column_amount']					= 'Amount';
+$_['column_amount']					= 'จำนวน';
 $_['column_time']					= 'Time';
 $_['column_actions']				= 'Actions';
 
@@ -50,7 +50,7 @@ $_['entry_status']					= 'สถานะ';
 $_['entry_sort_order']				= 'เรียงลำดับ';
 $_['entry_transaction_id']			= 'รหัสการทำธุรกรรม';
 $_['entry_full_refund']				= 'Full refund';
-$_['entry_amount']					= 'Amount';
+$_['entry_amount']					= 'จำนวน';
 $_['entry_message']					= 'ข้อความ';
 $_['entry_ipn_url']					= 'IPN URL';
 $_['entry_checkout_method']			= 'Checkout Method';

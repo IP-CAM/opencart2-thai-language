@@ -9,7 +9,7 @@ $_['text_edit']               = 'Edit Skrill';
 $_['text_skrill']	     	  = '<a href="https://www.moneybookers.com/partners/?p=OpenCart" target="_blank"><img src="view/image/payment/skrill.png" alt="Skrill" title="Skrill" style="border: 1px solid #EEEEEE;" /></a>';
 
 // Entry
-$_['entry_email']			  = 'E-Mail';
+$_['entry_email']			  = 'อีเมลล์';
 $_['entry_secret']		      = 'Secret';
 $_['entry_total']			  = 'ทั้งหมด';
 $_['entry_order_status']	  = 'สถานะการสั่งซื้อ';

@@ -10,7 +10,7 @@ $_['text_refund']					= 'Refund';
 // Entry
 $_['entry_transaction_id']			= 'รหัสการทำธุรกรรม';
 $_['entry_full_refund']				= 'Full refund';
-$_['entry_amount']					= 'Amount';
+$_['entry_amount']					= 'จำนวน';
 $_['entry_message']					= 'ข้อความ';
 
 // Button

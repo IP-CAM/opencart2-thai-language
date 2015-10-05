@@ -6,10 +6,10 @@ $_['heading_title']     = 'Affiliate Commission Report';
 $_['text_list']         = 'Affiliate Commission List';
 
 // Column
-$_['column_affiliate']  = 'Affiliate Name';
-$_['column_email']      = 'E-Mail';
+$_['column_affiliate']  = 'ชื่อพันธมิตร';
+$_['column_email']      = 'อีเมลล์';
 $_['column_status']     = 'สถานะ';
-$_['column_commission'] = 'Commission';
+$_['column_commission'] = 'คอมมิชชั่น';
 $_['column_orders']     = 'No. Orders';
 $_['column_total']      = 'ทั้งหมด';
 $_['column_action']     = 'การทำงาน';

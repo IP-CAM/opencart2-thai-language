@@ -38,7 +38,7 @@ $_['text_loyalty_currency']			= 'Loyalty card currency';
 $_['text_options_name']				= 'Options name';
 $_['text_tax_amt']					= 'Tax amount';
 $_['text_currency_code']			= 'Currency code';
-$_['text_amount']					= 'Amount';
+$_['text_amount']					= 'จำนวน';
 $_['text_gift_msg']					= 'Gift message';
 $_['text_gift_receipt']				= 'Gift receipt';
 $_['text_gift_wrap_name']			= 'Gift wrap name';
@@ -110,7 +110,7 @@ $_['help_debug']					= 'Logs additional information.';
 
 // Column
 $_['column_trans_id']				= 'รหัสการทำธุรกรรม';
-$_['column_amount']					= 'Amount';
+$_['column_amount']					= 'จำนวน';
 $_['column_type']					= 'Payment type';
 $_['column_status']					= 'สถานะ';
 $_['column_pend_reason']			= 'Pending reason';
@@ -135,7 +135,7 @@ $_['entry_sort_order']				= 'เรียงลำดับ:';
 $_['entry_transaction_method']		= 'Transaction method:';
 $_['entry_transaction_id']			= 'รหัสการทำธุรกรรม';
 $_['entry_full_refund']				= 'Full refund';
-$_['entry_amount']					= 'Amount';
+$_['entry_amount']					= 'จำนวน';
 $_['entry_message']					= 'ข้อความ';
 $_['entry_ipn_url']					= 'IPN URL:';
 $_['entry_checkout_method']			= 'Checkout Method:';

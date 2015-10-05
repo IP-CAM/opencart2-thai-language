@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Free Shipping';
+$_['heading_title']    = 'ฟรีค่าจัดส่ง';
 
 // Text
 $_['text_shipping']    = 'การส่งสินค้า';

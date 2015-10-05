@@ -7,7 +7,7 @@ $_['text_list']         = 'Marketing List';
 $_['text_all_status']   = 'All Statuses';
 
 // Column
-$_['column_campaign']  = 'Campaign Name';
+$_['column_campaign']  = 'ชื่อแคมเปญ';
 $_['column_code']      = 'รหัส';
 $_['column_clicks']    = 'Clicks';
 $_['column_orders']    = 'No. Orders';

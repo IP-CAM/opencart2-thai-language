@@ -11,7 +11,7 @@ $_['text_authorization']			 = 'Authorization';
 $_['text_sale']						 = 'Sale'; 
 
 // Entry
-$_['entry_email']					 = 'E-Mail';
+$_['entry_email']					 = 'อีเมลล์';
 $_['entry_test']					 = 'Sandbox Mode';
 $_['entry_transaction']				 = 'Transaction Method';
 $_['entry_debug']					 = 'Debug Mode';

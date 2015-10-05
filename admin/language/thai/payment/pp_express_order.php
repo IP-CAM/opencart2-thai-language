@@ -17,7 +17,7 @@ $_['success_transaction_resent']	= 'Transaction was successfully resent';
 
 // Column
 $_['column_trans_id']				= 'รหัสการทำธุรกรรม';
-$_['column_amount']					= 'Amount';
+$_['column_amount']					= 'จำนวน';
 $_['column_type']					= 'Payment type';
 $_['column_status']					= 'สถานะ';
 $_['column_pend_reason']			= 'Pending reason';

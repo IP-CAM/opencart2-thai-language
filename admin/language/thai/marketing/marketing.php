@@ -1,33 +1,33 @@
 <?php
 // Heading
-$_['heading_title']     = 'Marketing Tracking';
+$_['heading_title']     = 'ติดตามการตลาด';
 
 // Text
-$_['text_success']      = 'สำเร็จ: You have modified marketing tracking!';
-$_['text_list']         = 'Marketing Tracking List';
-$_['text_add']          = 'Add Marketing Tracking';
-$_['text_edit']         = 'Edit Marketing Tracking';
+$_['text_success']      = 'สำเร็จ: คุณได้ปรับปรุงการติดตามการตลาดแล้ว!';
+$_['text_list']         = 'รายการติดตามการตลาด';
+$_['text_add']          = 'เพิ่มติดตามการตลาด';
+$_['text_edit']         = 'แก้ไขติดตามการตลาด';
 
 // Column
-$_['column_name']       = 'Campaign Name';
+$_['column_name']       = 'ชื่อแคมเปญ';
 $_['column_code']       = 'รหัส';
-$_['column_clicks']     = 'Clicks';
+$_['column_clicks']     = 'คลิก';
 $_['column_orders']     = 'รายการสั่งซื้อ';
 $_['column_date_added'] = 'วันที่เพิ่ม';
 $_['column_action']     = 'การทำงาน';
 
 // Entry
-$_['entry_name']        = 'Campaign Name';
-$_['entry_description'] = 'Campaign Description';
-$_['entry_code']        = 'Tracking Code';
-$_['entry_example']     = 'Examples';
+$_['entry_name']        = 'ชื่อแคมเปญ';
+$_['entry_description'] = 'รายละเอียดแคมเปญ';
+$_['entry_code']        = 'รหัสติดตาม';
+$_['entry_example']     = 'ตัวอย่าง';
 $_['entry_date_added']  = 'วันที่เพิ่ม';
 
 // Help
-$_['help_code']         = 'The tracking code that will be used to marketing track campaigns.';
-$_['help_example']      = 'So the system can track refferals you neeed to add the tracking code to the end of the URL linking to your site.';
+$_['help_code']         = 'รหัสติดตามที่จะใช้ในการติดตามแคมเปญ.';
+$_['help_example']      = 'ระบบสามารถติดตามการอ้างอิงที่คุณต้องการ การเพิ่มรหัสติดตามไปยังท้ายลิ้งค์ URL ที่ส่งไปยังเว็บไซต์องคุณ.';
 
 // Error
-$_['error_permission']  = 'คำเตือน: You do not have permission to modify marketing tracking!';
-$_['error_name']        = 'Campaign must be between 1 and 32 characters!';
-$_['error_code']        = 'Tracking Code required!';
+$_['error_permission']  = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงการติดตามการตลาด!';
+$_['error_name']        = 'แคมเปญต้องมีอักขระตั้งแต่ 1 ถึง 32 ตัวอักษร!';
+$_['error_code']        = 'ต้องการรหัสติดตาม!';

@@ -5,7 +5,7 @@ $_['heading_title']         = 'Customer Credit Report';
 // Column
 $_['text_list']             = 'Customer Credit List';
 $_['column_customer']       = 'Customer Name';
-$_['column_email']          = 'E-Mail';
+$_['column_email']          = 'อีเมลล์';
 $_['column_customer_group'] = 'กลุ่มลูกค้า';
 $_['column_status']         = 'สถานะ';
 $_['column_total']          = 'ทั้งหมด';

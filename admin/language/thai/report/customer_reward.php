@@ -7,7 +7,7 @@ $_['text_list']             = 'Customer Reward Points List';
 
 // Column
 $_['column_customer']       = 'Customer Name';
-$_['column_email']          = 'E-Mail';
+$_['column_email']          = 'อีเมลล์';
 $_['column_customer_group'] = 'กลุ่มลูกค้า';
 $_['column_status']         = 'สถานะ';
 $_['column_points']         = 'แต้มรางวัล';

@@ -3,10 +3,10 @@
 $_['heading_title']    = 'Coupons Report';
 
 // Text
-$_['text_list']        = 'Coupon List';
+$_['text_list']        = 'รายการคูปอง';
 
 // Column
-$_['column_name']      = 'Coupon Name';
+$_['column_name']      = 'ชื่อคูปอง';
 $_['column_code']      = 'รหัส';
 $_['column_orders']    = 'รายการสั่งซื้อ';
 $_['column_total']     = 'ทั้งหมด';

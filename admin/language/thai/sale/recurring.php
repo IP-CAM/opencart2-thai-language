@@ -41,7 +41,7 @@ $_['entry_email']                          = 'อีเมลล์';
 $_['entry_description']                    = 'Recurring Profile\'s description';
 $_['entry_product']                        = 'สินค้า';
 $_['entry_quantity']                       = 'จำนวน';
-$_['entry_amount']                         = 'Amount';
+$_['entry_amount']                         = 'จำนวน';
 $_['entry_recurring']                      = 'รายละเอียดผ่อนชำระ';
 $_['entry_payment_method']                 = 'วิธีการชำระเงิน';
 

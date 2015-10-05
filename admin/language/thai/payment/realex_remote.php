@@ -41,7 +41,7 @@ $_['text_confirm_rebate']			= 'Are you sure you want to rebate the payment?';
 $_['text_realex_remote']			= '<a target="_BLANK" href="http://www.realexpayments.co.uk/partner-refer?id=opencart"><img src="view/image/payment/realex.png" alt="Realex" title="Realex" style="border: 1px solid #EEEEEE;" /></a>';
 
 // Column
-$_['text_column_amount']			= 'Amount';
+$_['text_column_amount']			= 'จำนวน';
 $_['text_column_type']				= 'ประเภท';
 $_['text_column_date_added']		= 'Created';
 
