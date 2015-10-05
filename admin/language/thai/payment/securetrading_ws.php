@@ -1,7 +1,7 @@
 <?php
 $_['heading_title'] = 'Secure Trading Web Service';
 
-$_['tab_settings'] = 'Settings';
+$_['tab_settings'] = 'ตั้งค่า';
 $_['tab_myst'] = 'MyST';
 
 $_['text_securetrading_ws'] = '<a href="http://www.securetradingfs.com/partner/open-cart/" target="_blank"><img src="view/image/payment/secure_trading.png" alt="Secure Trading" title="Secure Trading" style="border: 1px solid #EEEEEE;" /></a>';
@@ -29,8 +29,8 @@ $_['text_pending_suspended'] = 'Suspended';
 $_['text_pending_settled'] = 'Settled';
 
 $_['entry_site_reference'] = 'Site reference';
-$_['entry_username'] = 'Username';
-$_['entry_password'] = 'Password';
+$_['entry_username'] = 'ชื่อผู้ใช้';
+$_['entry_password'] = 'รหัสผ่าน';
 $_['entry_csv_username'] = 'CSV username';
 $_['entry_csv_password'] = 'CSV password';
 $_['entry_3d_secure'] = 'Use 3D Secure';

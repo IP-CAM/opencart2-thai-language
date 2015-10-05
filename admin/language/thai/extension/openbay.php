@@ -10,7 +10,7 @@ $_['button_ftp_test']					= 'Test connection';
 $_['button_faq']						= 'View FAQ topic';
 
 // Tab
-$_['tab_setting']						= 'Settings';
+$_['tab_setting']						= 'ตั้งค่า';
 $_['tab_update']						= 'Software updates';
 $_['tab_update_v1']						= 'Easy updater';
 $_['tab_update_v2']						= 'Legacy updater';
@@ -18,12 +18,12 @@ $_['tab_patch']							= 'Patch';
 $_['tab_developer']						= 'Developer';
 
 // Text
-$_['text_dashboard']         			= 'Dashboard';
+$_['text_dashboard']         			= 'แผงควบคุม';
 $_['text_success']         				= 'สำเร็จ: Settings have been saved';
 $_['text_products']          			= 'Items';
-$_['text_orders']          				= 'Orders';
+$_['text_orders']          				= 'รายการสั่งซื้อ';
 $_['text_manage']          				= 'Manage';
-$_['text_help']                     	= 'Help';
+$_['text_help']                     	= 'ความช่วยเหลือ';
 $_['text_tutorials']                    = 'Tutorials';
 $_['text_suggestions']                  = 'Ideas';
 $_['text_version_latest']               = 'You are running the latest version';

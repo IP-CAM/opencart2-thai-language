@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']     = 'Latest Orders';
+$_['heading_title']     = 'รายการสั่งซื้อล่าสุด';
 
 // Column
 $_['column_order_id']   = 'รหัสสั่งซื้อ';

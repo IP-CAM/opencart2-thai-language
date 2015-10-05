@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']     = 'Modifications';
+$_['heading_title']     = 'การปรับเปลี่ยน';
 
 // Text
 $_['text_success']      = 'สำเร็จ: You have modified modifications!';
@@ -10,7 +10,7 @@ $_['text_list']         = 'Modification List';
 // Column
 $_['column_name']       = 'Modification Name';
 $_['column_author']     = 'ผู้เขียน';
-$_['column_version']    = 'Version';
+$_['column_version']    = 'รุ่น';
 $_['column_status']     = 'สถานะ';
 $_['column_date_added'] = 'วันที่เพิ่ม';
 $_['column_action']     = 'การทำงาน';

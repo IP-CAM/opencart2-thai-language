@@ -8,7 +8,7 @@ $_['text_ebay']                         = 'eBay';
 $_['tab_returns']          				= 'คืนสินค้า';
 $_['tab_template']         				= 'Template';
 $_['tab_gallery']          				= 'Gallery';
-$_['tab_settings']         				= 'Settings';
+$_['tab_settings']         				= 'ตั้งค่า';
 
 //Shipping Profile
 $_['text_shipping_dispatch_country']    = 'Shipping from country';

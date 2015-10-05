@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Store Locations';
+$_['heading_title']    = 'ตำแหน่งร้านค้า';
 
 // Text
 $_['text_success']     = 'สำเร็จ: You have modified store locations!';

@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Anti-Fraud';
+$_['heading_title']    = 'ป้องกันการโกง';
 
 // Text
 $_['text_success']     = 'สำเร็จ: You have modified anti-fraud!';

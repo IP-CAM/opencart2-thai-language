@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Modules';
+$_['heading_title']    = 'โมดูล';
 
 // Text
 $_['text_success']     = 'สำเร็จ: You have modified modules!';

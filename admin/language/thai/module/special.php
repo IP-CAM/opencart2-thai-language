@@ -3,7 +3,7 @@
 $_['heading_title']    = 'พิเศษ';
 
 // Text
-$_['text_module']      = 'Modules';
+$_['text_module']      = 'โมดูล';
 $_['text_success']     = 'สำเร็จ: You have modified module specials!';
 $_['text_edit']        = 'Edit Specials Module';
 

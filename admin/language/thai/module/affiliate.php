@@ -2,7 +2,7 @@
 // Heading
 $_['heading_title']    = 'พันธมิตร';
 
-$_['text_module']      = 'Modules';
+$_['text_module']      = 'โมดูล';
 $_['text_success']     = 'สำเร็จ: You have modified affiliate module!';
 $_['text_edit']        = 'Edit Affiliate Module';
 

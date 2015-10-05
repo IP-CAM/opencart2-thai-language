@@ -3,14 +3,14 @@
 $_['heading_title'] = 'Login with Amazon';
 
 //Text
-$_['text_module'] = 'Modules';
+$_['text_module'] = 'โมดูล';
 $_['text_success'] = 'สำเร็จ: You have modified module Login with Amazon!';
 $_['text_content_top'] = 'Content Top';
 $_['text_content_bottom'] = 'Content Bottom';
 $_['text_column_left'] = 'Column Left';
 $_['text_column_right'] = 'Column Right';
 $_['text_lwa_button'] = 'Login with Amazon';
-$_['text_login_button'] = 'Login';
+$_['text_login_button'] = 'เข้าสู่ระบบ';
 $_['text_a_button'] = 'A';
 $_['text_gold_button'] = 'Gold';
 $_['text_darkgray_button'] = 'Dark Gray';

@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Order Statuses';
+$_['heading_title']    = 'สถานะการสั่งซื้อ';
 
 // Text
 $_['text_success']     = 'สำเร็จ: You have modified order statuses!';

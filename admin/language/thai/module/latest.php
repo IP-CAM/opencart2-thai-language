@@ -3,7 +3,7 @@
 $_['heading_title']    = 'ล่าสุด';
 
 // Text
-$_['text_module']      = 'Modules';
+$_['text_module']      = 'โมดูล';
 $_['text_success']     = 'สำเร็จ: You have modified latest module!';
 $_['text_edit']        = 'Edit Latest Module';
 

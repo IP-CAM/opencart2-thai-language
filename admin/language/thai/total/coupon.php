@@ -3,7 +3,7 @@
 $_['heading_title']    = 'คูปอง';
 
 // Text
-$_['text_total']       = 'Order Totals';
+$_['text_total']       = 'รายการสั่งซื้อทั้งหมด';
 $_['text_success']     = 'สำเร็จ: You have modified coupon total!';
 $_['text_edit']        = 'Edit Coupon';
 

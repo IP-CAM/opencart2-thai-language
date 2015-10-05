@@ -3,7 +3,7 @@
 $_['heading_title']    = 'แนะนำ';
 
 // Text
-$_['text_module']      = 'Modules';
+$_['text_module']      = 'โมดูล';
 $_['text_success']     = 'สำเร็จ: You have modified featured module!';
 $_['text_edit']        = 'Edit Featured Module';
 

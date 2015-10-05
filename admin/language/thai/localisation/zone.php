@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']          = 'Zones';
+$_['heading_title']          = 'โซน';
 
 // Text
 $_['text_success']           = 'สำเร็จ: You have modified zones!';

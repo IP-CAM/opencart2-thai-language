@@ -3,13 +3,13 @@
 $_['heading_title']                    = 'ร้านค้า';
 
 // Text
-$_['text_settings']                    = 'Settings';
+$_['text_settings']                    = 'ตั้งค่า';
 $_['text_success']                     = 'สำเร็จ: You have modified Stores!';
 $_['text_list']                        = 'Store List';
 $_['text_add']                         = 'Add Store';
 $_['text_edit']                        = 'Edit Store';
 $_['text_items']                       = 'Items';
-$_['text_tax']                         = 'Taxes';
+$_['text_tax']                         = 'ภาษี';
 $_['text_account']                     = 'Account';
 $_['text_checkout']                    = 'Checkout';
 $_['text_stock']                       = 'Stock';
@@ -34,7 +34,7 @@ $_['entry_fax']                        = 'Fax';
 $_['entry_image']                      = 'รูปภาพ';
 $_['entry_open']                       = 'เวลาเปิด';
 $_['entry_comment']                    = 'Comment';
-$_['entry_location']                   = 'Store Location';
+$_['entry_location']                   = 'ตำแหน่งร้านค้า';
 $_['entry_meta_title']                 = 'Meta Title';
 $_['entry_meta_description']           = 'Meta Tag Description';
 $_['entry_meta_keyword']               = 'Meta Tag Keywords';

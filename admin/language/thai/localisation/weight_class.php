@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Weight Classes';
+$_['heading_title']    = 'หน่วยน้ำหนัก';
 
 // Text
 $_['text_success']     = 'สำเร็จ: You have modified weight classes!';

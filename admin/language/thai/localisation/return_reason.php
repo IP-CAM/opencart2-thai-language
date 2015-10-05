@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Return Reasons';
+$_['heading_title']    = 'เหตุผลการคืน';
 
 // Text
 $_['text_success']     = 'สำเร็จ: You have modified return reasons!';

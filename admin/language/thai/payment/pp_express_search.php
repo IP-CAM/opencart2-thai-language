@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']					= 'Search Transactions';
+$_['heading_title']					= 'ค้นหาการทำธุรกรรม';
 
 // Column
 $_['tbl_column_date']				= 'Date';
@@ -66,7 +66,7 @@ $_['entry_middlename']				= 'Middle';
 $_['entry_lastname']				= 'Last';
 $_['entry_suffix']					= 'Suffix';
 $_['entry_status_all']				= 'All';
-$_['entry_status_pending']			= 'Pending';
+$_['entry_status_pending']			= 'รอดำเนินการ';
 $_['entry_status_processing']		= 'Processing';
 $_['entry_status_success']			= 'Success';
 $_['entry_status_denied']			= 'Denied';

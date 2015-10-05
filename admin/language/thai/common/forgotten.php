@@ -1,19 +1,19 @@
 <?php
 // header
-$_['heading_title']   = 'Forgot Your Password?';
+$_['heading_title']   = 'ลืมรหัสผ่านของคุณ?';
 
 // Text
-$_['text_forgotten']  = 'Forgotten Password';
+$_['text_forgotten']  = 'ลืมรหัสผ่าน';
 $_['text_your_email'] = 'ที่อยู่อีเมลล์ของคุณ';
-$_['text_email']      = 'Enter the e-mail address associated with your account. Click submit to have a password reset link e-mailed to you.';
-$_['text_success']    = 'An email with a confirmation link has been sent your admin email address.';
+$_['text_email']      = 'กรอกอีเมลล์ที่ใช้กับบัญชีผู้ใช้ของคุณ. คลิกที่ส่งข้อมูลเพื่อรับอีเมลล์ตั้งค่ารหัสผ่านใหม่ที่เราส่งไปยังคุณ.';
+$_['text_success']    = 'อีเมลล์กับลิ้งค์ยืนยันได้ถูกส่งไปยังที่อยู่อีเมลล์ของผู้ดูแลแล้ว.';
 
 // Entry
-$_['entry_email']     = 'E-Mail Address';
-$_['entry_password']  = 'New Password';
+$_['entry_email']     = 'ที่อยู่อีเมลล์';
+$_['entry_password']  = 'รหัสผ่านใหม่';
 $_['entry_confirm']   = 'ยืนยัน';
 
 // Error
-$_['error_email']     = 'คำเตือน: The E-Mail Address was not found in our records, please try again!';
+$_['error_email']     = 'คำเตือน: อีเมลล์ไม่พบในรายการของเรา, โปรดลองอีกครั้ง!';
 $_['error_password']  = 'รหัสผ่านต้องมีอักขระระหว่าง 3 ถึง 20 ตัวอักษร!';
-$_['error_confirm']   = 'Password and password confirmation do not match!';
+$_['error_confirm']   = 'รหัสผ่านและยืนยันรหัสผ่านนั้นไม่ตรงกัน!';

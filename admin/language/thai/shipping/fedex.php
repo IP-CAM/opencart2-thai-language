@@ -44,7 +44,7 @@ $_['text_account_rate']                        = 'Account Rate';
 
 // Entry
 $_['entry_key']                                = 'Key';
-$_['entry_password']                           = 'Password';
+$_['entry_password']                           = 'รหัสผ่าน';
 $_['entry_account']                            = 'หมายเลขบัญชี';
 $_['entry_meter']                              = 'Meter Number';
 $_['entry_postcode']                           = 'Post Code';

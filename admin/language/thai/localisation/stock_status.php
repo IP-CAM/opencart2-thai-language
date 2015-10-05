@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Stock Statuses';
+$_['heading_title']    = 'สถานะสต็อก';
 
 // Text
 $_['text_success']     = 'สำเร็จ: You have modified stock statuses!';

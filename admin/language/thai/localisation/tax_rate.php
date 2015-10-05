@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']        = 'Tax Rates';
+$_['heading_title']        = 'อัตราภาษี';
 
 // Text
 $_['text_success']         = 'สำเร็จ: You have modified tax rates!';

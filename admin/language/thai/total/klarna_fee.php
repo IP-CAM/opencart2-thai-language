@@ -3,7 +3,7 @@
 $_['heading_title']    = 'ค่าบริการ Klarna';
 
 // Text
-$_['text_total']       = 'Order Totals';
+$_['text_total']       = 'รายการสั่งซื้อทั้งหมด';
 $_['text_success']     = 'สำเร็จ: You have modified Klarna fee total!';
 $_['text_edit']        = 'Edit Klarna Fee Total';
 $_['text_sweden']      = 'Sweden';

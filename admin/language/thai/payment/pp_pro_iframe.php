@@ -118,7 +118,7 @@ $_['column_date_added']				= 'Created';
 $_['column_action']					= 'การทำงาน';
 
 // Tab
-$_['tab_settings']					= 'Settings';
+$_['tab_settings']					= 'ตั้งค่า';
 $_['tab_order_status']				= 'Order Status';
 $_['tab_checkout_customisation']	= 'Checkout Customisation';
 

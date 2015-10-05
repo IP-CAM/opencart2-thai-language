@@ -1,19 +1,19 @@
 <?php
 // Heading
-$_['heading_title']                        = 'Recurring Profiles';
+$_['heading_title']                        = 'รายละเอียดการผ่อนชำระ';
 
 // Text
 $_['text_success']                         = 'สำเร็จ: คุณได้ปรับปรุงข้อมูลผ่อนชำระแล้ว!';
 $_['text_list']                            = 'รายการข้อมูลผ่อนชำระ';
 $_['text_add']                             = 'เพิ่มข้อมูลผ่อนชำระ';
 $_['text_edit']                            = 'แก้ไขข้อมูลผ่อนชำระ';
-$_['text_payment_profiles']                = 'Recurring Profiles';
+$_['text_payment_profiles']                = 'รายละเอียดการผ่อนชำระ';
 $_['text_status_active']                   = 'Active';
 $_['text_status_inactive']                 = 'Inactive';
 $_['text_status_cancelled']                = 'Cancelled';
 $_['text_status_suspended']                = 'Suspended';
 $_['text_status_expired']                  = 'Expired';
-$_['text_status_pending']                  = 'Pending';
+$_['text_status_pending']                  = 'รอดำเนินการ';
 $_['text_transactions']                    = 'Transactions';
 $_['text_cancel_confirm']                  = 'Profile\'s cancellation cannot be undone! Are you sure want to do this?';
 $_['text_transaction_date_added']          = 'Date added';

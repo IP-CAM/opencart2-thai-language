@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']         = 'Custom Fields';
+$_['heading_title']         = 'ฟิลด์กำหนดเอง';
 
 // Text
 $_['text_success']          = 'สำเร็จ: You have modified custom fields!';

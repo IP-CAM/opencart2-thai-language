@@ -3,7 +3,7 @@
 $_['heading_title']        = 'Log In with PayPal';
 
 //Text
-$_['text_module']          = 'Modules';
+$_['text_module']          = 'โมดูล';
 $_['text_success']         = 'สำเร็จ: You have modified Log In with PayPal module!';
 $_['text_edit']            = 'Edit Log In with PayPal Module';
 $_['text_button_grey']     = 'Grey';

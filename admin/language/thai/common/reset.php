@@ -1,16 +1,16 @@
 <?php
 // header
-$_['heading_title']  = 'Reset your password';
+$_['heading_title']  = 'ตั้งค่ารหัสผ่านของคุณใหม่';
 
 // Text
-$_['text_reset']     = 'Reset your password!';
-$_['text_password']  = 'Enter the new password you wish to use.';
-$_['text_success']   = 'สำเร็จ: Your password has been successfully updated.';
+$_['text_reset']     = 'ตั้งค่ารหัสผ่านของคุณใหม่!';
+$_['text_password']  = 'กรอกรหัสผ่านใหม่ที่คุณจะใช้.';
+$_['text_success']   = 'สำเร็จ: รหัสผ่านใหม่ของคุณได้รับการปรับปรุงแล้ว.';
 
 // Entry
-$_['entry_password'] = 'Password';
+$_['entry_password'] = 'รหัสผ่าน';
 $_['entry_confirm']  = 'ยืนยัน';
 
 // Error
-$_['error_password'] = 'Password must be between 5 and 20 characters!';
-$_['error_confirm']  = 'Password and password confirmation do not match!';
+$_['error_password'] = 'รหัสผ่านต้องมีอักขระตั้งแต่ 5 ถึง 20ตัวอักษร!';
+$_['error_confirm']  = 'รหัสผ่านและยืนยันรหัสผ่านนั้นไม่ตรงกัน!';

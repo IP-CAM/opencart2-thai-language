@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']                    = 'Settings';
+$_['heading_title']                    = 'ตั้งค่า';
 
 // Text
 $_['text_stores']                      = 'ร้านค้า';
@@ -9,7 +9,7 @@ $_['text_edit']                        = 'Edit Setting';
 $_['text_product']                     = 'สินค้า';
 $_['text_review']                      = 'รีวิว';
 $_['text_voucher']                     = 'Vouchers';
-$_['text_tax']                         = 'Taxes';
+$_['text_tax']                         = 'ภาษี';
 $_['text_account']                     = 'Account';
 $_['text_checkout']                    = 'Checkout';
 $_['text_stock']                       = 'Stock';
@@ -17,7 +17,7 @@ $_['text_affiliate']                   = 'พันธมิตร';
 $_['text_return']                      = 'คืนสินค้า';
 $_['text_shipping']                    = 'Shipping Address';
 $_['text_payment']                     = 'Payment Address';
-$_['text_mail']                        = 'Mail';
+$_['text_mail']                        = 'เมลล์';
 $_['text_smtp']                        = 'SMTP';
 $_['text_google_analytics']            = 'Google Analytics';
 $_['text_google_captcha']              = 'Google reCAPTCHA';
@@ -33,7 +33,7 @@ $_['entry_fax']                        = 'Fax';
 $_['entry_image']                      = 'รูปภาพ';
 $_['entry_open']                       = 'เวลาเปิด';
 $_['entry_comment']                    = 'Comment';
-$_['entry_location']                   = 'Store Location';
+$_['entry_location']                   = 'ตำแหน่งร้านค้า';
 $_['entry_meta_title']                 = 'Meta Title';
 $_['entry_meta_description']           = 'Meta Tag Description';
 $_['entry_meta_keyword']               = 'Meta Tag Keywords';
@@ -59,7 +59,7 @@ $_['entry_voucher_max']                = 'Voucher Max';
 $_['entry_tax']                        = 'Display Prices With Tax';
 $_['entry_tax_default']                = 'Use Store Tax Address';
 $_['entry_tax_customer']               = 'Use Customer Tax Address';
-$_['entry_customer_online']            = 'Customers Online';
+$_['entry_customer_online']            = 'ลูกค้าออนไลน์';
 $_['entry_customer_group']             = 'กลุ่มลูกค้า';
 $_['entry_customer_group_display']     = 'กลุ่มลูกค้าs';
 $_['entry_customer_price']             = 'Login Display Prices';

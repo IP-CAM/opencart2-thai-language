@@ -9,7 +9,7 @@ $_['text_success']     = 'สำเร็จ: You have reset the product viewed 
 // Column
 $_['column_name']      = 'ชื่อสินค้า';
 $_['column_model']     = 'รุ่น';
-$_['column_viewed']    = 'Viewed';
+$_['column_viewed']    = 'ดูแล้ว';
 $_['column_percent']   = 'Percent';
 
 // Error

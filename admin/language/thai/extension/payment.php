@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']     = 'Payments';
+$_['heading_title']     = 'การชำระเงิน';
 
 // Text
 $_['text_success']      = 'สำเร็จ: You have modified payments!';

@@ -1,22 +1,22 @@
 <?php
 // Heading
-$_['heading_title']    = 'Image Manager';
+$_['heading_title']    = 'จัดการภาพ';
 
 // Text
-$_['text_uploaded']    = 'สำเร็จ: Your file has been uploaded!';
-$_['text_directory']   = 'สำเร็จ: Directory created!';
-$_['text_delete']      = 'สำเร็จ: Your file or directory has been deleted!';
+$_['text_uploaded']    = 'สำเร็จ: ไฟล์ของคุณได้อัพโหลดแล้ว!';
+$_['text_directory']   = 'สำเร็จ: โฟลเดอร์สร้างแล้ว!';
+$_['text_delete']      = 'สำเร็จ: ไฟล์หรือโฟลเดอร์ของคุณถูกลบแล้ว!';
 
 // Entry
-$_['entry_search']     = 'Search..';
-$_['entry_folder']     = 'Folder Name';
+$_['entry_search']     = 'ค้นหา..';
+$_['entry_folder']     = 'ชื่อโฟลเดอร์';
 
 // Error
-$_['error_permission'] = 'คำเตือน: Permission Denied!';
-$_['error_filename']   = 'คำเตือน: Filename must be a between 3 and 255!';
-$_['error_folder']     = 'คำเตือน: Folder name must be a between 3 and 255!';
-$_['error_exists']     = 'คำเตือน: A file or directory with the same name already exists!';
-$_['error_directory']  = 'คำเตือน: Directory does not exist!';
-$_['error_filetype']   = 'คำเตือน: Incorrect file type!';
-$_['error_upload']     = 'คำเตือน: File could not be uploaded for an unknown reason!';
-$_['error_delete']     = 'คำเตือน: You can not delete this directory!';
+$_['error_permission'] = 'คำเตือน: ถูกปฏิเสธการเข้าถึง!';
+$_['error_filename']   = 'คำเตือน: ชื่อไฟล์ต้องมีอักขระตั้งแต่ 3 ถึง 255 ตัวอักษร!';
+$_['error_folder']     = 'คำเตือน: ชื่อโฟลเดอร์ต้องมีอักขระตั้งแต่ 3 ถึง 255 ตัวอักษร!';
+$_['error_exists']     = 'คำเตือน: ไฟล์หรือโฟลเดอร์ที่ใช้ชื่อนี้มีอยู่แล้ว!';
+$_['error_directory']  = 'คำเตือน: โฟลเดอร์ไม่มีอยู่!';
+$_['error_filetype']   = 'คำเตือน: ประเภทไฟล์ไม่ถูกต้อง!';
+$_['error_upload']     = 'คำเตือน: ไม่สามารถอัพโหลดไฟล์ได้โดยไม่ทราบเหตุผล!';
+$_['error_delete']     = 'คำเตือน: คุณไม่สามารถลบโฟลเดอร์นี้ได้!';

@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']     = 'Tax Classes';
+$_['heading_title']     = 'ชนิดภาษี';
 
 // Text
 $_['text_success']      = 'สำเร็จ: You have modified tax classes!';

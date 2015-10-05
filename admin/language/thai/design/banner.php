@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']      = 'Banners';
+$_['heading_title']      = 'แบนเนอร์';
 
 // Text
 $_['text_success']       = 'สำเร็จ: You have modified banners!';

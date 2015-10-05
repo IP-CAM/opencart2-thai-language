@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']        = 'Mail';
+$_['heading_title']        = 'เมลล์';
 
 // Text
 $_['text_success']         = 'Your message has been successfully sent!';
@@ -10,7 +10,7 @@ $_['text_default']         = 'ค่าเริ่มต้น';
 $_['text_newsletter']      = 'All Newsletter Subscribers';
 $_['text_customer_all']    = 'All Customers';
 $_['text_customer_group']  = 'กลุ่มลูกค้า';
-$_['text_customer']        = 'Customers';
+$_['text_customer']        = 'ลูกค้า';
 $_['text_affiliate_all']   = 'All Affiliates';
 $_['text_affiliate']       = 'พันธมิตร';
 $_['text_product']         = 'สินค้า';

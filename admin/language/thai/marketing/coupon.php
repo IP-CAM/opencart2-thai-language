@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']       = 'Coupons';
+$_['heading_title']       = 'คูปอง';
 
 // Text
 $_['text_success']        = 'สำเร็จ: You have modified coupons!';

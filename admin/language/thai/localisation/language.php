@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']     = 'Languages';
+$_['heading_title']     = 'ภาษา';
 
 // Text
 $_['text_success']      = 'สำเร็จ: You have modified languages!';

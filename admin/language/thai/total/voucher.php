@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Gift Voucher';
 
 // Text
-$_['text_total']       = 'Order Totals';
+$_['text_total']       = 'รายการสั่งซื้อทั้งหมด';
 $_['text_success']     = 'สำเร็จ: You have modified gift voucher total!';
 $_['text_edit']        = 'Edit Gift Voucher Total';
 

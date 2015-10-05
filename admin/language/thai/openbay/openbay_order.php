@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']   			= 'Bulk order update';
+$_['heading_title']   			= 'ปรับปรุงรายการสั่งซื้อจำนวนมาก';
 $_['text_openbay']              = 'OpenBay Pro';
 $_['text_confirm_title']        = 'Review bulk status update';
 

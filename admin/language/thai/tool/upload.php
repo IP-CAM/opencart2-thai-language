@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']     = 'Uploads';
+$_['heading_title']     = 'อัพโหลด';
 
 // Text
 $_['text_success']      = 'สำเร็จ: You have modified uploads!';

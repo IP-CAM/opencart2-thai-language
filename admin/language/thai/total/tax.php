@@ -1,9 +1,9 @@
 <?php
 // Heading
-$_['heading_title']    = 'Taxes';
+$_['heading_title']    = 'ภาษี';
 
 // Text
-$_['text_total']       = 'Order Totals';
+$_['text_total']       = 'รายการสั่งซื้อทั้งหมด';
 $_['text_success']     = 'สำเร็จ: You have modified taxes total!';
 $_['text_edit']        = 'Edit Tax Total';
 

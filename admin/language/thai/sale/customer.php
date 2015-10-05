@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']         = 'Customers';
+$_['heading_title']         = 'ลูกค้า';
 
 // Text
 $_['text_success']          = 'สำเร็จ: You have modified customers!';
@@ -37,7 +37,7 @@ $_['entry_newsletter']      = 'Newsletter';
 $_['entry_status']          = 'สถานะ';
 $_['entry_approved']        = 'Approved';
 $_['entry_safe']            = 'Safe';
-$_['entry_password']        = 'Password';
+$_['entry_password']        = 'รหัสผ่าน';
 $_['entry_confirm']         = 'ยืนยัน';
 $_['entry_company']         = 'Company';
 $_['entry_address_1']       = 'Address 1';
@@ -68,7 +68,7 @@ $_['error_lastname']        = 'Last Name must be between 1 and 32 characters!';
 $_['error_email']           = 'E-Mail Address does not appear to be valid!';
 $_['error_telephone']       = 'Telephone must be between 3 and 32 characters!';
 $_['error_password']        = 'Password must be between 4 and 20 characters!';
-$_['error_confirm']         = 'Password and password confirmation do not match!';
+$_['error_confirm']         = 'รหัสผ่านและยืนยันรหัสผ่านนั้นไม่ตรงกัน!';
 $_['error_address_1']       = 'Address 1 must be between 3 and 128 characters!';
 $_['error_city']            = 'City must be between 2 and 128 characters!';
 $_['error_postcode']        = 'รหัสไปรษณีย์ต้องมีอักขระระหว่าง 2 ถึง 10 ตัวอักษรสำหรับประเทศนี้!';

@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']      = 'Geo Zones';
+$_['heading_title']      = 'โซนภูมิภาค';
 
 // Text
 $_['text_success']       = 'สำเร็จ: You have modified geo zones!';

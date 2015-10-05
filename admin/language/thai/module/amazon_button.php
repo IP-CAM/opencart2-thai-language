@@ -2,7 +2,7 @@
 // Heading
 $_['heading_title']    = 'ชำระเงินโดย Amazon Button';
 
-$_['text_module']      = 'Modules';
+$_['text_module']      = 'โมดูล';
 $_['text_success']     = 'สำเร็จ: You have modified Amazon payments module!';
 $_['text_edit']        = 'Edit Checkout by Amazon Module';
 $_['text_left']        = 'Left';

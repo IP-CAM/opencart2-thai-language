@@ -8,7 +8,7 @@ $_['text_ebay']						= 'eBay';
 $_['text_developer']				= 'Developer / support';
 $_['text_app_settings']				= 'Application settings';
 $_['text_default_import']			= 'Default import settings';
-$_['text_payments']					= 'Payments';
+$_['text_payments']					= 'การชำระเงิน';
 $_['text_notify_settings']			= 'Notification settings';
 $_['text_listing']					= 'Listing defaults';
 $_['text_token_register']			= 'Register for your eBay token';
@@ -82,7 +82,7 @@ $_['entry_import_part_refund_id']	= 'Partially refunded status:';
 
 // Tabs
 $_['tab_api_info']					= 'API details';
-$_['tab_setup']						= 'Settings';
+$_['tab_setup']						= 'ตั้งค่า';
 $_['tab_defaults']					= 'Listing defaults';
 
 // Help

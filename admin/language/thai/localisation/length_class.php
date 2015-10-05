@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Length Classes';
+$_['heading_title']    = 'หน่วยความยาว';
 
 // Text
 $_['text_success']     = 'สำเร็จ: You have modified length classes!';

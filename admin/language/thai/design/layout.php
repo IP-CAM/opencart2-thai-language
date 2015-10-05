@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']       = 'Layouts';
+$_['heading_title']       = 'เลย์เอาต์';
 
 // Text
 $_['text_success']        = 'สำเร็จ: You have modified layouts!';

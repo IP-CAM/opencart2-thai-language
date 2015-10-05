@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']					= 'Item links';
+$_['heading_title']					= 'รายการลิ้งค์';
 $_['text_openbay']					= 'OpenBay Pro';
 $_['text_amazon']					= 'Amazon US';
 

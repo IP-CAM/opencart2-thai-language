@@ -3,7 +3,7 @@
 $_['heading_title']    = 'ค่าธรรมเนียมสั่งซื้อขั้นต่ำ';
 
 // Text
-$_['text_total']       = 'Order Totals';
+$_['text_total']       = 'รายการสั่งซื้อทั้งหมด';
 $_['text_success']     = 'สำเร็จ: You have modified low order fee total!';
 $_['text_edit']        = 'Edit Low Order Fee Total';
 

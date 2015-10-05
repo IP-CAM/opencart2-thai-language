@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Banned IPs';
+$_['heading_title']    = 'ไอพีที่ถูกแบนs';
 
 // Text
 $_['text_success']     = 'สำเร็จ: You have modified customer banned IPs!';
@@ -10,7 +10,7 @@ $_['text_edit']        = 'Edit Banned IP';
 
 // Column
 $_['column_ip']        = 'IP';
-$_['column_customer']  = 'Customers';
+$_['column_customer']  = 'ลูกค้า';
 $_['column_action']    = 'การทำงาน';
 
 // Entry

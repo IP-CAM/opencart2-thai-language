@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']     = 'Voucher Themes';
+$_['heading_title']     = 'ธีมบัตรกำนัล';
 
 // Text
 $_['text_success']      = 'สำเร็จ: You have modified voucher themes!';

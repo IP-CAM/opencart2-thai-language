@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Return Statuses';
+$_['heading_title']    = 'สถานะการคืน';
 
 // Text
 $_['text_success']     = 'สำเร็จ: You have modified return statuses!';

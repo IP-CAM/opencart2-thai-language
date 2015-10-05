@@ -32,14 +32,14 @@ $_['column_time']					= 'Time';
 $_['column_actions']				= 'Actions';
 
 // Tab
-$_['tab_settings']					= 'Settings';
+$_['tab_settings']					= 'ตั้งค่า';
 $_['tab_order_status']				= 'Order Status';
 $_['tab_checkout_customisation']	= 'Checkout Customisation';
 
 // Entry
 $_['entry_vendor']					= 'Vendor';
 $_['entry_user']					= 'User';
-$_['entry_password']				= 'Password';
+$_['entry_password']				= 'รหัสผ่าน';
 $_['entry_partner']					= 'Partner';
 $_['entry_test']					= 'Test Mode';
 $_['entry_transaction']				= 'Transaction Method';

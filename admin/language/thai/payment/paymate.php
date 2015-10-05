@@ -10,7 +10,7 @@ $_['text_paymate']					= '<img src="view/image/payment/paymate.png" alt="Paymate
 
 // Entry
 $_['entry_username']				= 'Paymate Username';
-$_['entry_password']				= 'Password';
+$_['entry_password']				= 'รหัสผ่าน';
 $_['entry_test']					= 'Test Mode';
 $_['entry_total']					= 'Total';
 $_['entry_order_status']			= 'Order Status';

@@ -9,15 +9,15 @@ $_['text_add']             = 'Add API';
 $_['text_edit']            = 'Edit API';
 
 // Column
-$_['column_username']      = 'Username';
+$_['column_username']      = 'ชื่อผู้ใช้';
 $_['column_status']        = 'สถานะ';
 $_['column_date_added']    = 'วันที่เพิ่ม';
 $_['column_date_modified'] = 'Date Modified';
 $_['column_action']        = 'การทำงาน';
 
 // Entry
-$_['entry_username']       = 'Username';
-$_['entry_password']       = 'Password';
+$_['entry_username']       = 'ชื่อผู้ใช้';
+$_['entry_password']       = 'รหัสผ่าน';
 $_['entry_status']         = 'สถานะ';
 
 // Error

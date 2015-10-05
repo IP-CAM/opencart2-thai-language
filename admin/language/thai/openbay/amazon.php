@@ -5,9 +5,9 @@ $_['text_openbay']					= 'OpenBay Pro';
 $_['text_dashboard']				= 'Amazon EU Dashboard';
 
 // Text
-$_['text_heading_settings'] 		= 'Settings';
+$_['text_heading_settings'] 		= 'ตั้งค่า';
 $_['text_heading_account'] 			= 'Change plan';
-$_['text_heading_links'] 			= 'Item links';
+$_['text_heading_links'] 			= 'รายการลิ้งค์';
 $_['text_heading_register'] 		= 'Register';
 $_['text_heading_bulk_listing'] 	= 'Bulk listing';
 $_['text_heading_stock_updates'] 	= 'Stock updates';

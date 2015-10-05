@@ -8,7 +8,7 @@ $_['text_success']				 		 = 'สำเร็จ: You have modified the G2APay de
 $_['text_edit']					 		 = 'Edit G2APay';
 $_['text_g2apay']				 		 = '<a href="https://pay.g2a.com/" target="_blank"><img src="view/image/payment/g2apay.png" alt="G2APay" title="G2APay" style="border: 1px solid #EEEEEE;" /></a>';
 
-$_['entry_username']			 		 = 'Username';
+$_['entry_username']			 		 = 'ชื่อผู้ใช้';
 $_['entry_secret']				 		 = 'Secret';
 $_['entry_api_hash']		     		 = 'API Hash';
 $_['entry_environment']			 		 = 'Environment';
@@ -34,7 +34,7 @@ $_['help_total']				 		 = 'The checkout total the order must reach before this p
 $_['help_debug']				 		 = 'Enabling debug will write sensitive data to a log file. You should always disable unless instructed otherwise';
 
 // Tab
-$_['tab_settings']				 		 = 'Settings';
+$_['tab_settings']				 		 = 'ตั้งค่า';
 $_['tab_order_status']				 	 = 'Order Status';
 
 // Error

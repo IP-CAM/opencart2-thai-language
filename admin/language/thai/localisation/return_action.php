@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Return Actions';
+$_['heading_title']    = 'การทำงานคืนสินค้า';
 
 // Text
 $_['text_success']     = 'สำเร็จ: You have modified return actions!';
