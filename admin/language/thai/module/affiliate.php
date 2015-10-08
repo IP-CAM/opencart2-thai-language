@@ -3,11 +3,11 @@
 $_['heading_title']    = 'พันธมิตร';
 
 $_['text_module']      = 'โมดูล';
-$_['text_success']     = 'สำเร็จ: You have modified affiliate module!';
-$_['text_edit']        = 'Edit Affiliate Module';
+$_['text_success']     = 'สำเร็จ: คุณได้ปรับปรุงโมดูลพันธมิตรสำเร็จแล้ว!';
+$_['text_edit']        = 'แก้ไขโมดูลพันธมิตร';
 
 // Entry
 $_['entry_status']     = 'สถานะ';
 
 // Error
-$_['error_permission'] = 'คำเตือน: You do not have permission to modify affiliate module!';
+$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงโมดูลพันธมิตร!';

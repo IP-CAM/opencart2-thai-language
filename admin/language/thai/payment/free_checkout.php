@@ -4,7 +4,7 @@ $_['heading_title']		 = 'ฟรีเช็คเอาท์';
 
 // Text
 $_['text_payment']		 = 'Payment';
-$_['text_success']		 = 'สำเร็จ: You have modified Free Checkout payment module!';
+$_['text_success']		 = 'สำเร็จ: คุณได้ปรับปรุงโมดูล Free Checkout payment เรียบร้อยแล้ว!';
 $_['text_edit']          = 'Edit Free Checkout';
 
 // Entry

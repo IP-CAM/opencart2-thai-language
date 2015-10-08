@@ -75,7 +75,7 @@ $_['entry_reversed_status']			= 'Reversed Status:';
 $_['entry_voided_status']			= 'Voided Status:';
 $_['entry_cancel_url']				= 'Cancel URL:';
 $_['entry_error_url']				= 'Error URL:';
-$_['entry_return_url']				= 'Return URL:';
+$_['entry_return_url']				= 'URL ย้อนกลับ:';
 $_['entry_post_url']				= 'Silent POST URL:';
 
 // Help

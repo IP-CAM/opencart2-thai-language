@@ -1,32 +1,32 @@
 <?php
 // Heading
-$_['heading_title']     = 'eBay Listing';
+$_['heading_title']     = 'รายการสินค้า eBay';
 
 // Text
 $_['text_module']       = 'โมดูล';
-$_['text_success']      = 'สำเร็จ: You have modified module eBay featured!';
-$_['text_edit']        	= 'Edit eBay module';
+$_['text_success']      = 'สำเร็จ: คุณได้ปรับปรุงโมดูล eBay ที่โดดเด่นเรียบร้อยแล้ว!';
+$_['text_edit']        	= 'แก้ไขโมดูล eBay';
 $_['text_list']         = 'รายการเลย์เอาต์';
-$_['text_register']     = 'You need to register and enable OpenBay Pro for eBay!';
-$_['text_about'] 		= 'The eBay display module allows you to display products from your eBay account directly on your website.';
+$_['text_register']     = 'คุณต้องลงทะเบียนเพื่อเปิดใช้งาน OpenBay Pro สำหรับ eBay!';
+$_['text_about'] 		= 'โมดูลแสดงสินค้า eBay อนุญาตให้คุณแสดงสินค้าต่างๆจากบัญชี eBay ของคุณโดยตรงบนเว็บไซต์ของคุณเอง.';
 $_['text_latest']       = 'ล่าสุด';
-$_['text_random']       = 'Random';
+$_['text_random']       = 'สุ่ม';
 
 // Entry
 $_['entry_name']        = 'ชื่อโมดูล';
-$_['entry_username']    = 'eBay username';
-$_['entry_keywords']    = 'Search Keywords';
-$_['entry_description'] = 'Include Description Search';
-$_['entry_limit']       = 'Limit';
+$_['entry_username']    = 'ชื่อผู้ใช้ eBay';
+$_['entry_keywords']    = 'คำค้น';
+$_['entry_description'] = 'ค้นหารวมถึงรายละเอียด';
+$_['entry_limit']       = 'จำกัด';
 $_['entry_length']      = 'ความยาว';
 $_['entry_width']       = 'ความกว้าง';
 $_['entry_height']      = 'ความสูง';
-$_['entry_site']   		= 'eBay Site';
-$_['entry_sort']   		= 'Sort by';
+$_['entry_site']   		= 'ไซต์ eBay';
+$_['entry_sort']   		= 'เรียงลำดับโดย';
 $_['entry_status']   	= 'สถานะ';
 
 // Error
-$_['error_permission']  = 'คำเตือน: You do not have permission to modify module eBay!';
+$_['error_permission']  = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงโมดูล eBay!';
 $_['error_name']        = 'ชื่อโมดูลต้องมีอักขระตั้งแต่ 3 ถึง 64 ตัวอักษร!';
 $_['error_width']       = 'ต้องกรอกความกว้าง!';
 $_['error_height']      = 'ต้องกรอกความสูง!';

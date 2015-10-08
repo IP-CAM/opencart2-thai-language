@@ -12,7 +12,7 @@ $_['text_sale']						 = 'Sale';
 
 // Entry
 $_['entry_email']					 = 'อีเมลล์';
-$_['entry_test']					 = 'Sandbox Mode';
+$_['entry_test']					 = 'โหมดทดลอง';
 $_['entry_transaction']				 = 'Transaction Method';
 $_['entry_debug']					 = 'Debug Mode';
 $_['entry_total']					 = 'ทั้งหมด';

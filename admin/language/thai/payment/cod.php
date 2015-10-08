@@ -4,7 +4,7 @@ $_['heading_title']					= 'เงินสดเมื่อจัดส่ง';
 
 // Text
 $_['text_payment']					= 'Payment';
-$_['text_success']					= 'สำเร็จ: You have modified Cash On Delivery payment module!';
+$_['text_success']					= 'สำเร็จ: คุณได้ปรับปรุงโมดูล Cash On Delivery payment เรียบร้อยแล้ว!';
 $_['text_edit']                     = 'Edit Cash On Delivery';
 
 // Entry

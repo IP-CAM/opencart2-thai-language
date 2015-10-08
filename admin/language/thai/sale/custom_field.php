@@ -18,7 +18,7 @@ $_['text_file']             = 'File';
 $_['text_date']             = 'Date';
 $_['text_datetime']         = 'Date &amp; Time';
 $_['text_time']             = 'Time';
-$_['text_account']          = 'Account';
+$_['text_account']          = 'บัญชีผู้ใช้';
 $_['text_address']          = 'ที่อยู่';
 
 // Column

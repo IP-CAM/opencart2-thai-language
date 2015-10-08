@@ -1,14 +1,14 @@
 <?php
 // Heading
-$_['heading_title']    = 'Filter';
+$_['heading_title']    = 'ตัวกรอง';
 
 // Text
 $_['text_module']      = 'โมดูล';
-$_['text_success']     = 'สำเร็จ: You have modified filter module!';
-$_['text_edit']        = 'Edit Filter Module';
+$_['text_success']     = 'สำเร็จ: คุณได้ปรับปรุงโมดูลตัวกรองเรียบร้อยแล้ว!';
+$_['text_edit']        = 'แก้ไขโมดูลตัวกรอง';
 
 // Entry
 $_['entry_status']     = 'สถานะ';
 
 // Error
-$_['error_permission'] = 'คำเตือน: You do not have permission to modify filter module!';
+$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงโมดูลตัวกรอง!';

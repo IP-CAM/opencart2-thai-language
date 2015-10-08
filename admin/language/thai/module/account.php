@@ -1,13 +1,13 @@
 <?php
 // Heading
-$_['heading_title']    = 'Account';
+$_['heading_title']    = 'บัญชีผู้ใช้';
 
 $_['text_module']      = 'โมดูล';
-$_['text_success']     = 'สำเร็จ: You have modified account module!';
-$_['text_edit']        = 'Edit Account Module';
+$_['text_success']     = 'สำเร็จ: คุณได้ปรับปรุงโมดูลบัญชีผู้ใช้สำเร็จแล้ว!';
+$_['text_edit']        = 'แก้ไขโมดูลบัญชีผู้ใช้';
 
 // Entry
 $_['entry_status']     = 'สถานะ';
 
 // Error
-$_['error_permission'] = 'คำเตือน: You do not have permission to modify account module!';
+$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงโมดูลบัญชีผู้ใช้!';

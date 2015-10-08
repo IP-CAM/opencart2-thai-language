@@ -4,19 +4,19 @@ $_['heading_title']    = 'ขายดี';
 
 // Text
 $_['text_module']      = 'โมดูล';
-$_['text_success']     = 'สำเร็จ: You have modified bestsellers module!';
-$_['text_edit']        = 'Edit Bestsellers Module';
+$_['text_success']     = 'สำเร็จ: คุณได้ปรับปรุงโมดูลขายดีเรียบร้อยแล้ว!';
+$_['text_edit']        = 'แก้ไขโมดูลขายดี';
 
 // Entry
 $_['entry_name']       = 'ชื่อโมดูล';
-$_['entry_limit']      = 'Limit';
-$_['entry_image']      = 'Image (W x H) and Resize Type';
+$_['entry_limit']      = 'จำกัด';
+$_['entry_image']      = 'ภาพ (กว้าง x สูง) และประเภทการเปลี่ยนขนาด';
 $_['entry_width']      = 'ความกว้าง';
 $_['entry_height']     = 'ความสูง';
 $_['entry_status']     = 'สถานะ';
 
 // Error
-$_['error_permission'] = 'คำเตือน: You do not have permission to modify bestsellers module!';
+$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงโมดูลขายดี!';
 $_['error_name']       = 'ชื่อโมดูลต้องมีอักขระตั้งแต่ 3 ถึง 64 ตัวอักษร!';
 $_['error_width']      = 'ต้องกรอกความกว้าง!';
 $_['error_height']     = 'ต้องกรอกความสูง!';
