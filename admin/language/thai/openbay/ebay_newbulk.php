@@ -31,7 +31,7 @@ $_['text_profile_generic']          = 'Generic profile';
 //Text
 $_['text_title']                    = 'ไตเติล';
 $_['text_price']                    = 'ราคา';
-$_['text_stock']                    = 'Stock';
+$_['text_stock']                    = 'สต็อก';
 $_['text_search']                   = 'ค้นหา';
 $_['text_loading']                  = 'Loading details';
 $_['text_preparing0']               = 'Preparing';

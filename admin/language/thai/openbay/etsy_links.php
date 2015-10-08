@@ -5,7 +5,7 @@ $_['text_openbay']              = 'OpenBay Pro';
 $_['text_etsy']                 = 'Etsy';
 
 // Text
-$_['text_loading']              = 'Loading items';
+$_['text_loading']              = 'กำลังโหลดรายการ';
 $_['text_new_link']             = 'Create new link';
 $_['text_current_links']        = 'Current links';
 $_['text_link_saved']           = 'Item has been linked';
@@ -14,7 +14,7 @@ $_['text_no_links']           	= 'You have no products linked to Etsy items';
 // Columns
 $_['column_product']			= 'Product name';
 $_['column_item_id']			= 'Etsy ID';
-$_['column_store_stock']		= 'Stock';
+$_['column_store_stock']		= 'สต็อก';
 $_['column_etsy_stock']			= 'Etsy Stock';
 $_['column_status']				= 'Link Status';
 $_['column_action']				= 'การทำงาน';

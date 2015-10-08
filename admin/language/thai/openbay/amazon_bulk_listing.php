@@ -1,20 +1,20 @@
 <?php
 // Heading
-$_['heading_title'] 				= 'Bulk Listing';
+$_['heading_title'] 				= 'แสดงรายการจำนวนมาก';
 $_['text_openbay'] 					= 'OpenBay Pro';
 $_['text_amazon'] 					= 'Amazon EU';
 
 // Text
-$_['text_searching'] 				= 'Searching';
-$_['text_finished'] 				= 'Finished';
-$_['text_marketplace'] 				= 'Marketplace';
+$_['text_searching'] 				= 'กำลังค้นหา';
+$_['text_finished'] 				= 'สำเร็จแล้ว';
+$_['text_marketplace'] 				= 'ตลาด';
 $_['text_de'] 						= 'Germany';
 $_['text_fr'] 						= 'France';
 $_['text_es'] 						= 'Spain';
 $_['text_it'] 						= 'Italy';
 $_['text_uk'] 						= 'United Kingdom';
-$_['text_dont_list'] 				= 'Do not list';
-$_['text_listing_values'] 			= 'Listing values';
+$_['text_dont_list'] 				= 'ไม่แสดง';
+$_['text_listing_values'] 			= 'ค่าแสดงรายการ';
 $_['text_new'] 						= 'ใหม่';
 $_['text_used_like_new'] 			= 'Used - Like New';
 $_['text_used_very_good'] 			= 'Used - Very Good';
@@ -36,11 +36,11 @@ $_['column_name'] 					= 'ชื่อ';
 $_['column_image'] 					= 'รูปภาพ';
 $_['column_model'] 					= 'รุ่น';
 $_['column_status'] 				= 'สถานะ';
-$_['column_matches']				= 'Matches';
+$_['column_matches']				= 'ตรงกัน';
 $_['column_result'] 				= 'ผลลัพธ์';
 
 // Button
-$_['button_list'] 					= 'List';
+$_['button_list'] 					= 'รายการ';
 
 // Error
 $_['error_product_sku'] 			= 'Product must have an SKU';

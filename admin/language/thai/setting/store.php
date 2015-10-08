@@ -12,7 +12,7 @@ $_['text_items']                       = 'รายการ';
 $_['text_tax']                         = 'ภาษี';
 $_['text_account']                     = 'บัญชีผู้ใช้';
 $_['text_checkout']                    = 'Checkout';
-$_['text_stock']                       = 'Stock';
+$_['text_stock']                       = 'สต็อก';
 $_['text_shipping']                    = 'ที่อยู่จัดส่ง';
 $_['text_payment']                     = 'ที่อยู่ชำระเงิน';
 

@@ -13,8 +13,8 @@ $_['button_remove_error'] 			= 'Remove error messages';
 $_['button_save_upload'] 			= 'Save and upload';
 $_['button_browse'] 				= 'Browse';
 $_['button_saved_listings'] 		= 'View saved listings';
-$_['button_remove_links'] 			= 'Remove links';
-$_['button_create_new_listing'] 	= 'Create new listing';
+$_['button_remove_links'] 			= 'เอาลิ้งค์ออก';
+$_['button_create_new_listing'] 	= 'สร้างรายการใหม่';
 
 // Help
 $_['help_sku'] 						= 'Unique product\'s ID assigned by the merchant';
@@ -82,7 +82,7 @@ $_['entry_to'] 						= 'Date to';
 $_['entry_product'] 				= 'Listing for product';
 $_['entry_category'] 				= 'Amazon category';
 $_['entry_browse_node'] 			= 'Choose browse node';
-$_['entry_marketplace'] 			= 'Marketplace';
+$_['entry_marketplace'] 			= 'ตลาด';
 
 //Tabs
 $_['tab_main'] 						= 'Main';

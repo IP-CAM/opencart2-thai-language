@@ -13,8 +13,8 @@ $_['button_remove_error'] 			= 'Remove error messages';
 $_['button_save_upload'] 			= 'Save and upload';
 $_['button_browse'] 				= 'Browse';
 $_['button_saved_listings'] 		= 'View saved listings';
-$_['button_remove_links'] 			= 'Remove links';
-$_['button_create_new_listing'] 	= 'Create new listing';
+$_['button_remove_links'] 			= 'เอาลิ้งค์ออก';
+$_['button_create_new_listing'] 	= 'สร้างรายการใหม่';
 
 // Help
 $_['help_sku'] 						= 'Unique product ID assigned by the merchant';

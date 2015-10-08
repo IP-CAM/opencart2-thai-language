@@ -22,7 +22,7 @@ $_['text_sku_variant']              = 'Variant SKU';
 $_['text_amazon_sku']               = 'Amazon item SKU';
 
 // Button
-$_['button_load']                 	= 'Load';
+$_['button_load']                 	= 'โหลด';
 
 // Error
 $_['error_empty_sku']        		= 'Amazon SKU can not be empty!';

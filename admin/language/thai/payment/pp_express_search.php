@@ -18,7 +18,7 @@ $_['tbl_column_action']				= 'การทำงาน';
 // Text
 $_['text_pp_express']				= 'PayPal Express Checkout';
 $_['text_date_search']				= 'Search by date';
-$_['text_searching']				= 'Searching';
+$_['text_searching']				= 'กำลังค้นหา';
 $_['text_name']						= 'ชื่อ';
 $_['text_buyer_info']				= 'Buyer information';
 $_['text_view']						= 'View';

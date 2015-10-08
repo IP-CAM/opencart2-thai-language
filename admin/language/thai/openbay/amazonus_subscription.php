@@ -19,17 +19,17 @@ $_['text_price']              			= 'ราคา';
 $_['text_name']              			= 'ชื่อ';
 $_['text_description']              	= 'รายละเอียด';
 $_['text_order_frequency']          	= 'Order import frequency';
-$_['text_bulk_listing']             	= 'Bulk Listing';
+$_['text_bulk_listing']             	= 'แสดงรายการจำนวนมาก';
 $_['text_product_listings']         	= 'Listings per month';
 
 // Columns
 $_['column_name']                     	= 'ชื่อ';
 $_['column_description']              	= 'รายละเอียด';
 $_['column_order_frequency']          	= 'Order import frequency';
-$_['column_bulk_listing']             	= 'Bulk Listing';
+$_['column_bulk_listing']             	= 'แสดงรายการจำนวนมาก';
 $_['column_product_listings']         	= 'Listings per month';
 $_['column_price']                    	= 'ราคา';
 
 // Buttons
-$_['button_change_plan']              	= 'Change plan';
-$_['button_register']                 	= 'Register';
+$_['button_change_plan']              	= 'เปลี่ยนแผน';
+$_['button_register']                 	= 'ลงทะเบียน';
