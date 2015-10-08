@@ -3,18 +3,18 @@
 $_['heading_title']     = 'บัตรกำนัล';
 
 // Text
-$_['text_success']      = 'สำเร็จ: You have modified vouchers!';
-$_['text_list']         = 'Gift Voucher List';
-$_['text_add']          = 'Add Gift Voucher';
-$_['text_edit']         = 'Edit Gift Voucher';
-$_['text_sent']         = 'สำเร็จ: Gift Voucher e-mail has been sent!';
+$_['text_success']      = 'สำเร็จ: คุณได้ปรับปรุงบัตรกำนัลแล้ว!';
+$_['text_list']         = 'รายการบัตรกำนัล';
+$_['text_add']          = 'เพิ่มบัตรกำนัล';
+$_['text_edit']         = 'แก้ไขบัตรกำนัล';
+$_['text_sent']         = 'สำเร็จ: อีเมลล์บัตรกำนัลถูกส่งแล้ว!';
 
 // Column
-$_['column_name']       = 'Voucher Name';
+$_['column_name']       = 'ชื่อบัตรกำนัล';
 $_['column_code']       = 'รหัส';
 $_['column_from']       = 'จาก';
 $_['column_to']         = 'ถึง';
-$_['column_theme']      = 'Theme';
+$_['column_theme']      = 'ธีม';
 $_['column_amount']     = 'จำนวน';
 $_['column_status']     = 'สถานะ';
 $_['column_order_id']   = 'รหัสสั่งซื้อ';
@@ -24,25 +24,25 @@ $_['column_action']     = 'การทำงาน';
 
 // Entry
 $_['entry_code']        = 'รหัส';
-$_['entry_from_name']   = 'From Name';
-$_['entry_from_email']  = 'From E-Mail';
-$_['entry_to_name']     = 'To Name';
-$_['entry_to_email']    = 'To E-Mail';
-$_['entry_theme']       = 'Theme';
+$_['entry_from_name']   = 'จากชื่อ';
+$_['entry_from_email']  = 'จากอีเมลล์';
+$_['entry_to_name']     = 'ถึงชื่อ';
+$_['entry_to_email']    = 'ถึงอีเมลล์';
+$_['entry_theme']       = 'ธีม';
 $_['entry_message']     = 'ข้อความ';
 $_['entry_amount']      = 'จำนวน';
 $_['entry_status']      = 'สถานะ';
 
 // Help
-$_['help_code']         = 'The code the customer enters to activate the voucher.';
+$_['help_code']         = 'โค้ดที่ลูกค้ากรอกเพื่อเปิดใช้งานบัตรกำนัล.';
 
 // Error
-$_['error_selection']   = 'คำเตือน: No vouchers selected!';
-$_['error_permission']  = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุง vouchers!';
-$_['error_exists']      = 'คำเตือน: Voucher code is already in use!';
-$_['error_code']        = 'Code must be between 3 and 10 characters!';
-$_['error_to_name']     = 'Recipient\'s Name must be between 1 and 64 characters!';
-$_['error_from_name']   = 'Your Name must be between 1 and 64 characters!';
+$_['error_selection']   = 'คำเตือน: ไม่ได้เลือกบัตรกำนัล!';
+$_['error_permission']  = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงบัตรกำนัล!';
+$_['error_exists']      = 'คำเตือน: รหัสบัตรกำนัลถูกใช้งานอยู่!';
+$_['error_code']        = 'รหัสต้องมีอักขระตั้งแต่ 3 ถึง 10 ตัวอักษร!';
+$_['error_to_name']     = 'ชื่อผู้รับต้องมีอักขระตั้งแต่ 1 ถึง 64 ตัวอักษร!';
+$_['error_from_name']   = 'ชื่อคุณต้องมีอักขระตั้งแต่ 1 ถึง 64 ตัวอักษร!';
 $_['error_email']       = 'ที่อยู่อีเมลล์ไม่ถูกต้อง!';
-$_['error_amount']      = 'Amount must be greater than or equal to 1!';
-$_['error_order']       = 'คำเตือน: This voucher cannot be deleted as it is part of an <a href="%s">order</a>!';
+$_['error_amount']      = 'จำนวนต้องมากกว่าหรือเท่ากับ 1!';
+$_['error_order']       = 'คำเตือน: ไม่สามารถลบบัตรกำนัลนี้เนื่องจากมันเป็นส่วนหนึ่งของ<a href="%s">รายการสั่งซื้อ</a>!';

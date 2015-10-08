@@ -19,5 +19,5 @@ $_['entry_modify']      = 'Modify Permission';
 
 // Error
 $_['error_permission']  = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุง user groups!';
-$_['error_name']        = 'User Group Name must be between 3 and 64 characters!';
+$_['error_name']        = 'User Group Name ต้องมีอักขระตั้งแต่ 3 ถึง 64 ตัวอักษร!';
 $_['error_user']        = 'คำเตือน: This user group cannot be deleted as it is currently assigned to %s users!';

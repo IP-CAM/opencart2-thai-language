@@ -6,7 +6,7 @@ $_['text_ebay']                         = 'eBay';
 
 //Tabs
 $_['tab_returns']          				= 'คืนสินค้า';
-$_['tab_template']         				= 'Template';
+$_['tab_template']         				= 'เทมเพลท';
 $_['tab_gallery']          				= 'Gallery';
 $_['tab_settings']         				= 'ตั้งค่า';
 

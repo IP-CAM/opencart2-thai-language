@@ -11,7 +11,7 @@ $_['text_pending_settlement'] = 'Pending Settlement';
 $_['text_authorisation_reversed'] = 'Authorisation was successfully reversed';
 $_['text_refund_issued'] = 'Refund was successfully issued';
 $_['text_pending_settlement_manually_overriden'] = 'Pending Settlement, manually overriden';
-$_['text_pending_suspended'] = 'Suspended';
+$_['text_pending_suspended'] = 'ระงับแล้ว';
 $_['text_pending_settled'] = 'Settled';
 
 $_['entry_site_reference'] = 'Site reference';

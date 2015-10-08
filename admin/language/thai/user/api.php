@@ -22,5 +22,5 @@ $_['entry_status']         = 'สถานะ';
 
 // Error
 $_['error_permission']     = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุง APIs!';
-$_['error_username']       = 'Username must be between 3 and 20 characters!';
-$_['error_password']       = 'API password must be between 3 and 256 characters!';
+$_['error_username']       = 'Username ต้องมีอักขระตั้งแต่ 3 ถึง 20 ตัวอักษร!';
+$_['error_password']       = 'API password ต้องมีอักขระตั้งแต่ 3 ถึง 256 ตัวอักษร!';

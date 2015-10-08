@@ -86,4 +86,4 @@ $_['error_password']				= 'ต้องการ Password';
 $_['error_certificate']				= 'ต้องการ Certificate path';
 $_['error_key']						= 'ต้องการ Certificate key';
 $_['error_key_pw']					= 'ต้องการ Certificate key password';
-$_['error_ca']						= 'Certificate Authority (CA) is required';
+$_['error_ca']						= 'ต้องการ Certificate Authority (CA) is';

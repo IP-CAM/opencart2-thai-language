@@ -68,15 +68,15 @@ $_['entry_sort_order']                         = 'เรียงลำดับ
 
 // Help
 $_['help_length_class']                        = 'Set to inches or centimeters.';
-$_['help_display_time']                        = 'Do you want to display the shipping time? (e.g. Ships within 3 to 5 days)';
-$_['help_display_weight']                      = 'Do you want to display the shipping weight? (e.g. Delivery Weight : 2.7674 kg)';
+$_['help_display_time']                        = 'Do you want to display the shipping time? (ตย. Ships within 3 to 5 days)';
+$_['help_display_weight']                      = 'Do you want to display the shipping weight? (ตย. Delivery Weight : 2.7674 kg)';
 $_['help_weight_class']                        = 'Set to kilograms or pounds.';
 
 // Error
 $_['error_permission']                         = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุง Fedex shipping!';
-$_['error_key']                                = 'Key required!';
-$_['error_password']                           = 'Password required!';
-$_['error_account']                            = 'Account required!';
-$_['error_meter']                              = 'Meter required!';
-$_['error_postcode']                           = 'Post Code required!';
-$_['error_dimension']                          = 'Width &amp; Height required!';
+$_['error_key']                                = 'ต้องการ Key!';
+$_['error_password']                           = 'ต้องการ Password!';
+$_['error_account']                            = 'ต้องการ Account!';
+$_['error_meter']                              = 'ต้องการ Meter!';
+$_['error_postcode']                           = 'ต้องการ Post Code!';
+$_['error_dimension']                          = 'ต้องการ Width &amp; Height!';

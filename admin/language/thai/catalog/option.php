@@ -17,8 +17,8 @@ $_['text_text']           = 'ข้อความ';
 $_['text_textarea']       = 'Textarea';
 $_['text_file']           = 'File';
 $_['text_date']           = 'วันที่';
-$_['text_datetime']       = 'Date &amp; Time';
-$_['text_time']           = 'Time';
+$_['text_datetime']       = 'วัน &amp; เวลา';
+$_['text_time']           = 'เวลา';
 
 // Column
 $_['column_name']         = 'ชื่อตัวเลือก';

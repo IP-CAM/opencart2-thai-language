@@ -3,10 +3,10 @@
 $_['heading_title']    = 'ไอพีที่ถูกแบน';
 
 // Text
-$_['text_success']     = 'สำเร็จ: You have modified customer banned IPs!';
-$_['text_list']        = 'Banned IP List';
-$_['text_add']         = 'Add Banned IP';
-$_['text_edit']        = 'Edit Banned IP';
+$_['text_success']     = 'สำเร็จ: คุณได้ปรับปรุงไอพีที่ถูกแบนแล้ว!';
+$_['text_list']        = 'รายการไอพีที่ถูกแบน';
+$_['text_add']         = 'เพิ่มไอพีที่ถูกแบน';
+$_['text_edit']        = 'แก้ไขไอพีที่ถูกแบน';
 
 // Column
 $_['column_ip']        = 'ไอพี';
@@ -17,5 +17,5 @@ $_['column_action']    = 'การทำงาน';
 $_['entry_ip']         = 'ไอพี';
 
 // Error
-$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุง customer banned IPs!';
-$_['error_ip']         = 'IP must be between 1 and 40 characters!';
+$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงไอพีลุกค้าที่ถูกแบน!';
+$_['error_ip']         = 'IP ต้องมีอักขระตั้งแต่ 1 ถึง 40 ตัวอักษร!';

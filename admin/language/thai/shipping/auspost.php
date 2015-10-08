@@ -19,7 +19,7 @@ $_['entry_status']       = 'สถานะ';
 $_['entry_sort_order']   = 'เรียงลำดับ';
 
 // Help
-$_['help_display_time']  = 'Do you want to display the shipping time? (e.g. Ships within 3 to 5 days)';
+$_['help_display_time']  = 'Do you want to display the shipping time? (ตย. Ships within 3 to 5 days)';
 $_['help_weight_class']  = 'Set to grams.';
 
 // Error

@@ -3,28 +3,28 @@
 $_['heading_title']     = 'กลุ่มลูกค้า';
 
 // Text
-$_['text_success']      = 'สำเร็จ: You have modified customer groups!';
+$_['text_success']      = 'สำเร็จ: คุณได้ปรับปรุงกลุ่มลูกค้าแล้ว!';
 $_['text_list']         = 'Customer Group List';
-$_['text_add']          = 'Add กลุ่มลูกค้า';
-$_['text_edit']         = 'Edit กลุ่มลูกค้า';
+$_['text_add']          = 'เพิ่มกลุ่มลูกค้า';
+$_['text_edit']         = 'แก้ไขกลุ่มลูกค้า';
 
 // Column
-$_['column_name']       = 'Customer Group Name';
+$_['column_name']       = 'ชื่อกลุ่มลูกค้า';
 $_['column_sort_order'] = 'เรียงลำดับ';
 $_['column_action']     = 'การทำงาน';
 
 // Entry
-$_['entry_name']        = 'Customer Group Name';
+$_['entry_name']        = 'ชื่อกลุ่มลูกค้า';
 $_['entry_description'] = 'รายละเอียด';
-$_['entry_approval']    = 'Approve New Customers';
+$_['entry_approval']    = 'อนุมัติลูกค้าใหม่';
 $_['entry_sort_order']  = 'เรียงลำดับ';
 
 // Help
-$_['help_approval']     = 'Customers must be approved by an administrator before they can login.';
+$_['help_approval']     = 'ลูกค้าต้องถูกอนุมัติโดยผู้ดูแลก่อนที่พวกเขาจะเข้าสู่ระบบได้.';
 
 // Error
-$_['error_permission']   = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุง customer groups!';
-$_['error_name']         = 'Customer Group Name must be between 3 and 32 characters!';
-$_['error_default']      = 'คำเตือน: This customer group cannot be deleted as it is currently assigned as the default store customer group!';
-$_['error_store']        = 'คำเตือน: This customer group cannot be deleted as it is currently assigned to %s stores!';
-$_['error_customer']     = 'คำเตือน: This customer group cannot be deleted as it is currently assigned to %s customers!';
+$_['error_permission']   = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงกลุ่มลูกค้า!';
+$_['error_name']         = 'ชื่อกลุ่มลูกค้าต้องมีอักขระตั้งแต่ 3 ถึง 32 ตัวอักษร!';
+$_['error_default']      = 'คำเตือน: ไม่สามารถลบกลุ่มลูกค้านี้ได้เนื่องจากมันถูกใช้งานเป็นกลุ่มเริ่มต้นของร้านค้า!';
+$_['error_store']        = 'คำเตือน: ไม่สามารถลบกลุ่มลูกค้านี้ได้เนื่องจากมันถูกใช้งานในร้านค้า %s รายการ!';
+$_['error_customer']     = 'คำเตือน: ไม่สามารถลบกลุ่มลูกค้านี้ได้เนื่องจากมันถูกใช้งานในลูกค้า %s รายการ!';

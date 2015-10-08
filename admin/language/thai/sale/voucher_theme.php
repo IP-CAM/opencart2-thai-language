@@ -3,22 +3,22 @@
 $_['heading_title']     = 'ธีมบัตรกำนัล';
 
 // Text
-$_['text_success']      = 'สำเร็จ: You have modified voucher themes!';
-$_['text_list']         = 'Voucher Theme List';
-$_['text_add']          = 'Add Voucher Theme';
-$_['text_edit']         = 'Edit Voucher Theme';
+$_['text_success']      = 'สำเร็จ: คุณได้ปรับปรุงธีมบัตรกำนัลแล้ว!';
+$_['text_list']         = 'รายการธีมบัตรกำนัล';
+$_['text_add']          = 'เพิ่มธีมบัตรกำนัล';
+$_['text_edit']         = 'แก้ไขธีมบัตรกำนัล';
 
 // Column
-$_['column_name']       = 'Voucher Theme Name';
+$_['column_name']       = 'ชื่อธีมบัตรกำนัล';
 $_['column_action']     = 'การทำงาน';
 
 // Entry
-$_['entry_name']        = 'Voucher Theme Name';
-$_['entry_description'] = 'Voucher Theme Description';
+$_['entry_name']        = 'ชื่อธีมบัตรกำนัล';
+$_['entry_description'] = 'รายละเอียดธีมบัตรกำนัล';
 $_['entry_image']       = 'รูปภาพ';
 
 // Error
-$_['error_permission']  = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุง voucher themes!';
-$_['error_name']        = 'Voucher Theme Name must be between 3 and 32 characters!';
-$_['error_image']       = 'Image required!';
-$_['error_voucher']     = 'คำเตือน: This voucher theme cannot be deleted as it is currently assigned to %s vouchers!';
+$_['error_permission']  = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงธีมบัตรกำนัล!';
+$_['error_name']        = 'ชื่อธีมบัตรกำนัลต้องมีอักขระตั้งแต่ 3 ถึง 32 ตัวอักษร!';
+$_['error_image']       = 'ต้องการภาพ!';
+$_['error_voucher']     = 'คำเตือน: ไม่สามารถลบธีมบัตรกำนัลนี้ได้เนื่องจากมันถูกนำไปใช้ในบัตรกำนัล %s รายการ!';

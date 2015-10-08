@@ -45,5 +45,5 @@ $_['help_keywords']				= 'Keywords only apply with active listings';
 
 // Error
 $_['error_etsy']				= 'Error! Etsy API response: ';
-$_['error_product_id']			= 'Product ID required';
-$_['error_etsy_id']				= 'Etsy item ID required';
+$_['error_product_id']			= 'ต้องการ Product ID';
+$_['error_etsy_id']				= 'ต้องการ Etsy item ID';

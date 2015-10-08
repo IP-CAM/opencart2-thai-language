@@ -26,9 +26,9 @@ $_['entry_etsy_id']				= 'Etsy item ID';
 // Error
 $_['error_product']				= 'Product does not exist in your store';
 $_['error_stock']				= 'You cannot link an item that has no stock';
-$_['error_product_id']			= 'Product ID required';
-$_['error_etsy_id']				= 'Etsy item ID required';
-$_['error_link_id']				= 'Link ID required';
+$_['error_product_id']			= 'ต้องการ Product ID';
+$_['error_etsy_id']				= 'ต้องการ Etsy item ID';
+$_['error_link_id']				= 'ต้องการ Link ID';
 $_['error_link_exists']			= 'An active link already exists for this item';
 $_['error_etsy']				= 'Unable to link item, Etsy API response: ';
-$_['error_status']				= 'Status filter required';
+$_['error_status']				= 'ต้องการ Status filter';

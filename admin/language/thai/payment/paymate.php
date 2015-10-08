@@ -24,5 +24,5 @@ $_['help_total']					= 'ยอดทั้งหมดของการสั�
 
 // Error
 $_['error_permission']				= 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุง payment Paymate!';
-$_['error_username']				= 'Paymate Username required!';
-$_['error_password']				= 'Password required!';
+$_['error_username']				= 'ต้องการ Paymate Username!';
+$_['error_password']				= 'ต้องการ Password!';

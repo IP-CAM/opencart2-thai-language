@@ -28,7 +28,7 @@ $_['help_checkout_method']			= 'โปรดใช้การเปลี่ย
 $_['column_transaction_id']			= 'รหัสการทำธุรกรรม';
 $_['column_transaction_type']		= 'Transaction Type';
 $_['column_amount']					= 'จำนวน';
-$_['column_time']					= 'Time';
+$_['column_time']					= 'เวลา';
 $_['column_actions']				= 'Actions';
 
 // Tab
