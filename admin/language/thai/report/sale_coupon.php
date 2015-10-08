@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Coupons Report';
+$_['heading_title']    = 'รายงานคูปอง';
 
 // Text
 $_['text_list']        = 'รายการคูปอง';

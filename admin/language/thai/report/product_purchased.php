@@ -1,10 +1,10 @@
 <?php
 // Heading
-$_['heading_title']     = 'Products Purchased Report';
+$_['heading_title']     = 'รายงานสินค้าที่ถูกสั่งซื้อ';
 
 // Text
-$_['text_list']         = 'Products Purchased List';
-$_['text_all_status']   = 'All Statuses';
+$_['text_list']         = 'รายการสินค้าที่ถูกสั่งซื้อ';
+$_['text_all_status']   = 'สถานะทั้งหมด';
 
 // Column
 $_['column_date_start'] = 'วันที่เริ่ม';

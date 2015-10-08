@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']     = 'กลุ่มลูกค้าs';
+$_['heading_title']     = 'กลุ่มลูกค้า';
 
 // Text
 $_['text_success']      = 'สำเร็จ: You have modified customer groups!';

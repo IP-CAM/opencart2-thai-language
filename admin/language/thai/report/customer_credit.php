@@ -1,10 +1,10 @@
 <?php
 // Heading
-$_['heading_title']         = 'Customer Credit Report';
+$_['heading_title']         = 'รายงานเครดิตลูกค้า';
 
 // Column
-$_['text_list']             = 'Customer Credit List';
-$_['column_customer']       = 'Customer Name';
+$_['text_list']             = 'รายการเครดิตลูกค้า';
+$_['column_customer']       = 'ชื่อลูกค้า';
 $_['column_email']          = 'อีเมลล์';
 $_['column_customer_group'] = 'กลุ่มลูกค้า';
 $_['column_status']         = 'สถานะ';

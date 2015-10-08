@@ -1,16 +1,16 @@
 <?php
 // Heading
-$_['heading_title']    = 'Marketing Report';
+$_['heading_title']    = 'รายงานการตลาด';
 
 // Text
-$_['text_list']         = 'Marketing List';
-$_['text_all_status']   = 'All Statuses';
+$_['text_list']         = 'รายการการตลาด';
+$_['text_all_status']   = 'สถานะทั้งหมด';
 
 // Column
 $_['column_campaign']  = 'ชื่อแคมเปญ';
 $_['column_code']      = 'รหัส';
-$_['column_clicks']    = 'Clicks';
-$_['column_orders']    = 'No. Orders';
+$_['column_clicks']    = 'คลิก';
+$_['column_orders']    = 'หมายเลขสั่งซื้อ';
 $_['column_total']     = 'ทั้งหมด';
 
 // Entry

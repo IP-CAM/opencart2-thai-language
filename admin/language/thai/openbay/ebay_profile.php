@@ -38,11 +38,11 @@ $_['entry_shipping_handling_int']    	= 'Handling fee (international)';
 //Returns profile
 $_['text_returns_accept']       		= 'Returns accepted';
 $_['text_returns_inst']         		= 'Return Policy';
-$_['text_returns_days']         		= 'Return Days';
-$_['text_returns_days10']       		= '10 Days';
-$_['text_returns_days14']       		= '14 Days';
-$_['text_returns_days30']       		= '30 Days';
-$_['text_returns_days60']       		= '60 Days';
+$_['text_returns_days']         		= 'วันคืนสินค้า';
+$_['text_returns_days10']       		= '10 วัน';
+$_['text_returns_days14']       		= '14 วัน';
+$_['text_returns_days30']       		= '30 วัน';
+$_['text_returns_days60']       		= '60 วัน';
 $_['text_returns_type']         		= 'Return Type';
 $_['text_returns_type_money']   		= 'Money back';
 $_['text_returns_type_exch']    		= 'Money back or exchange';

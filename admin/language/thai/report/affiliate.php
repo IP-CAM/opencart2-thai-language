@@ -1,16 +1,16 @@
 <?php
 // Heading
-$_['heading_title']     = 'Affiliate Commission Report';
+$_['heading_title']     = 'รายงานคอมมิชชั่นพันธมิตร';
 
 // Text
-$_['text_list']         = 'Affiliate Commission List';
+$_['text_list']         = 'รายการคอมมิชชั่นพันธมิตร';
 
 // Column
 $_['column_affiliate']  = 'ชื่อพันธมิตร';
 $_['column_email']      = 'อีเมลล์';
 $_['column_status']     = 'สถานะ';
 $_['column_commission'] = 'คอมมิชชั่น';
-$_['column_orders']     = 'No. Orders';
+$_['column_orders']     = 'หมายเลขสั่งซื้อ';
 $_['column_total']      = 'ทั้งหมด';
 $_['column_action']     = 'การทำงาน';
 
