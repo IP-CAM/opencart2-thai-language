@@ -5,7 +5,7 @@ $_['text_openbay']					= 'OpenBay Pro';
 $_['text_ebay']						= 'eBay';
 
 // Buttons
-$_['button_pull_orders']        	= 'Start';
+$_['button_pull_orders']        	= 'เริ่ม';
 
 // Entry
 $_['entry_pull_orders']             = 'Pull new orders';

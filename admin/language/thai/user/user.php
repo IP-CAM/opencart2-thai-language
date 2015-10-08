@@ -26,7 +26,7 @@ $_['entry_image']      	= 'รูปภาพ';
 $_['entry_status']     	= 'สถานะ';
 
 // Error
-$_['error_permission'] 	= 'คำเตือน: You do not have permission to modify users!';
+$_['error_permission'] 	= 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุง users!';
 $_['error_account']    	= 'คำเตือน: You can not delete your own account!';
 $_['error_exists']     	= 'คำเตือน: Username is already in use!';
 $_['error_username']   	= 'Username must be between 3 and 20 characters!';

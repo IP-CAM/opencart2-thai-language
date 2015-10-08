@@ -18,4 +18,4 @@ $_['entry_sort_order'] = 'เรียงลำดับ';
 $_['help_rate']        = 'ตัวอย่าง: 5:10.00,7:12.00 Weight:Cost,Weight:Cost, etc..';
 
 // Error
-$_['error_permission'] = 'คำเตือน: You do not have permission to modify weight based shipping!';
+$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุง weight based shipping!';

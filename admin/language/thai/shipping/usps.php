@@ -55,7 +55,7 @@ $_['entry_user_id']         = 'User ID';
 $_['entry_postcode']        = 'Zip Code';
 $_['entry_domestic']        = 'Domestic Services';
 $_['entry_international']   = 'International Services';
-$_['entry_size']            = 'Size';
+$_['entry_size']            = 'ขนาด';
 $_['entry_container']       = 'Container';
 $_['entry_machinable']      = 'Machinable';
 $_['entry_dimension']       = 'ขนาด (ยาว x กว้าง x สูง)';
@@ -69,7 +69,7 @@ $_['entry_tax']             = 'ชนิดภาษี';
 $_['entry_geo_zone']        = 'โซนภูมิภาค';
 $_['entry_status']          = 'สถานะ';
 $_['entry_sort_order']      = 'เรียงลำดับ';
-$_['entry_debug']      		= 'Debug Mode';
+$_['entry_debug']      		= 'โหมดดีบัก';
 
 // Help
 $_['help_dimension']        = 'Average package dimensions for shipping package. Product dimensions are not used for shipping at this time.';
@@ -79,10 +79,10 @@ $_['help_weight_class']     = 'Must be set to Pound.';
 $_['help_debug']      		= 'Saves send/recv data to the system log';
 
 // Error
-$_['error_permission']      = 'คำเตือน: You do not have permission to modify United States Postal Service!';
-$_['error_user_id']         = 'User ID Required!';
-$_['error_postcode']        = 'Zip Code Required!';
-$_['error_width']        	= 'Width Required!';
-$_['error_length']        	= 'Length Required!';
-$_['error_height']        	= 'Height Required!';
-$_['error_girth']        	= 'Girth Required!';
+$_['error_permission']      = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุง United States Postal Service!';
+$_['error_user_id']         = 'ต้องการ User ID!';
+$_['error_postcode']        = 'ต้องการ Zip Code!';
+$_['error_width']        	= 'ต้องการ Width!';
+$_['error_length']        	= 'ต้องการ Length!';
+$_['error_height']        	= 'ต้องการ Height!';
+$_['error_girth']        	= 'ต้องการ Girth!';

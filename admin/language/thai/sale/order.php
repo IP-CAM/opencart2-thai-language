@@ -26,7 +26,7 @@ $_['text_order_status']        = 'สถานะการสั่งซื้�
 $_['text_comment']             = 'ความคิดเห็น:';
 $_['text_affiliate']           = 'Affiliate:';
 $_['text_commission']          = 'คอมมิชชั่น:';
-$_['text_ip']                  = 'IP Address:';
+$_['text_ip']                  = 'ที่อยู่ไอพี:';
 $_['text_forwarded_ip']        = 'Forwarded IP:';
 $_['text_user_agent']          = 'User Agent:';
 $_['text_accept_language']     = 'Accept Language:';
@@ -132,6 +132,6 @@ $_['entry_date_modified']      = 'วันที่ปรับปรุง';
 
 // Error
 $_['error_warning']            = 'คำเตือน: กรุณาตรวจสอบฟอร์มอย่างระมัดระวังสำหรับข้อผิดพลาด!';
-$_['error_permission']         = 'คำเตือน: You do not have permission to modify orders!';
+$_['error_permission']         = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุง orders!';
 $_['error_curl']               = 'คำเตือน: CURL error %s(%s)!';
 $_['error_action']             = 'คำเตือน: Could not complete this action!';

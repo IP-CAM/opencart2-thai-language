@@ -21,6 +21,6 @@ $_['entry_password']       = 'รหัสผ่าน';
 $_['entry_status']         = 'สถานะ';
 
 // Error
-$_['error_permission']     = 'คำเตือน: You do not have permission to modify APIs!';
+$_['error_permission']     = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุง APIs!';
 $_['error_username']       = 'Username must be between 3 and 20 characters!';
 $_['error_password']       = 'API password must be between 3 and 256 characters!';

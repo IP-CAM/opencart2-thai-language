@@ -11,7 +11,7 @@ $_['text_review']                      = 'รีวิว';
 $_['text_voucher']                     = 'Vouchers';
 $_['text_tax']                         = 'ภาษี';
 $_['text_account']                     = 'บัญชีผู้ใช้';
-$_['text_checkout']                    = 'Checkout';
+$_['text_checkout']                    = 'ไปชำระเงิน';
 $_['text_stock']                       = 'สต็อก';
 $_['text_affiliate']                   = 'พันธมิตร';
 $_['text_return']                      = 'คืนสินค้า';
@@ -198,7 +198,7 @@ $_['help_google_captcha']              = 'Go to <a href="https://www.google.com/
 
 // Error
 $_['error_warning']                    = 'คำเตือน: กรุณาตรวจสอบฟอร์มอย่างระมัดระวังสำหรับข้อผิดพลาด!';
-$_['error_permission']                 = 'คำเตือน: You do not have permission to modify settings!';
+$_['error_permission']                 = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุง settings!';
 $_['error_name']                       = 'Store Name must be between 3 and 32 characters!';
 $_['error_owner']                      = 'Store Owner must be between 3 and 64 characters!';
 $_['error_address']                    = 'Store Address must be between 10 and 256 characters!';

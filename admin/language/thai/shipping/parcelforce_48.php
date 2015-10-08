@@ -26,4 +26,4 @@ $_['help_display_insurance'] = 'Do you want to display the shipping insurance? (
 $_['help_display_time']      = 'Do you want to display the shipping time? (e.g. Ships within 3 to 5 days)';
 
 // Error
-$_['error_permission']        = 'คำเตือน: You do not have permission to modify Parcelforce 48 shipping!';
+$_['error_permission']        = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุง Parcelforce 48 shipping!';

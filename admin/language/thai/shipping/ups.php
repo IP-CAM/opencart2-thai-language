@@ -65,7 +65,7 @@ $_['entry_city']                   = 'Origin City';
 $_['entry_state']                  = 'Origin State/Province';
 $_['entry_country']                = 'Origin Country';
 $_['entry_postcode']               = 'Origin Zip/Postal Code';
-$_['entry_test']                   = 'Test Mode';
+$_['entry_test']                   = 'โหมดทดสอบ';
 $_['entry_quote_type']             = 'Quote Type';
 $_['entry_service']                = 'Services';
 $_['entry_insurance']              = 'Enable Insurance';
@@ -80,7 +80,7 @@ $_['entry_tax_class']              = 'ชนิดภาษี';
 $_['entry_geo_zone']               = 'โซนภูมิภาค';
 $_['entry_status']                 = 'สถานะ';
 $_['entry_sort_order']             = 'เรียงลำดับ';
-$_['entry_debug']      			   = 'Debug Mode';
+$_['entry_debug']      			   = 'โหมดดีบัก';
 
 // Help
 $_['help_key']                     = 'Enter the XML rates access key assigned to you by UPS.';
@@ -105,11 +105,11 @@ $_['help_dimension']			   = 'This is assumed to be your average packing box size
 $_['help_debug']      			   = 'Saves send/recv data to the system log';
 
 // Error
-$_['error_permission']             = 'คำเตือน: You do not have permission to modify UPS (US) shipping!';
-$_['error_key']                    = 'Access Key Required!';
-$_['error_username']               = 'Username Required!';
-$_['error_password']               = 'Password Required!';
+$_['error_permission']             = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุง UPS (US) shipping!';
+$_['error_key']                    = 'ต้องการ Access Key!';
+$_['error_username']               = 'ต้องการ Username!';
+$_['error_password']               = 'ต้องการ Password!';
 $_['error_city']                   = 'Origin City!';
-$_['error_state']                  = 'Origin State/Province Required!';
-$_['error_country']                = 'Origin Country Required!';
-$_['error_dimension']              = 'Average Dimensions Required!';
+$_['error_state']                  = 'ต้องการ Origin State/Province!';
+$_['error_country']                = 'ต้องการ Origin Country!';
+$_['error_dimension']              = 'ต้องการ Average Dimensions!';

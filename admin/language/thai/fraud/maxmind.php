@@ -119,5 +119,5 @@ $_['help_maxmind_id']                         = 'Unique identifier, used to refe
 $_['help_error']                              = 'Returns an error string with a warning message or a reason why the request failed.';
 
 // Error
-$_['error_permission']                        = 'คำเตือน: You do not have permission to modify MaxMind anti-fraud!';
-$_['error_key']		                          = 'License Key Required!';
+$_['error_permission']                        = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุง MaxMind anti-fraud!';
+$_['error_key']		                          = 'ต้องการ License Key!';

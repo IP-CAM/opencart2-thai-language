@@ -8,7 +8,7 @@ $_['text_success']                            = 'สำเร็จ: คุณ�
 $_['text_edit']                               = 'ตั้งค่า';
 $_['text_signup']                             = 'FraudLabsPro คือระบบตรวจการโกง. ถ้าคุณไม่มีกุญแจ API คุณสามารถ<a href="http://www.fraudlabspro.com/plan?ref=1730" target="_blank"><u>สมัครได้ที่นี่</u></a>.';
 $_['text_id']                                 = 'FraudLabs Pro ID';
-$_['text_ip_address']                         = 'IP Address';
+$_['text_ip_address']                         = 'ที่อยู่ไอพี';
 $_['text_ip_net_speed']                       = 'IP Net Speed';
 $_['text_ip_isp_name']                        = 'IP ISP Name';
 $_['text_ip_usage_type']                      = 'IP Usage Type';
@@ -52,7 +52,7 @@ $_['help_approve_status']                     = 'Orders that marked as approve b
 $_['help_reject_status']                      = 'Orders that marked as reject by FraudLabs Pro will be assigned this order status.';
 $_['help_simulate_ip']                        = 'Simulate the visitor IP address for testing. Leave blank for production run.';
 $_['help_fraudlabspro_id']                    = 'Unique identifier to identify a transaction screened by FraudLabs Pro system.';
-$_['help_ip_address']                         = 'IP Address.';
+$_['help_ip_address']                         = 'ที่อยู่ไอพี.';
 $_['help_ip_net_speed']                       = 'Connection speed.';
 $_['help_ip_isp_name']                        = 'Estimated ISP of the IP address.';
 $_['help_ip_usage_type']                      = 'Estimated usage type of the IP address. E.g, ISP, Commercial, Residential.';
@@ -76,5 +76,5 @@ $_['help_transaction_id']                     = 'Click the link to view the deta
 $_['help_credits']                            = 'Balance of queries in your account after this transaction.';
 
 // Error
-$_['error_permission']                        = 'คำเตือน: You do not have permission to modify FraudLabs Pro settings!';
-$_['error_key']		                          = 'License Key Required!';
+$_['error_permission']                        = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุง FraudLabs Pro settings!';
+$_['error_key']		                          = 'ต้องการ License Key!';

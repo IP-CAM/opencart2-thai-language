@@ -3,12 +3,12 @@
 $_['heading_title']		 = 'เช็ค / ธนาณัติ';
 
 // Text
-$_['text_payment']		 = 'Payment';
-$_['text_success']		 = 'สำเร็จ: You have modified cheque / money order account details!';
-$_['text_edit']          = 'Edit Cheque / Money Order';
+$_['text_payment']		 = 'การชำระเงิน';
+$_['text_success']		 = 'สำเร็จ: คุณได้ปรับปรุงรายละเอียดเช็ค / ธนาณัติ!';
+$_['text_edit']          = 'แก้ไขเช็ค / ธนาณัติ';
 
 // Entry
-$_['entry_payable']		 = 'Payable To';
+$_['entry_payable']		 = 'ชำระไปยัง';
 $_['entry_total']		 = 'ทั้งหมด';
 $_['entry_order_status'] = 'สถานะการสั่งซื้อ';
 $_['entry_geo_zone']	 = 'โซนภูมิภาค';
@@ -16,8 +16,8 @@ $_['entry_status']		 = 'สถานะ';
 $_['entry_sort_order']	 = 'เรียงลำดับ';
 
 // Help
-$_['help_total']		 = 'The checkout total the order must reach before this payment method becomes active.';
+$_['help_total']		 = 'ยอดทั้งหมดของการสั่งซื้อต้องถึงจำนวนก่อนที่การชำระเงินวิธีนี้จะเปิดใช้งาน.';
 
 // Error
-$_['error_permission']   = 'คำเตือน: You do not have permission to modify payment cheque / money order!';
-$_['error_payable']	     = 'Payable To Required!';
+$_['error_permission']   = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงการชำระเงินด้วยเช็ค / ธนาณัติ!';
+$_['error_payable']	     = 'ต้องการผู้รับชำระ!';

@@ -15,7 +15,7 @@ $_['text_input']            = 'Input';
 $_['text_text']             = 'ข้อความ';
 $_['text_textarea']         = 'Textarea';
 $_['text_file']             = 'File';
-$_['text_date']             = 'Date';
+$_['text_date']             = 'วันที่';
 $_['text_datetime']         = 'Date &amp; Time';
 $_['text_time']             = 'Time';
 $_['text_account']          = 'บัญชีผู้ใช้';
@@ -43,7 +43,7 @@ $_['entry_sort_order']      = 'เรียงลำดับ';
 $_['help_sort_order']       = 'Use minus to count backwards from the last field in the set.';
 
 // Error
-$_['error_permission']      = 'คำเตือน: You do not have permission to modify custom fields!';
+$_['error_permission']      = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุง custom fields!';
 $_['error_name']            = 'Custom Field Name must be between 1 and 128 characters!';
 $_['error_type']            = 'คำเตือน: Custom Field Values required!';
 $_['error_custom_value']    = 'Custom Value Name must be between 1 and 128 characters!';

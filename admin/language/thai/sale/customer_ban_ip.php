@@ -17,5 +17,5 @@ $_['column_action']    = 'การทำงาน';
 $_['entry_ip']         = 'IP';
 
 // Error
-$_['error_permission'] = 'คำเตือน: You do not have permission to modify customer banned IPs!';
+$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุง customer banned IPs!';
 $_['error_ip']         = 'IP must be between 1 and 40 characters!';

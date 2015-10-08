@@ -48,7 +48,7 @@ $_['entry_password']                           = 'รหัสผ่าน';
 $_['entry_account']                            = 'หมายเลขบัญชี';
 $_['entry_meter']                              = 'Meter Number';
 $_['entry_postcode']                           = 'Post Code';
-$_['entry_test']                               = 'Test Mode';
+$_['entry_test']                               = 'โหมดทดสอบ';
 $_['entry_service']                            = 'Services';
 $_['entry_dimension']                          = 'Box Dimensions (L x W x H)';
 $_['entry_length_class']                       = 'หน่วยความยาว';
@@ -73,7 +73,7 @@ $_['help_display_weight']                      = 'Do you want to display the shi
 $_['help_weight_class']                        = 'Set to kilograms or pounds.';
 
 // Error
-$_['error_permission']                         = 'คำเตือน: You do not have permission to modify Fedex shipping!';
+$_['error_permission']                         = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุง Fedex shipping!';
 $_['error_key']                                = 'Key required!';
 $_['error_password']                           = 'Password required!';
 $_['error_account']                            = 'Account required!';

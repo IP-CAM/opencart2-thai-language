@@ -3,9 +3,9 @@
 $_['heading_title']		 = 'โอนเงิน';
 
 // Text
-$_['text_payment']		 = 'Payment';
-$_['text_success']		 = 'สำเร็จ: You have modified bank transfer details!';
-$_['text_edit']          = 'Edit Bank Transfer';
+$_['text_payment']		 = 'การชำระเงิน';
+$_['text_success']		 = 'สำเร็จ: คุณได้ปรับปรุงรายละเอียดการโอนเงินแล้ว!';
+$_['text_edit']          = 'แก้ไขการโอนเงิน';
 
 // Entry
 $_['entry_bank']		 = 'คำแนะนำในการโอนเงิน';
@@ -16,8 +16,8 @@ $_['entry_status']		 = 'สถานะ';
 $_['entry_sort_order']	 = 'เรียงลำดับ';
 
 // Help
-$_['help_total']		 = 'The checkout total the order must reach before this payment method becomes active.';
+$_['help_total']		 = 'ยอดทั้งหมดของการสั่งซื้อต้องถึงจำนวนก่อนที่การชำระเงินวิธีนี้จะเปิดใช้งาน.';
 
 // Error
-$_['error_permission']   = 'คำเตือน: You do not have permission to modify payment bank transfer!';
-$_['error_bank']         = 'Bank Transfer Instructions Required!';
+$_['error_permission']   = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงการโอนเงิน!';
+$_['error_bank']         = 'ต้องการคำแนะนำการโอนเงิน!';

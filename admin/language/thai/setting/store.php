@@ -11,7 +11,7 @@ $_['text_edit']                        = 'Edit Store';
 $_['text_items']                       = 'รายการ';
 $_['text_tax']                         = 'ภาษี';
 $_['text_account']                     = 'บัญชีผู้ใช้';
-$_['text_checkout']                    = 'Checkout';
+$_['text_checkout']                    = 'ไปชำระเงิน';
 $_['text_stock']                       = 'สต็อก';
 $_['text_shipping']                    = 'ที่อยู่จัดส่ง';
 $_['text_payment']                     = 'ที่อยู่ชำระเงิน';
@@ -101,7 +101,7 @@ $_['help_secure']                      = 'To use SSL check with your host if a S
 
 // Error
 $_['error_warning']                    = 'คำเตือน: กรุณาตรวจสอบฟอร์มอย่างระมัดระวังสำหรับข้อผิดพลาด!';
-$_['error_permission']                 = 'คำเตือน: You do not have permission to modify stores!';
+$_['error_permission']                 = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุง stores!';
 $_['error_name']                       = 'Store Name must be between 3 and 32 characters!';
 $_['error_owner']                      = 'Store Owner must be between 3 and 64 characters!';
 $_['error_address']                    = 'Store Address must be between 10 and 256 characters!';

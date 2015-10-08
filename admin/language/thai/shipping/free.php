@@ -17,4 +17,4 @@ $_['entry_sort_order'] = 'เรียงลำดับ';
 $_['help_total']       = 'Sub-Total amount needed before the free shipping module becomes available.';
 
 // Error
-$_['error_permission'] = 'คำเตือน: You do not have permission to modify free shipping!';
+$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุง free shipping!';

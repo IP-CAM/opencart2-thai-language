@@ -1,21 +1,21 @@
 <?php
 // Heading
-$_['heading_title']					= 'Refund Transaction';
+$_['heading_title']					= 'ธุรกรรมคืนเงิน';
 
 // Text
 $_['text_pp_express']				= 'PayPal Express Checkout';
-$_['text_current_refunds']			= 'Refunds have already been done for this transaction. The max refund is';
-$_['text_refund']					= 'Refund';
+$_['text_current_refunds']			= 'คืนเงินเรียบร้อยแล้วสำหรับธุรกรรมนี้. จำนวนคืนเงินสูงสุดคือ';
+$_['text_refund']					= 'คืนเงิน';
 
 // Entry
 $_['entry_transaction_id']			= 'รหัสการทำธุรกรรม';
-$_['entry_full_refund']				= 'Full refund';
+$_['entry_full_refund']				= 'คืนเต็มจำนวน';
 $_['entry_amount']					= 'จำนวน';
 $_['entry_message']					= 'ข้อความ';
 
 // Button
-$_['button_refund']					= 'Issue refund';
+$_['button_refund']					= 'ขอการคืนเงิน';
 
 // Error
-$_['error_partial_amt']				= 'You must enter a partial refund amount';
-$_['error_data']					= 'Data missing from request';
+$_['error_partial_amt']				= 'คุณต้องกรอกจำนวนคืนเงินบางส่วน';
+$_['error_data']					= 'ข้อมูลหายไปจากการร้องขอ';

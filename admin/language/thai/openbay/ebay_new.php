@@ -97,7 +97,7 @@ $_['column_stock_col_comb']         = 'Combination';
 $_['column_price']          		= 'ราคา';
 $_['column_stock_col_enabled']      = 'Enabled';
 $_['column_thumb']      			= 'รูปภาพ';
-$_['column_img_size']      			= 'Size';
+$_['column_img_size']      			= 'ขนาด';
 $_['column_template_image']         = 'Template image';
 $_['column_ebay_image']         	= 'eBay image';
 $_['column_main_ebay_image']        = 'Main eBay image';
@@ -152,7 +152,7 @@ $_['tab_feature']              		= 'Features';
 $_['tab_ebay_catalog']              = 'eBay catalog';
 $_['tab_description']          		= 'รายละเอียด';
 $_['tab_price']                		= 'Price &amp; details';
-$_['tab_payment']              		= 'Payment';
+$_['tab_payment']              		= 'การชำระเงิน';
 $_['tab_returns']              		= 'คืนสินค้า';
 
 // Help

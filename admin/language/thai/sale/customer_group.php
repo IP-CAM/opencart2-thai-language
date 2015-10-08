@@ -23,7 +23,7 @@ $_['entry_sort_order']  = 'เรียงลำดับ';
 $_['help_approval']     = 'Customers must be approved by an administrator before they can login.';
 
 // Error
-$_['error_permission']   = 'คำเตือน: You do not have permission to modify customer groups!';
+$_['error_permission']   = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุง customer groups!';
 $_['error_name']         = 'Customer Group Name must be between 3 and 32 characters!';
 $_['error_default']      = 'คำเตือน: This customer group cannot be deleted as it is currently assigned as the default store customer group!';
 $_['error_store']        = 'คำเตือน: This customer group cannot be deleted as it is currently assigned to %s stores!';

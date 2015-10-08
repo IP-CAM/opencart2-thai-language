@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']        				= 'Subscription';
+$_['heading_title']        				= 'การสมัครสมาชิก';
 $_['text_openbay']						= 'OpenBay Pro';
 $_['text_amazon']						= 'Amazon EU';
 
@@ -11,7 +11,7 @@ $_['text_available_plans']          	= 'Available plans';
 $_['text_listings_remaining']       	= 'Listings remaining';
 $_['text_listings_reserved']        	= 'Products being processed';
 $_['text_account_status']           	= 'Account status';
-$_['text_merchantid']               	= 'Merchant ID';
+$_['text_merchantid']               	= 'รหัสผู้ค้า';
 $_['text_change_merchantid']        	= 'Change';
 $_['text_allowed']                  	= 'Allowed';
 $_['text_not_allowed']              	= 'Not Allowed';

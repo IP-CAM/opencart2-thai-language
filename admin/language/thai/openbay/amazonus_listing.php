@@ -11,7 +11,7 @@ $_['button_amazon_price'] 			= 'Get Amazon price';
 $_['button_list'] 					= 'List on Amazon';
 $_['button_remove_error'] 			= 'Remove error messages';
 $_['button_save_upload'] 			= 'Save and upload';
-$_['button_browse'] 				= 'Browse';
+$_['button_browse'] 				= 'เปิดดู';
 $_['button_saved_listings'] 		= 'View saved listings';
 $_['button_remove_links'] 			= 'เอาลิ้งค์ออก';
 $_['button_create_new_listing'] 	= 'สร้างรายการใหม่';
@@ -84,7 +84,7 @@ $_['tab_additional'] 				= 'Additional options';
 
 //Errors
 $_['error_text_missing'] 			= 'You must enter some search details';
-$_['error_data_missing'] 			= 'Required data is missing';
+$_['error_data_missing'] 			= 'ไม่มีข้อมูลที่ต้องการ';
 $_['error_missing_asin'] 			= 'ASIN is missing';
 $_['error_marketplace_missing'] 	= 'Please select a marketplace';
 $_['error_condition_missing'] 		= 'Please select condition';

@@ -38,7 +38,7 @@ $_['help_code']         = 'The code the customer enters to activate the voucher.
 
 // Error
 $_['error_selection']   = 'คำเตือน: No vouchers selected!';
-$_['error_permission']  = 'คำเตือน: You do not have permission to modify vouchers!';
+$_['error_permission']  = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุง vouchers!';
 $_['error_exists']      = 'คำเตือน: Voucher code is already in use!';
 $_['error_code']        = 'Code must be between 3 and 10 characters!';
 $_['error_to_name']     = 'Recipient\'s Name must be between 1 and 64 characters!';

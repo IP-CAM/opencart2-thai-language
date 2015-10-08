@@ -3,9 +3,9 @@
 $_['heading_title']					= 'เงินสดเมื่อจัดส่ง';
 
 // Text
-$_['text_payment']					= 'Payment';
-$_['text_success']					= 'สำเร็จ: คุณได้ปรับปรุงโมดูล Cash On Delivery payment เรียบร้อยแล้ว!';
-$_['text_edit']                     = 'Edit Cash On Delivery';
+$_['text_payment']					= 'การชำระเงิน';
+$_['text_success']					= 'สำเร็จ: คุณได้ปรับปรุงโมดูลการชำระเงิน เงินสดเมื่อจัดส่ง เรียบร้อยแล้ว!';
+$_['text_edit']                     = 'แก้ไขเงินสดเมื่อจัดส่ง';
 
 // Entry
 $_['entry_total']					= 'ทั้งหมด';
@@ -15,7 +15,7 @@ $_['entry_status']					= 'สถานะ';
 $_['entry_sort_order']				= 'เรียงลำดับ';
 
 // Help
-$_['help_total']					= 'The checkout total the order must reach before this payment method becomes active.';
+$_['help_total']					= 'ยอดทั้งหมดของการสั่งซื้อต้องถึงจำนวนก่อนที่การชำระเงินวิธีนี้จะเปิดใช้งาน.';
 
 // Error
-$_['error_permission']				= 'คำเตือน: You do not have permission to modify payment Cash On Delivery!';
+$_['error_permission']				= 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงการชำระเงิน เงินสดเมื่อจัดส่ง!';

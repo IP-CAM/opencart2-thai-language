@@ -61,7 +61,7 @@ $_['help_points']           = 'Use minus to remove points';
 
 // Error
 $_['error_warning']         = 'คำเตือน: กรุณาตรวจสอบฟอร์มอย่างระมัดระวังสำหรับข้อผิดพลาด!';
-$_['error_permission']      = 'คำเตือน: You do not have permission to modify customers!';
+$_['error_permission']      = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุง customers!';
 $_['error_exists']          = 'คำเตือน: ที่อยู่อีเมลล์ได้ถูกลงทะเบียนแล้ว!';
 $_['error_firstname']       = 'ชื่อต้องมีอักขระตั้งแต่ 1 ถึง 32 ตัวอักษร!';
 $_['error_lastname']        = 'นามสกุลต้องมีอักขระตั้งแต่ 1 ถึง 32 ตัวอักษร!';

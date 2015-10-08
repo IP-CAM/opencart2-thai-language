@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']             = 'Subscription';
+$_['heading_title']             = 'การสมัครสมาชิก';
 $_['text_openbay']              = 'OpenBay Pro';
 $_['text_ebay']                 = 'eBay';
 
