@@ -1,23 +1,23 @@
 <?php
 // Heading
-$_['heading_title']     = 'User Groups';
+$_['heading_title']     = 'กลุ่มผู้ใช้';
 
 // Text
-$_['text_success']      = 'สำเร็จ: You have modified user groups!';
-$_['text_list']         = 'User Group';
-$_['text_add']          = 'Add User Group';
-$_['text_edit']         = 'Edit User Group';
+$_['text_success']      = 'สำเร็จ: คุณได้ปรับปรุงกลุ่มผู้ใช้แล้ว!';
+$_['text_list']         = 'กลุ่มผู้ใช้';
+$_['text_add']          = 'เพิ่มกลุ่มผู้ใช้';
+$_['text_edit']         = 'แก้ไขกลุ่มผู้ใช้';
 
 // Column
-$_['column_name']       = 'User Group Name';
+$_['column_name']       = 'ชื่อกลุ่มผู้ใช้';
 $_['column_action']     = 'การทำงาน';
 
 // Entry
-$_['entry_name']        = 'User Group Name';
-$_['entry_access']      = 'Access Permission';
-$_['entry_modify']      = 'Modify Permission';
+$_['entry_name']        = 'ชื่อกลุ่มผู้ใช้';
+$_['entry_access']      = 'อนุญาตการเข้าถึง';
+$_['entry_modify']      = 'อนุญาตการปรับปรุง';
 
 // Error
-$_['error_permission']  = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุง user groups!';
-$_['error_name']        = 'User Group Name ต้องมีอักขระตั้งแต่ 3 ถึง 64 ตัวอักษร!';
-$_['error_user']        = 'คำเตือน: This user group cannot be deleted as it is currently assigned to %s users!';
+$_['error_permission']  = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงกลุ่มผู้ใช้!';
+$_['error_name']        = 'ชื่อกลุ่มผู้ใช้ต้องมีอักขระตั้งแต่ 3 ถึง 64 ตัวอักษร!';
+$_['error_user']        = 'คำเตือน: ไม่สามารถลบกลุ่มผู้ใช้นี้ได้เนื่องจากมันถูกใช้ในผู้ใช้ %s รายการ!';

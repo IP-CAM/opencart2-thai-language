@@ -3,10 +3,10 @@
 $_['heading_title']        = 'APIs';
 
 // Text
-$_['text_success']         = 'สำเร็จ: You have modified APIs!';
-$_['text_list']            = 'API List';
-$_['text_add']             = 'Add API';
-$_['text_edit']            = 'Edit API';
+$_['text_success']         = 'สำเร็จ: คุณได้ปรับปรุง APIs แล้ว!';
+$_['text_list']            = 'รายการ API';
+$_['text_add']             = 'เพิ่ม API';
+$_['text_edit']            = 'แก้ไข API';
 
 // Column
 $_['column_username']      = 'ชื่อผู้ใช้';
@@ -22,5 +22,5 @@ $_['entry_status']         = 'สถานะ';
 
 // Error
 $_['error_permission']     = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุง APIs!';
-$_['error_username']       = 'Username ต้องมีอักขระตั้งแต่ 3 ถึง 20 ตัวอักษร!';
-$_['error_password']       = 'API password ต้องมีอักขระตั้งแต่ 3 ถึง 256 ตัวอักษร!';
+$_['error_username']       = 'ชื่อผู้ใช้ต้องมีอักขระตั้งแต่ 3 ถึง 20 ตัวอักษร!';
+$_['error_password']       = 'รหัสผ่าน API ต้องมีอักขระตั้งแต่ 3 ถึง 256 ตัวอักษร!';
