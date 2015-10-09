@@ -4,12 +4,12 @@ $_['heading_title']    = 'ทั้งหมด';
 
 // Text
 $_['text_total']       = 'รายการสั่งซื้อทั้งหมด';
-$_['text_success']     = 'สำเร็จ: You have modified total totals!';
-$_['text_edit']        = 'Edit Total Total';
+$_['text_success']     = 'สำเร็จ: คุณได้ปรับปรุงยอดทั้งหมดในหน้ารวมแล้ว!';
+$_['text_edit']        = 'แก้ไขยอดทั้งหมดในหน้ารวม';
 
 // Entry
 $_['entry_status']     = 'สถานะ';
 $_['entry_sort_order'] = 'เรียงลำดับ';
 
 // Error
-$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุง total totals!';
+$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงยอดทั้งหมดในหน้ารวม!';

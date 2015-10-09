@@ -4,13 +4,13 @@ $_['heading_title']    = 'การส่งสินค้า';
 
 // Text
 $_['text_total']       = 'รายการสั่งซื้อทั้งหมด';
-$_['text_success']     = 'สำเร็จ: You have modified shipping total!';
-$_['text_edit']        = 'Edit Shipping Total';
+$_['text_success']     = 'สำเร็จ: คุณได้ปรับปรุงการส่งสินค้าในหน้ารวมแล้ว!';
+$_['text_edit']        = 'แก้ไขการส่งสินค้าในหน้ารวม';
 
 // Entry
-$_['entry_estimator']  = 'Shipping Estimator';
+$_['entry_estimator']  = 'ประมาณการค่าจัดส่ง';
 $_['entry_status']     = 'สถานะ';
 $_['entry_sort_order'] = 'เรียงลำดับ';
 
 // Error
-$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุง shipping total!';
+$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงการส่งสินค้าในหน้ารวม!';

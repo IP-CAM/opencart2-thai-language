@@ -1,15 +1,15 @@
 <?php
 // Heading
-$_['heading_title']    = 'Gift Voucher';
+$_['heading_title']    = 'บัตรกำนัล';
 
 // Text
 $_['text_total']       = 'รายการสั่งซื้อทั้งหมด';
-$_['text_success']     = 'สำเร็จ: You have modified gift voucher total!';
-$_['text_edit']        = 'แก้ไขบัตรกำนัลทั้งหมด';
+$_['text_success']     = 'สำเร็จ: คุณได้ปรับปรุงบัตรกำนัลในหน้ารวมแล้ว!';
+$_['text_edit']        = 'แก้ไขบัตรกำนัลในหน้ารวม';
 
 // Entry
 $_['entry_status']     = 'สถานะ';
 $_['entry_sort_order'] = 'เรียงลำดับ';
 
 // Error
-$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุง gift voucher total!';
+$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงบัตรกำนัลในหน้ารวม!';

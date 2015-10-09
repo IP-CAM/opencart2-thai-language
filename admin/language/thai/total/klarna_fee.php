@@ -14,7 +14,7 @@ $_['text_germany']     = 'Germany';
 $_['text_netherlands'] = 'The Netherlands';
 
 // Entry
-$_['entry_total']      = 'Order Total';
+$_['entry_total']      = 'รวมรายการสั่งซื้อ';
 $_['entry_fee']        = 'Invoice Fee';
 $_['entry_tax_class']  = 'ชนิดภาษี';
 $_['entry_status']     = 'สถานะ';

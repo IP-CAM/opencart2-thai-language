@@ -4,18 +4,18 @@ $_['heading_title']    = 'ค่าธรรมเนียมสั่งซื
 
 // Text
 $_['text_total']       = 'รายการสั่งซื้อทั้งหมด';
-$_['text_success']     = 'สำเร็จ: You have modified low order fee total!';
-$_['text_edit']        = 'Edit Low Order Fee Total';
+$_['text_success']     = 'สำเร็จ: คุณได้ปรับปรุงค่าธรรมเนียมสั่งซื้อขั้นต่ำแล้ว!';
+$_['text_edit']        = 'แก้ไขค่าธรรมเนียมสั่งซื้อขั้นต่ำ';
 
 // Entry
-$_['entry_total']      = 'Order Total';
+$_['entry_total']      = 'รวมรายการสั่งซื้อ';
 $_['entry_fee']        = 'ค่าธรรมเนียม';
 $_['entry_tax_class']  = 'ชนิดภาษี';
 $_['entry_status']     = 'สถานะ';
 $_['entry_sort_order'] = 'เรียงลำดับ';
 
 // Help
-$_['help_total']       = 'The checkout total the order must reach before this order total is deactivated.';
+$_['help_total']       = 'ต้องถึงขั้นตอนยอดรวมชำระเงินทั้งหมดก่อนที่รายการนี้จะทำงาน.';
 
 // Error
-$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุง low order fee total!';
+$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงค่าธรรมเนียมสั่งซื้อขั้นต่ำ!';

@@ -1,21 +1,21 @@
 <?php
 // Heading
-$_['heading_title']    = 'ค่าดำเนินการ';
+$_['heading_title']    = 'ค่าธรรมเนียม';
 
 // Text
 $_['text_total']       = 'รายการสั่งซื้อทั้งหมด';
-$_['text_success']     = 'สำเร็จ: You have modified handling fee total!';
-$_['text_edit']        = 'Edit Handling Fee Total';
+$_['text_success']     = 'สำเร็จ: คุณได้ปรับปรุงค่าธรรมเนียมในหน้ารวมแล้ว!';
+$_['text_edit']        = 'แก้ไขค่าธรรมเนียมในหน้ารวม';
 
 // Entry
-$_['entry_total']      = 'Order Total';
+$_['entry_total']      = 'รวมรายการสั่งซื้อ';
 $_['entry_fee']        = 'ค่าธรรมเนียม';
 $_['entry_tax_class']  = 'ชนิดภาษี';
 $_['entry_status']     = 'สถานะ';
 $_['entry_sort_order'] = 'เรียงลำดับ';
 
 // Help
-$_['help_total']       = 'The checkout total the order must reach before this order total becomes active.';
+$_['help_total']       = 'ต้องถึงขั้นตอนยอดรวมชำระเงินทั้งหมดก่อนที่รายการนี้จะทำงาน.';
 
 // Error
-$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุง handling fee total!';
+$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงค่าธรรมเนียมในหน้ารวม!';

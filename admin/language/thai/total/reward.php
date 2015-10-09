@@ -4,12 +4,12 @@ $_['heading_title']    = 'แต้มรางวัล';
 
 // Text
 $_['text_total']       = 'รายการสั่งซื้อทั้งหมด';
-$_['text_success']     = 'สำเร็จ: You have modified reward points total!';
-$_['text_edit']        = 'Edit Reward Points Total';
+$_['text_success']     = 'สำเร็จ: คุณได้ปรับปรุงแต้มรางวัลในหน้ารวมแล้ว!';
+$_['text_edit']        = 'แก้ไขแต้มรางวัลในหน้ารวม';
 
 // Entry
 $_['entry_status']     = 'สถานะ';
 $_['entry_sort_order'] = 'เรียงลำดับ';
 
 // Error
-$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุง reward points total!';
+$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงแต้มรางวัลในหน้ารวม!';
