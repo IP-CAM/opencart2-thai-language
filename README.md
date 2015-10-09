@@ -25,7 +25,7 @@ This is OpenCart v.2 Thai translation on both admin (back-end) and catalog (fron
 คุณสามารถนำไปใช้งานได้ฟรี! ไม่ว่าจะใช้ส่วนตัวหรือใช้ในเชิงพาณิชย์. คุณไม่จำเป็นต้องส่งลิ้งค์ใดๆกลับมา แต่ถ้าจะทำเราก็แค่ขอบคุณ.
 
 ## การติดตั้ง
-เปิดเข้าไปในหน้า admin OpenCart ของคุณ เช่น http://domain.tld/admin .<br>
+เปิดเข้าไปในหน้า admin OpenCart ของคุณ เช่น `http://domain.tld/admin` .<br>
 คลิกเข้าไปที่เมนู System > Localisation > Languages<br>
 คลิกที่ปุ่ม + (Add New) แล้วเพิ่มรายละเอียดดังต่อไปนี้:<br>
 
