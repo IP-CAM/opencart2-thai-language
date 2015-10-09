@@ -23,3 +23,25 @@ This is OpenCart v.2 Thai translation on both admin (back-end) and catalog (fron
 ## License
 โครงการนี้ใช้การอนุญาตแบบ GPL v.3 ซึ่งให้สิทธิ์เสรีในการนำไปแก้ไข ทำซ้ำ เผยแพร่ภายในขอบเขตของ GPL v.3 โดยทั้งในเชิงพาณิชย์และไม่ใช่พาณิชย์.<br>
 คุณสามารถนำไปใช้งานได้ฟรี! ไม่ว่าจะใช้ส่วนตัวหรือใช้ในเชิงพาณิชย์. คุณไม่จำเป็นต้องส่งลิ้งค์ใดๆกลับมา แต่ถ้าจะทำเราก็แค่ขอบคุณ.
+
+## การติดตั้ง
+เปิดเข้าไปในหน้า admin OpenCart ของคุณ เช่น http://domain.tld/admin .<br>
+คลิกเข้าไปที่เมนู System > Localisation > Languages<br>
+คลิกที่ปุ่ม + (Add New) แล้วเพิ่มรายละเอียดดังต่อไปนี้:<br>
+
+    * Language Name: ไทย
+    * Code: th
+    * Locale: th
+    * Image: th.png
+    * Directory: thai
+    * Status: Enabled
+    * Sort Order: 1 หรือกรอกลำดับตามต้องการ
+
+จากนั้นคลิกที่ปุ่ม Save
+### การตั้งเป็นภาษาหลัก
+จากหน้า admin OpenCart คลิกเข้าไปที่เมนู System > Settings<br>
+คลิกที่ปุ่ม Edit บนบรรทัดของร้านค้าที่คุณต้องการแก้ไข<br>
+คลิกที่แท็บ Local<br>
+เลือกภาษาไทยเป็นภาษาหลักสำหรับหน้าเว็บ ให้เลือกที่ Langauge<br>
+เลือกภาษาไทยเป็นภาษาหลักสำหรับหน้า admin ให้เลือกที่ Administration Langauge<br>
+คลิกที่ปุ่ม Save
