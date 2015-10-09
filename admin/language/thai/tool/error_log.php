@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']	   = 'Error Log';
+$_['heading_title']	   = 'บันทึกข้อผิดพลาด';
 
 // Text
-$_['text_success']	   = 'สำเร็จ: You have successfully cleared your error log!';
-$_['text_list']        = 'Errors List';
+$_['text_success']	   = 'สำเร็จ: คุณได้ล้างบันทึกข้อผิดพลาดสำเร็จแล้ว!';
+$_['text_list']        = 'รายการข้อผิดพลาด';
 
 // Error
-$_['error_warning']	   = 'คำเตือน: Your error log file %s is %s!';
-$_['error_permission'] = 'คำเตือน: You do not have permission to clear error log!';
+$_['error_warning']	   = 'คำเตือน: ไฟล์บันทึกข้อผิดะลาด %s คือ %s!';
+$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ล้างบันทึกข้อผิดพลาด!';

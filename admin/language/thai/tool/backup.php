@@ -1,17 +1,17 @@
 <?php
 // Heading
-$_['heading_title']    = 'Backup &amp; Restore';
+$_['heading_title']    = 'ทำสำรอง &amp; เรียกคืน';
 
 // Text
-$_['text_backup']      = 'Download Backup';
-$_['text_success']     = 'สำเร็จ: You have successfully imported your database!';
-$_['text_list']        = 'Upload List';
+$_['text_backup']      = 'ดาวน์โหลดการทำสำรอง';
+$_['text_success']     = 'สำเร็จ: คุณได้นำเข้าฐานข้อมูลเรียบร้อยแล้ว!';
+$_['text_list']        = 'รายการอัพโหลด';
 
 // Entry
-$_['entry_restore']    = 'Restore Backup';
-$_['entry_backup']     = 'Backup';
+$_['entry_restore']    = 'เรียกคืนที่ทำสำรองไว้';
+$_['entry_backup']     = 'ทำสำรอง';
 
 // Error
-$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุง backups!';
-$_['error_backup']     = 'คำเตือน: You must select at least one table to backup!';
-$_['error_empty']      = 'คำเตือน: The file you uploaded was empty!';
+$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงการทำสำรอง!';
+$_['error_backup']     = 'คำเตือน: คุณต้องเลือกอย่างน้อยหนึ่งตารางในการทำสำรอง!';
+$_['error_empty']      = 'คำเตือน: ไฟล์ที่คุณอัพโหลดนั้นว่างเปล่า!';
