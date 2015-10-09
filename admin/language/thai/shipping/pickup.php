@@ -4,8 +4,8 @@ $_['heading_title']    = 'รับสินค้าเองจากที่
 
 // Text
 $_['text_shipping']    = 'การส่งสินค้า';
-$_['text_success']     = 'สำเร็จ: You have modified pickup from store!';
-$_['text_edit']        = 'Edit Pickup From Store Shipping';
+$_['text_success']     = 'สำเร็จ: คุณได้ปรับปรุงการรับสินค้าเองจากที่ร้านแล้ว!';
+$_['text_edit']        = 'แก้ไขการจัดส่งรับสินค้าเองที่ร้าน';
 
 // Entry
 $_['entry_geo_zone']   = 'โซนภูมิภาค';
@@ -13,4 +13,4 @@ $_['entry_status']     = 'สถานะ';
 $_['entry_sort_order'] = 'เรียงลำดับ';
 
 // Error
-$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุง pickup from store!';
+$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงการจัดส่งรับสินค้าเองที่ร้าน!';

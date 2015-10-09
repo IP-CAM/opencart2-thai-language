@@ -4,8 +4,8 @@ $_['heading_title']    = 'ฟรีค่าจัดส่ง';
 
 // Text
 $_['text_shipping']    = 'การส่งสินค้า';
-$_['text_success']     = 'สำเร็จ: You have modified free shipping!';
-$_['text_edit']        = 'Edit Free Shipping';
+$_['text_success']     = 'สำเร็จ: คุณได้ปรับปรุงฟรีค่าจัดส่งแล้ว!';
+$_['text_edit']        = 'แก้ไขฟรีค่าจัดส่ง';
 
 // Entry
 $_['entry_total']      = 'ทั้งหมด';
@@ -14,7 +14,7 @@ $_['entry_status']     = 'สถานะ';
 $_['entry_sort_order'] = 'เรียงลำดับ';
 
 // Help
-$_['help_total']       = 'Sub-Total amount needed before the free shipping module becomes available.';
+$_['help_total']       = 'จำนวนยอดรวมที่ต้องการก่อนที่จะสามารถใช้ฟรีค่าจัดส่งได้.';
 
 // Error
-$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุง free shipping!';
+$_['error_permission'] = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงฟรีค่าจัดส่ง!';

@@ -11,7 +11,7 @@ $_['text_edit']          = 'Edit Australia Post Shipping';
 $_['entry_postcode']     = 'Post Code';
 $_['entry_express']      = 'Express Postage';
 $_['entry_standard']     = 'Standard Postage';
-$_['entry_display_time'] = 'Display Delivery Time';
+$_['entry_display_time'] = 'แสดงเวลาจัดส่ง';
 $_['entry_weight_class'] = 'หน่วยน้ำหนัก';
 $_['entry_tax_class']    = 'ชนิดภาษี';
 $_['entry_geo_zone']     = 'โซนภูมิภาค';
@@ -19,7 +19,7 @@ $_['entry_status']       = 'สถานะ';
 $_['entry_sort_order']   = 'เรียงลำดับ';
 
 // Help
-$_['help_display_time']  = 'Do you want to display the shipping time? (ตย. Ships within 3 to 5 days)';
+$_['help_display_time']  = 'คุณต้องการแสดงเวลาจัดส่งหรือไม่? (ตย. จัดส่งภายใน 3 ถึง 5 วัน)';
 $_['help_weight_class']  = 'Set to grams.';
 
 // Error

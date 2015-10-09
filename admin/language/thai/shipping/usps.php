@@ -62,8 +62,8 @@ $_['entry_dimension']       = 'ขนาด (ยาว x กว้าง x ส�
 $_['entry_length']          = 'ความยาว';
 $_['entry_height']          = 'ความสูง';
 $_['entry_width']           = 'ความกว้าง';
-$_['entry_display_time']    = 'Display Delivery Time';
-$_['entry_display_weight']  = 'Display Delivery Weight';
+$_['entry_display_time']    = 'แสดงเวลาจัดส่ง';
+$_['entry_display_weight']  = 'แสดงน้ำหนักจัดส่ง';
 $_['entry_weight_class']    = 'หน่วยน้ำหนัก';
 $_['entry_tax']             = 'ชนิดภาษี';
 $_['entry_geo_zone']        = 'โซนภูมิภาค';
@@ -73,8 +73,8 @@ $_['entry_debug']      		= 'โหมดดีบัก';
 
 // Help
 $_['help_dimension']        = 'Average package dimensions for shipping package. Product dimensions are not used for shipping at this time.';
-$_['help_display_time']     = 'Do you want to display the shipping time? (ตย. Ships within 3 to 5 days)';
-$_['help_display_weight']   = 'Do you want to display the shipping weight? (ตย. Delivery Weight : 2.7674 kg)';
+$_['help_display_time']     = 'คุณต้องการแสดงเวลาจัดส่งหรือไม่? (ตย. จัดส่งภายใน 3 ถึง 5 วัน)';
+$_['help_display_weight']   = 'คุณต้องการแสดงน้ำหนักจัดส่งหรือไม่? (ตย. น้ำหนักจัดส่ง : 2.7674 กก.)';
 $_['help_weight_class']     = 'Must be set to Pound.';
 $_['help_debug']      		= 'Saves send/recv data to the system log';
 

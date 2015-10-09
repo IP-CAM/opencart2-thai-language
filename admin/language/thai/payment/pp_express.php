@@ -66,7 +66,7 @@ $_['help_currency']					 = 'ใช้สำหรับแปลการค้�
 // Error
 $_['error_permission']				 = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงการชำระเงิน PayPal Express Checkout!';
 $_['error_username']				 = 'ต้องการ API Username!';
-$_['error_password']				 = 'ต้องการ API Password!';
+$_['error_password']				 = 'ต้องการ APIรหัสผ่าน!';
 $_['error_signature']				 = 'ต้องการ API Signature!';
 $_['error_sandbox_username']	 	 = 'ต้องการ API Sandbox Username!';
 $_['error_sandbox_password']		 = 'ต้องการ API Sandbox Password!';

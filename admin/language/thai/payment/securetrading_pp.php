@@ -42,7 +42,7 @@ $_['error_site_reference'] = 'ต้องการ Site Reference';
 $_['error_notification_password'] = 'ต้องการ Notification password';
 $_['error_cards_accepted'] = 'ต้องการ Accepted cards';
 $_['error_username'] = 'ต้องการ Username';
-$_['error_password'] = 'ต้องการ Password';
+$_['error_password'] = 'ต้องการรหัสผ่าน';
 $_['error_connection'] = 'Could not connect to Secure Trading';
 $_['error_data_missing'] = 'Data missing';
 

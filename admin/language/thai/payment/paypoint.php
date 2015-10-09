@@ -13,7 +13,7 @@ $_['text_fail']						= 'Always Fail';
 
 // Entry
 $_['entry_merchant']				= 'รหัสผู้ค้า';
-$_['entry_password']				= 'Remote Password';
+$_['entry_password']				= 'Remoteรหัสผ่าน';
 $_['entry_test']					= 'โหมดทดสอบ';
 $_['entry_total']					= 'ทั้งหมด';
 $_['entry_order_status']			= 'สถานะการสั่งซื้อ';

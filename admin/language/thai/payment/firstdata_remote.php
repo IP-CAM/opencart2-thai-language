@@ -82,7 +82,7 @@ $_['button_void']					= 'โมฆะ';
 // Error
 $_['error_merchant_id']				= 'ต้องการ รหัสร้านค้า';
 $_['error_user_id']					= 'ต้องการ User ID';
-$_['error_password']				= 'ต้องการ Password';
+$_['error_password']				= 'ต้องการรหัสผ่าน';
 $_['error_certificate']				= 'ต้องการ Certificate path';
 $_['error_key']						= 'ต้องการ Certificate key';
 $_['error_key_pw']					= 'ต้องการ Certificate key password';
