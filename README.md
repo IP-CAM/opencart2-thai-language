@@ -1,3 +1,5 @@
+This project is no longer maintained.
+
 # OpenCart 2 Thai Language
 This is OpenCart v.2 Thai translation on both admin (back-end) and catalog (front-end).
 
