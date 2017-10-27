@@ -8,7 +8,7 @@ $_['text_all_status']       = 'สถานะทั้งหมด';
 
 // Column
 $_['column_customer']       = 'ชื่อลูกค้า';
-$_['column_email']          = 'อีเมลล์';
+$_['column_email']          = 'อีเมล';
 $_['column_customer_group'] = 'กลุ่มลูกค้า';
 $_['column_status']         = 'สถานะ';
 $_['column_orders']         = 'หมายเลขสั่งซื้อ';

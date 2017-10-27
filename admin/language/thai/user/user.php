@@ -21,7 +21,7 @@ $_['entry_password']   	= 'รหัสผ่าน';
 $_['entry_confirm']    	= 'ยืนยัน';
 $_['entry_firstname']  	= 'ชื่อ';
 $_['entry_lastname']   	= 'นามสกุล';
-$_['entry_email']      	= 'อีเมลล์';
+$_['entry_email']      	= 'อีเมล';
 $_['entry_image']      	= 'รูปภาพ';
 $_['entry_status']     	= 'สถานะ';
 
