@@ -7,7 +7,7 @@ $_['text_card_type']			= 'ประเภทบัตร: ';
 $_['text_card_name']			= 'ชื่อบัตร: ';
 $_['text_card_digits']			= 'ตัวเลขตัวสุดท้าย: ';
 $_['text_card_expiry']			= 'หมดอายุ: ';
-$_['text_transaction_error']	= 'พบข้อผิดพลาดในการดำเนินการทำธุรกรรมของคุณ - ';
+$_['text_transaction_error']	= 'พบข้อผิดพลาดในการทำธุรกรรมของคุณ - ';
 
 // Entry
 $_['entry_card']				= 'บัตรใหม่หรือที่มีอยู่: ';
@@ -24,5 +24,5 @@ $_['entry_cc_city']				= 'เมือง';
 $_['entry_cc_state']			= 'รัฐ';
 $_['entry_cc_zipcode']			= 'รหัสไปรษณีย์';
 $_['entry_cc_phone']			= 'โทรศัพท์';
-$_['entry_cc_email']			= 'อีเมลล์';
+$_['entry_cc_email']			= 'อีเมล';
 $_['entry_cc_choice']			= 'เลือกบัตรที่มีอยู่';

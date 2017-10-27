@@ -15,7 +15,7 @@ $_['text_bank']                 = 'โอนเงิน';
 
 // Column
 $_['column_name']               = 'ชื่อพันธมิตร';
-$_['column_email']              = 'อีเมลล์';
+$_['column_email']              = 'อีเมล';
 $_['column_code']               = 'รหัสติดตาม';
 $_['column_balance']            = 'งบดุล';
 $_['column_status']             = 'สถานะ';
@@ -28,7 +28,7 @@ $_['column_action']             = 'การทำงาน';
 // Entry
 $_['entry_firstname']           = 'ชื่อ';
 $_['entry_lastname']            = 'นามสกุล';
-$_['entry_email']               = 'อีเมลล์';
+$_['entry_email']               = 'อีเมล';
 $_['entry_telephone']           = 'โทรศัพท์';
 $_['entry_fax']                 = 'แฟ็กซ์';
 $_['entry_status']              = 'สถานะ';
@@ -47,7 +47,7 @@ $_['entry_commission']          = 'คอมมิชชั่น (%)';
 $_['entry_tax']                 = 'รหัสภาษี';
 $_['entry_payment']             = 'วิธีการชำระเงิน';
 $_['entry_cheque']              = 'ชื่อผู้รับเงิน';
-$_['entry_paypal']              = 'บัญชีอีเมลล์ PayPal';
+$_['entry_paypal']              = 'บัญชีอีเมล PayPal';
 $_['entry_bank_name']           = 'ชื่อธนาคาร';
 $_['entry_bank_branch_number']  = 'ตัวเลข ABA / BSB (เลขสาขา)';
 $_['entry_bank_swift_code']     = 'รหัส SWIFT';
@@ -65,12 +65,12 @@ $_['help_commission']           = 'เปอร์เซ็นต์ที่พ
 
 // Error
 $_['error_permission']          = 'คำเตือน: คุณไม่ได้รับอนุญาตให้ปรับปรุงพันธมิตร!';
-$_['error_exists']              = 'คำเตือน: ที่อยู่อีเมลล์ได้ถูกลงทะเบียนแล้ว!';
+$_['error_exists']              = 'คำเตือน: ที่อยู่อีเมลได้ถูกลงทะเบียนแล้ว!';
 $_['error_firstname']           = 'ชื่อต้องมีอักขระตั้งแต่ 1 ถึง 32 ตัวอักษร!';
 $_['error_lastname']            = 'นามสกุลต้องมีอักขระตั้งแต่ 1 ถึง 32 ตัวอักษร!';
-$_['error_email']               = 'ที่อยู่อีเมลล์ไม่ถูกต้อง!';
+$_['error_email']               = 'ที่อยู่อีเมลไม่ถูกต้อง!';
 $_['error_cheque']              = 'ต้องการชื่อผู้รับเช็ค!';
-$_['error_paypal']              = 'อีเมลล์ PayPal ไม่ถูกต้อง!!';
+$_['error_paypal']              = 'อีเมล PayPal ไม่ถูกต้อง!!';
 $_['error_bank_account_name']   = 'ต้องการชื่อบัญชี!';
 $_['error_bank_account_number'] = 'ต้องการเลขที่บัญชี!';
 $_['error_telephone']           = 'โทรศัพท์ต้องมีอักขระตั้งแต่ 3 ถึง 128 ตัวอักษร!';

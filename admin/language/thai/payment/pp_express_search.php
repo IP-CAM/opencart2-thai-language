@@ -5,7 +5,7 @@ $_['heading_title']					= 'ค้นหาการทำธุรกรรม';
 // Column
 $_['tbl_column_date']				= 'วันที่';
 $_['tbl_column_type']				= 'ประเภท';
-$_['tbl_column_email']				= 'อีเมลล์';
+$_['tbl_column_email']				= 'อีเมล';
 $_['tbl_column_name']				= 'ชื่อ';
 $_['tbl_column_transid']			= 'รหัสการทำธุรกรรม';
 $_['tbl_column_status']				= 'สถานะ';
@@ -51,7 +51,7 @@ $_['entry_date_to']					= 'ถึง';
 $_['entry_transaction']				= 'การทำธุรกรรม';
 $_['entry_transaction_type']		= 'ประเภท';
 $_['entry_transaction_status']		= 'สถานะ';
-$_['entry_email']					= 'อีเมลล์';
+$_['entry_email']					= 'อีเมล';
 $_['entry_email_buyer']				= 'ผู้ซื้อ';
 $_['entry_email_merchant']			= 'ผู้รับ';
 $_['entry_receipt']					= 'รหัสผู้รับ';

@@ -26,5 +26,5 @@ $_['entry_cc_city']				= 'เมือง';
 $_['entry_cc_state']			= 'รัฐ';
 $_['entry_cc_zipcode']			= 'รหัสไปรษณีย์';
 $_['entry_cc_phone']			= 'โทรศัพท์';
-$_['entry_cc_email']			= 'อีเมลล์';
+$_['entry_cc_email']			= 'อีเมล';
 $_['entry_cc_choice']			= 'เลือกบัตรที่มีอยู่';
